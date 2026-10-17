@@ -2,7 +2,9 @@
 
 Standalone `.agentpet` packs for [Agent Pet](https://github.com/WindyWin/vpet-agent-pet).
 Download a pack from [Releases](https://github.com/WindyWin/agent-pet-gallery/releases),
-then use Settings → Pet → Import and review its terms. Requires the phase 2 pack importer.
+then use Settings → Pet → Import and review its terms. Requires an Agent Pet build
+with the phase 4 gallery migration ([app PR #111](https://github.com/WindyWin/vpet-agent-pet/pull/111)).
+Older builds still reserve these pet ids in their artwork index and reject their import.
 
 | Pet | Artwork terms | Distribution decision |
 | --- | --- | --- |
@@ -21,7 +23,7 @@ terms and have not been independently verified.
 
 ## Build and publish
 
-On Linux, with a phase 2 compatible `agent-pet` binary:
+On Linux, with the phase 4 VPet-only `agent-pet` binary:
 
 ```bash
 python scripts/verify_assets.py
