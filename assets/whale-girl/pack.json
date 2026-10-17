@@ -1,0 +1,12 @@
+{
+  "kind": "pet",
+  "id": "whale-girl",
+  "name": "Whale Girl",
+  "author": "上善无形 / ZipZipPipe; animation: Multimodal-AI-Companion",
+  "license": "CC-BY-NC-SA-4.0",
+  "version": "1.0.0",
+  "schema": 2,
+  "minAppVersion": "0.17.0",
+  "terms": "licenses/WHALE-GIRL-ARTWORK-TERMS.md",
+  "source": "agent-pet-gallery"
+}
