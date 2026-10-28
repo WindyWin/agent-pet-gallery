@@ -28,7 +28,7 @@ RESERVED_TEXT = 'a name Windows reserves (CON, PRN, AUX, NUL, COM0-9 or LPT0-9, 
 PET_KEYS = {'schema_version', 'id', 'name', 'author', 'url', 'terms', 'preview'}
 CATALOG_SCHEMA = 2  # scripts/migrate_catalog.py brings older catalogs up to it.
 CUES = json.loads((ROOT / 'src/animation/cues.json').read_text(encoding='utf-8'))['cues']
-METADATA = {'pack.json', 'pet.json', 'animations.json', 'manifest.json', 'available-animations.json'}
+METADATA = {'pet.json', 'pack.json', 'animations.json', 'manifest.json', 'available-animations.json'}
 
 
 def png_size(path):
@@ -146,7 +146,7 @@ def check_files(folder, assets, pet, animations, errors):
 
 
 def check_catalog(animations, errors):
-    """Playback rules: timing, states, variants, moods, cues, fidgets, touch, moves and activity."""
+    """Playback rules: timing, states, variants, moods, bedtime, cues, fidgets, touch, moves and activity."""
     if animations.get('schema_version') != CATALOG_SCHEMA:
         errors.append(f'Catalog schema_version must be {CATALOG_SCHEMA}; run scripts/migrate_catalog.py')
     for sequence in animations['sequences']:
@@ -203,6 +203,26 @@ def check_catalog(animations, errors):
                 if not count(choice.get('weight')):
                     errors.append(f'Invalid mood weight: {mood}/{state}')
                 used.update(paths)
+    bedtime = animations.get('bedtime', {})
+    if not isinstance(bedtime, dict):
+        errors.append('Invalid bedtime section')
+        bedtime = {}
+    for state, choices in bedtime.items():
+        if state not in animations['states'] or not isinstance(choices, list) or not choices:
+            errors.append(f'Bedtime art for an unknown or empty state: {state}')
+            continue
+        for choice in choices:
+            if not isinstance(choice, dict):
+                errors.append(f'Invalid bedtime choice: {state}')
+                continue
+            paths = choice.get('sequences', [])
+            if (not isinstance(paths, list) or len(paths) != len(animations['states'][state])
+                    or any(not isinstance(path, str) or path not in bundled_sequences for path in paths)):
+                errors.append(f'Invalid bedtime sequences: {state}')
+                continue
+            if not count(choice.get('weight')) or choice['weight'] > 1000:
+                errors.append(f'Invalid bedtime weight: {state}')
+            used.update(paths)
     owners = {}
     for state, paths in animations['states'].items():
         for path in paths:
@@ -216,6 +236,13 @@ def check_catalog(animations, errors):
             for choice in choices:
                 for path in choice.get('sequences', []):
                     owners.setdefault(path, set()).add(state)
+    for state, choices in bedtime.items():
+        if isinstance(choices, list):
+            for choice in choices:
+                if isinstance(choice, dict) and isinstance(choice.get('sequences'), list):
+                    for path in choice['sequences']:
+                        if isinstance(path, str):
+                            owners.setdefault(path, set()).add(state)
 
     def ends_itself(state):
         policy = animations.get('playback', {}).get(state, {})
@@ -257,6 +284,24 @@ def check_catalog(animations, errors):
     if ambient.get('fidgets') and all(fidget.get('rare') for fidget in ambient['fidgets']):
         errors.append('Ambient needs at least one non-rare fidget')
 
+    if 'routine' in ambient:
+        routine = ambient['routine']
+        if not isinstance(routine, list) or not routine or len(routine) > 100 or len(routine) % 2:
+            errors.append('Ambient routine must alternate idle and fidget steps')
+        else:
+            for index, step in enumerate(routine):
+                if not isinstance(step, dict):
+                    errors.append('Invalid ambient routine step')
+                    continue
+                state, paths, repeat = step.get('state'), step.get('sequences'), step.get('repeat')
+                choices = [animations['states'].get(state)] + [v.get('sequences') for v in animations.get('variants', {}).get(state, [])]
+                mode = animations.get('playback', {}).get(state, {}).get('mode')
+                if ((state == 'idle') != (index % 2 == 0) or (state != 'idle' and state not in seen)
+                        or paths not in choices or not isinstance(paths, list) or not paths
+                        or not count(repeat) or repeat > 100
+                        or (state == 'idle' and mode != 'loop') or (mode == 'once' and repeat != 1)):
+                    errors.append(f'Invalid ambient routine step: {state}')
+
     # Touch reactions are held until released: phased states whose loop has no count. Hit boxes and
     # edge lines are in the artwork's own square space of `scale` units.
     def held(state):
@@ -272,6 +317,8 @@ def check_catalog(animations, errors):
             scale = 0
         for region in touch.get('regions', []):
             rect = region.get('rect')
+            if 'tap' in region and not isinstance(region['tap'], bool):
+                errors.append(f'Invalid touch tap flag: {region.get("state")}')
             if not held(region.get('state')):
                 errors.append(f'Touch region must hold a phased state until released: {region.get("state")}')
             if (not isinstance(rect, list) or len(rect) != 4 or not all(count(value, 0) for value in rect)
@@ -351,6 +398,17 @@ def check_catalog(animations, errors):
             continue
         others = set(activity) - {state}
         valid = 'loops' not in entry or pool(state, entry['loops'], styled=True)
+        if 'sustained' in entry:
+            sustained = entry['sustained']
+            valid = (valid and isinstance(sustained, dict) and count(sustained.get('after_ms'))
+                     and sustained['after_ms'] <= 60000 and claim(state, sustained.get('sequence')))
+            if isinstance(sustained, dict):
+                if 'loop' in sustained:
+                    valid = claim(state, sustained['loop']) and valid
+                if 'resume' in sustained:
+                    resume = sustained['resume']
+                    valid = (valid and 'loop' in sustained and isinstance(resume, dict)
+                             and all(source in others and claim(state, path) for source, path in resume.items()))
         if 'enter' in entry:
             enter = entry['enter']
             valid = (valid and isinstance(enter, dict) and isinstance(enter.get('from'), list) and bool(enter['from'])
@@ -370,11 +428,29 @@ def check_catalog(animations, errors):
             handover = entry['handover']
             valid = (valid and isinstance(handover, dict) and bool(handover)
                      and all(target in others and claim(state, path) for target, path in handover.items()))
+        if 'continuity' in entry:
+            visual = entry['continuity']
+            if not isinstance(visual, dict):
+                valid = False
+            else:
+                sources = visual.get('sources', [])
+                valid = (valid and isinstance(sources, list) and bool(sources)
+                         and all(claim(state, path) for path in sources))
+                landings = visual.get('landings', {})
+                valid = (valid and isinstance(landings, dict)
+                         and all(claim(state, path) and target in sources for path, target in landings.items()))
+                if 'exit' in visual:
+                    valid = claim(state, visual['exit']) and valid
+                overrides = visual.get('overrides', {})
+                valid = (valid and isinstance(overrides, dict)
+                         and all(source in sources and isinstance(targets, dict)
+                                 and all(target in others and claim(state, path) for target, path in targets.items())
+                                 for source, targets in overrides.items()))
         if not valid:
             errors.append(f'Invalid activity: {state}')
 
     if used != bundled_sequences:
-        errors.append('State, variant, mood and activity maps do not cover the bundled sequences')
+        errors.append('State, variant, mood, bedtime and activity maps do not cover the bundled sequences')
     for sequence in animations['sequences']:
         if sequence.get('state') not in owners.get(sequence['path'], set()):
             errors.append(f'Sequence names no state that uses it: {sequence["path"]}')

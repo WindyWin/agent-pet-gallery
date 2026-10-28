@@ -1,0 +1,13 @@
+{
+  "kind": "plugin",
+  "id": "doro-events",
+  "name": "Doro Events",
+  "author": "Menyou (emoji.gg uploader); original artists unverified",
+  "license": "LicenseRef-EmojiGG-Basic",
+  "version": "1.0.0",
+  "schema": 2,
+  "minAppVersion": "0.18.7",
+  "terms": "licenses/DORO-ARTWORK-TERMS.md",
+  "source": "emoji.gg reviewed collection",
+  "pet": "doro"
+}

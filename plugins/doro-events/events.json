@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "rules": [
+    {
+      "on": "break-buddy",
+      "state": "doro-events.trigger_break_buddy_1",
+      "weight": 1
+    },
+    {
+      "on": "break-buddy",
+      "state": "doro-events.trigger_break_buddy_2",
+      "weight": 1
+    },
+    {
+      "on": "break-buddy",
+      "state": "doro-events.trigger_break_buddy_3",
+      "weight": 1
+    },
+    {
+      "on": "custom:deploy_succeeded",
+      "state": "doro-events.custom_deploy_succeeded_1",
+      "weight": 1,
+      "cooldown_ms": 10000
+    },
+    {
+      "on": "custom:tests_failed",
+      "state": "doro-events.custom_tests_failed_1",
+      "weight": 1,
+      "cooldown_ms": 10000
+    },
+    {
+      "on": "custom:build_succeeded",
+      "state": "doro-events.custom_build_succeeded_1",
+      "weight": 1,
+      "cooldown_ms": 10000
+    }
+  ]
+}

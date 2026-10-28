@@ -1,0 +1,3392 @@
+{
+  "schema_version": 1,
+  "pack_id": "doro",
+  "purpose": "animation-review-plan-not-installable-pack",
+  "updated_at": "2026-10-28T14:59:53.879Z",
+  "custom_slots": [],
+  "assignments": {
+    "cue:idle": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "25686-doro.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "97493-dorowiggle.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:waiting": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "15496-dororest.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "52020-dorobored.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:thinking": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "7584-dorothink.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "32500-dorothink3.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:reading": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "85354-doronewspaper.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:searching": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "34346-doroscope.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:editing": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "24320-dorohacker1.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:executing": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "10280-dorobutton.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "6987-dorohacker.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:browsing": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "60640-dorphone.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "85354-doronewspaper.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "24320-dorohacker1.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:delegating": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "7020-doropoint.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "89022-dorohifivea.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "56490-doropoint4.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:working": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "10280-dorobutton.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "24320-dorohacker1.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:attention": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "28447-doropingintensify.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "28738-doropleading.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:exhausted": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "1965-deaddoro.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:error": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "15496-doroshock.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "20246-dorosurprised.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "83755-dorospit.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:turn-finished": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "97824-dorothumbs.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "83517-doroclap.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "32749-doroapproves.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:turn-start": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "48835-dorpeace.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "59077-dorojump.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "32749-doroapproves.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:inactive": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "34346-dorozzz.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:nap": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "34346-dorozzz.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "15496-dororest.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:start": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "59077-dorojump.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "43658-dorospiderb.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "78938-dorospiderc.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:quit": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "56490-doroflop1.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "72024-dorobeg.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "92580-dorolurk.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:annoyed": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "97493-doroangry.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "28447-doromanhole.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "24893-doroshootsyou.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "23355-doroslap.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:quit-angry": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "1965-deaddoro.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "23355-doroslap.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:drag": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "89551-dorochokehold.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:celebrate": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "83517-doroclap.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "13574-doromexican.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:snack": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "55616-doromunch.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "24893-dorogun1.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "60750-dorotwerk1.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:milestone": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "41859-doroparty.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:long-turn": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "54998-dorodance.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:birthday": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "41859-doroparty.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "59123-dorowine.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:may20": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "31657-dorolove.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "15496-dorobunny.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "54998-dorodance.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "97590-dorodance1.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:friday-evening": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "97590-dorodance1.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "68169-dorobounce.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "72024-dorodriftb.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "46124-dorodrifta.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:late-night": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "10389-distortdoro.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "44751-dorocry1.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:konami": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "56263-dorooiia.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:danger": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "15496-doroshock.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "74284-dorowall.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "67217-dorosurprised1.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "16303-dorogun.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:movement-break": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "68169-dorobounce.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "65435-doroparty2.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "84509-dororun.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "91105-doroskate.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "89685-dorowhip.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:monday": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "52020-dorobored.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "76104-dorocry2.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "44751-dorocry1.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "74032-dorostairs.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:lunch": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "55616-doromunch.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "97586-dorokfc1.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:leave-work": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "1965-dorowalk.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "94441-dorobomb.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "72024-dorodriftb.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "46124-dorodrifta.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:sleep": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "34346-dorozzz.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "74284-dorocover.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "74032-dorostairs.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:eye-break": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "89644-dorolookaway.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "74284-dorocover.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:water": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "62928-dorotea.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "31284-dorolemon.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "cue:reminder-done": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "97824-dorothumbs.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "83517-doroclap.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "7563-dorok.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "32749-doroapproves.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "touch:touch_head": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "10185-doropatfast.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "touch:touch_body": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "97493-dorowiggle.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "86958-doromay.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "10389-dororgbspin.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "touch:pinch": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "84751-dorosquish.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "87075-dorocheeknom.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "83463-dorohifiveb.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "touch:fall_left": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "10389-dororgbspin.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "touch:fall_right": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "56490-doroflop1.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "10389-dororgbspin.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "touch:edge_left": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "92580-dorolurk.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "touch:edge_right": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "92580-dorolurk.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:walk_left": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "1965-dorowalk.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "94441-dorobomb.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:walk_right": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "10389-distortdoro.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "43458-doroduck.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:trot_left": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "84509-dororun.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:trot_right": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "84509-dororun.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:trudge_left": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "10389-dororgbspin.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:trudge_right": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "1965-dorowalk.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:crawl_left": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "16209-dorospider.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:crawl_right": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "16209-dorospider.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:climb_up_left": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "84656-dorospidera.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:climb_down_left": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "84656-dorospidera.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:climb_up_right": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "84656-dorospidera.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "move:climb_down_right": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "84656-dorospidera.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "ambient:glance": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "89644-dorolookaway.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "53567-dorojam2.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "2806-dorohump.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "ambient:bored": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "29913-dorowashing.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "ambient:wiggle": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "97493-dorowiggle.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "ambient:stretch": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "96033-doroflex.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "ambient:play": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "74529-dorojam.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "mood:happy:idle": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "45561-dorohappy.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "mood:happy:working": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "45561-dorohappy.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "mood:happy:turn-finished": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "45561-dorohappy.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "mood:poor:idle": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "69408-doropression.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "mood:poor:working": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "69408-doropression.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "mood:poor:turn-finished": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "69408-doropression.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "bedtime:working": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "10389-redoro.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "74032-dorostairs.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "76104-dorocry2.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "44751-dorocry1.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "48579-dorocry.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "bedtime:turn-finished": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "1965-deaddoro.png",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "10389-distortdoro.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "trigger:break-buddy": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "68169-dorobounce.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "65435-doroparty2.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        },
+        {
+          "asset": "24028-dororgb2.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "custom:deploy_succeeded": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "97824-dorothumbs.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "custom:tests_failed": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "31059-dorosquash.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    },
+    "custom:build_succeeded": {
+      "status": "approved",
+      "entries": [
+        {
+          "asset": "83517-doroclap.gif",
+          "weight": 1,
+          "speed": 1,
+          "hold_ms": 1200,
+          "mirror": false,
+          "background": "auto",
+          "enter_asset": null,
+          "exit_asset": null
+        }
+      ],
+      "notes": "",
+      "say": "",
+      "cooldown_ms": 10000
+    }
+  },
+  "source_assets": [
+    {
+      "id": "1965-deaddoro.png",
+      "file": "originals/1965-deaddoro.png",
+      "sha256": "379266b474af843ca78a89003374b06b0b6271ee522959cc2ab96ee08544af83",
+      "page": "https://emoji.gg/emoji/1965-deaddoro",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "10389-distortdoro.gif",
+      "file": "originals/10389-distortdoro.gif",
+      "sha256": "959252181506a3533090081eba45bc1a88ebc90cc98b36debc9066ed0a08aaa8",
+      "page": "https://emoji.gg/emoji/10389-distortdoro",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "25686-doro.png",
+      "file": "originals/25686-doro.png",
+      "sha256": "5aecb866e2a7f5a1489e3ca90e381e121b75d125eae8510e557e3c8586483f63",
+      "page": "https://emoji.gg/emoji/25686-doro",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "7389-doro.png",
+      "file": "originals/7389-doro.png",
+      "sha256": "efc81b0cedc00051e126aec132ed8e26c266ccf3a1807ed93ba7ee4b5c915742",
+      "page": "https://emoji.gg/emoji/7389-doro",
+      "uploader": "yannie_bells"
+    },
+    {
+      "id": "2910-doroalienrun1.gif",
+      "file": "originals/2910-doroalienrun1.gif",
+      "sha256": "610e523c8ad1944aa4554a49c90768feac7cc33bc1e8df82170807d774f4e829",
+      "page": "https://emoji.gg/emoji/2910-doroalienrun1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "97493-doroangry.png",
+      "file": "originals/97493-doroangry.png",
+      "sha256": "37e30943648d0efe548c7c8fdae029d756b0d71ffef7260c994752583b2ded26",
+      "page": "https://emoji.gg/emoji/97493-doroangry",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "32749-doroapproves.gif",
+      "file": "originals/32749-doroapproves.gif",
+      "sha256": "eda94bb001b952a8bfc1348b28c4163aa3f89de31b0e77d3e9ecb2bfbd7caca9",
+      "page": "https://emoji.gg/emoji/32749-doroapproves",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "14656-dorobeaten.png",
+      "file": "originals/14656-dorobeaten.png",
+      "sha256": "890e819fa0fd445a9436e99dc96caba5dff7b862a72c15876a0fd9455cc7861e",
+      "page": "https://emoji.gg/emoji/14656-dorobeaten",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "72024-dorobeg.png",
+      "file": "originals/72024-dorobeg.png",
+      "sha256": "752690fecf340edcb65da742a6f019d384ab04d1b420ac8742c49d4ff9f8aac5",
+      "page": "https://emoji.gg/emoji/72024-dorobeg",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "33340-dorobikini.png",
+      "file": "originals/33340-dorobikini.png",
+      "sha256": "7e7afd4a0bff2ea33cb20a6e4c74caa2a0cbbea3dc583dee93141a00464101c7",
+      "page": "https://emoji.gg/emoji/33340-dorobikini",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "5169-doroblank.png",
+      "file": "originals/5169-doroblank.png",
+      "sha256": "b624a9e3b155d0fb343dc4550d6abc642fa995d8c7231b711d7724893e9117a7",
+      "page": "https://emoji.gg/emoji/5169-doroblank",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "94441-dorobomb.gif",
+      "file": "originals/94441-dorobomb.gif",
+      "sha256": "c1328a3b56d9fabc86206d8727c9dcf56fd2d885cab1a0ae8d28ad3f394eba81",
+      "page": "https://emoji.gg/emoji/94441-dorobomb",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "52020-dorobored.png",
+      "file": "originals/52020-dorobored.png",
+      "sha256": "f4b513a03f21bea059dc8342f81a6433b3419cba3c408c87b371e8921d6c2a9a",
+      "page": "https://emoji.gg/emoji/52020-dorobored",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "68169-dorobounce.gif",
+      "file": "originals/68169-dorobounce.gif",
+      "sha256": "b2836383d7cb145026fbe6e7f4c8499cc975b9f88f2cbde1b69aaffb0f2dc593",
+      "page": "https://emoji.gg/emoji/68169-dorobounce",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "15496-dorobunny.gif",
+      "file": "originals/15496-dorobunny.gif",
+      "sha256": "b13e0365c009a03ba87b6c9541492b38c17c7c6ee6a20507217cef6b9e5f3ca8",
+      "page": "https://emoji.gg/emoji/15496-dorobunny",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "22139-dorobutt.png",
+      "file": "originals/22139-dorobutt.png",
+      "sha256": "0eb9cda207a6e1c4eee1a72921117693bc43c8fbaaba20922a64a531dad99531",
+      "page": "https://emoji.gg/emoji/22139-dorobutt",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "10280-dorobutton.gif",
+      "file": "originals/10280-dorobutton.gif",
+      "sha256": "6055b9ebde0a0c48d1ffbefff6e147ce2d7da47339878c0d6a5fea4c518c7ece",
+      "page": "https://emoji.gg/emoji/10280-dorobutton",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "11984-dorocabbage.png",
+      "file": "originals/11984-dorocabbage.png",
+      "sha256": "997f4979c66d38f8afc036664ce1c5dd09f1fce8f97fa1d2c81a1ecbeaecec1c",
+      "page": "https://emoji.gg/emoji/11984-dorocabbage",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "59077-dorocalvary.gif",
+      "file": "originals/59077-dorocalvary.gif",
+      "sha256": "cc1d712355a7eb48c951fda18bc4a288cdcd9b4e558f099c65489437ce7adf93",
+      "page": "https://emoji.gg/emoji/59077-dorocalvary",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "18410-dorocalvary1.gif",
+      "file": "originals/18410-dorocalvary1.gif",
+      "sha256": "ff49794f9e606f81f9cce678a507e9d95c615d34025a538138dfdaa341fa1575",
+      "page": "https://emoji.gg/emoji/18410-dorocalvary1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "23063-dorocamera.png",
+      "file": "originals/23063-dorocamera.png",
+      "sha256": "d733c5c5d1a2f7b15ed20754d466948d6cb8a06e103b563a2c69c8e3cc771c18",
+      "page": "https://emoji.gg/emoji/23063-dorocamera",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "87075-dorocheeknom.png",
+      "file": "originals/87075-dorocheeknom.png",
+      "sha256": "268907424bf7eb4a2715114f356bffe6b2463e6faf6b2521cbc5e823f75abc53",
+      "page": "https://emoji.gg/emoji/87075-dorocheeknom",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "10185-dorochipichapa.gif",
+      "file": "originals/10185-dorochipichapa.gif",
+      "sha256": "36bbef384b78f9ed6b0556048ba28fa7a5f24f3ff26c9dc02417686edefaf397",
+      "page": "https://emoji.gg/emoji/10185-dorochipichapa",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "89551-dorochokehold.png",
+      "file": "originals/89551-dorochokehold.png",
+      "sha256": "b8c4fc1ee997d599a6a93655d3bd9165ede379dc4fb9e62d20e26da9b8309ec3",
+      "page": "https://emoji.gg/emoji/89551-dorochokehold",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "83517-doroclap.gif",
+      "file": "originals/83517-doroclap.gif",
+      "sha256": "bc420779afae5ed58abd519b3dc29e7433fc23b6ef8e84d67c3af8ebc9001233",
+      "page": "https://emoji.gg/emoji/83517-doroclap",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "10056-doroclosea.png",
+      "file": "originals/10056-doroclosea.png",
+      "sha256": "cc006b618736f548639068eff121a64f5f2d0408589e7ce6ea17cdf7838083e2",
+      "page": "https://emoji.gg/emoji/10056-doroclosea",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "27271-dorocloseb.png",
+      "file": "originals/27271-dorocloseb.png",
+      "sha256": "a34c576c09fc9a8fae00a8395e9f82f4a6d482fb2444faad2db4e878a807626b",
+      "page": "https://emoji.gg/emoji/27271-dorocloseb",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "74284-dorocover.png",
+      "file": "originals/74284-dorocover.png",
+      "sha256": "4ce4dd382be6dbacdc295345723a1139ae4f782926c08a16811eb797ce546a80",
+      "page": "https://emoji.gg/emoji/74284-dorocover",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "48579-dorocry.png",
+      "file": "originals/48579-dorocry.png",
+      "sha256": "269210bfa4c801345fca752de1a2ea3f21abf55c7ae022cd7b19ea3ddbe4512f",
+      "page": "https://emoji.gg/emoji/48579-dorocry",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "44751-dorocry1.png",
+      "file": "originals/44751-dorocry1.png",
+      "sha256": "d93ae359194e612e7cb7b5dfd427baaa858c8304dbd519b70e01277f11c81e6f",
+      "page": "https://emoji.gg/emoji/44751-dorocry1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "76104-dorocry2.png",
+      "file": "originals/76104-dorocry2.png",
+      "sha256": "3da35ac30bde97e1bac1d3a320c2f25de8d95a9653b7b520f0d45f9490c8befa",
+      "page": "https://emoji.gg/emoji/76104-dorocry2",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "54998-dorodance.gif",
+      "file": "originals/54998-dorodance.gif",
+      "sha256": "1fcf89230aff60c332e81457e7be13080ab62a57fcb96fe4a2815408de57671d",
+      "page": "https://emoji.gg/emoji/54998-dorodance",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "97590-dorodance1.gif",
+      "file": "originals/97590-dorodance1.gif",
+      "sha256": "c308bf658354a3acca5082b3b92001b13ff01a426d26e09348076455074a79df",
+      "page": "https://emoji.gg/emoji/97590-dorodance1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "20117-doroderp.png",
+      "file": "originals/20117-doroderp.png",
+      "sha256": "199f74907dec08624b1f383ffa9a3b645482bb70baec55584a8ba43b7876963f",
+      "page": "https://emoji.gg/emoji/20117-doroderp",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "46124-dorodrifta.gif",
+      "file": "originals/46124-dorodrifta.gif",
+      "sha256": "85f431b62c5bdd10dd900f1625995d2c6594890fe30e8ce42753a67902f4509c",
+      "page": "https://emoji.gg/emoji/46124-dorodrifta",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "72024-dorodriftb.gif",
+      "file": "originals/72024-dorodriftb.gif",
+      "sha256": "a2c6a6e8795228ed32b48b572462a451fb452dfc01f56add762c4697d00b5033",
+      "page": "https://emoji.gg/emoji/72024-dorodriftb",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "79937-dorodrool.png",
+      "file": "originals/79937-dorodrool.png",
+      "sha256": "25bdd6d4a561018ce57554ce51fc24108f1552854226fe1d03b4b7649f167335",
+      "page": "https://emoji.gg/emoji/79937-dorodrool",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "43458-doroduck.gif",
+      "file": "originals/43458-doroduck.gif",
+      "sha256": "f0e7f3a17e7e147f00e90114f3cb7f5c6865bb47a16a116a0d360e853463365a",
+      "page": "https://emoji.gg/emoji/43458-doroduck",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "1708-doroeat.gif",
+      "file": "originals/1708-doroeat.gif",
+      "sha256": "e16142417b53ca637b93b113171e1d3c33f876b9870bda1ce966bbb1aee2619e",
+      "page": "https://emoji.gg/emoji/1708-doroeat",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "60750-dorofish1.gif",
+      "file": "originals/60750-dorofish1.gif",
+      "sha256": "012e168c929ea7ca53323771e4b851c69adbc38b56d09c17b8d81ab7c4e8ec18",
+      "page": "https://emoji.gg/emoji/60750-dorofish1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "46151-doroflap.gif",
+      "file": "originals/46151-doroflap.gif",
+      "sha256": "9b472b096c9f2b4c7e4e7c804ec19df05c4bb613f9275be84fb14ba94db0da19",
+      "page": "https://emoji.gg/emoji/46151-doroflap",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "96033-doroflex.gif",
+      "file": "originals/96033-doroflex.gif",
+      "sha256": "50b0c8771011f5bc21af9b998851e7ceb71ac5992aa986f928a8e3216255c646",
+      "page": "https://emoji.gg/emoji/96033-doroflex",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "37147-doroflop.png",
+      "file": "originals/37147-doroflop.png",
+      "sha256": "3c8b1b34c7c4687fe36a49743250834d07a8293ac8339097c4f6ebb886da5d91",
+      "page": "https://emoji.gg/emoji/37147-doroflop",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "56490-doroflop1.gif",
+      "file": "originals/56490-doroflop1.gif",
+      "sha256": "3a95f67b8437c2eb913cf5b1a22bf0bacaeec669075351e7af42cef0beea5a5f",
+      "page": "https://emoji.gg/emoji/56490-doroflop1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "67306-dorofu.png",
+      "file": "originals/67306-dorofu.png",
+      "sha256": "f596f8053e9f44b063f2fe422d832a028ebcf0b3ffb34df9cee683bfa4329fdf",
+      "page": "https://emoji.gg/emoji/67306-dorofu",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "91804-dorogachi1.png",
+      "file": "originals/91804-dorogachi1.png",
+      "sha256": "d3e98144afe6f3996be49049b648cc38045fa3d606741070a6859c5baed9b8b4",
+      "page": "https://emoji.gg/emoji/91804-dorogachi1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "79937-dorogachi2.png",
+      "file": "originals/79937-dorogachi2.png",
+      "sha256": "c81d43bd0d369e752a100e656c2238c705fb61b9c5abd72eab04191fcb78a8df",
+      "page": "https://emoji.gg/emoji/79937-dorogachi2",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "63411-dorogasp.png",
+      "file": "originals/63411-dorogasp.png",
+      "sha256": "ac751ef322b85bab466b8737669723e517a3e6f9c7b17d9591eea8ef803cf2b9",
+      "page": "https://emoji.gg/emoji/63411-dorogasp",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "84509-dorogrope1.gif",
+      "file": "originals/84509-dorogrope1.gif",
+      "sha256": "8cfb953dca66fa94163d8760243b47aead7bca17d48841dc2fe0e7326d59cddd",
+      "page": "https://emoji.gg/emoji/84509-dorogrope1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "16303-dorogun.gif",
+      "file": "originals/16303-dorogun.gif",
+      "sha256": "8b600c69f644cea29c0ed30045e9d6956762d1f7b0f92addc19a011240d9eadf",
+      "page": "https://emoji.gg/emoji/16303-dorogun",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "24893-dorogun1.gif",
+      "file": "originals/24893-dorogun1.gif",
+      "sha256": "e452f02a0986203841639c6f5df1d67ffdbd040c3f297e8042dc9780b0909f88",
+      "page": "https://emoji.gg/emoji/24893-dorogun1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "35909-dorogyozaa.gif",
+      "file": "originals/35909-dorogyozaa.gif",
+      "sha256": "f8370ee98ad37c56aaf3854a3c373d4fd58b746da9879d7a2a9fbcbd0f8ab461",
+      "page": "https://emoji.gg/emoji/35909-dorogyozaa",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "12104-dorogyozab.gif",
+      "file": "originals/12104-dorogyozab.gif",
+      "sha256": "179dd2bb9a4c627fb5d909180ae184cd6011e634a1be7ef6c67248ac1abce088",
+      "page": "https://emoji.gg/emoji/12104-dorogyozab",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "70224-dorogyozab.gif",
+      "file": "originals/70224-dorogyozab.gif",
+      "sha256": "179dd2bb9a4c627fb5d909180ae184cd6011e634a1be7ef6c67248ac1abce088",
+      "page": "https://emoji.gg/emoji/70224-dorogyozab",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "18612-dorogyozas.gif",
+      "file": "originals/18612-dorogyozas.gif",
+      "sha256": "ac06de32f069a8a0323f1888e8602589cd3dcd2fa316f827199767828f30469a",
+      "page": "https://emoji.gg/emoji/18612-dorogyozas",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "63819-dorogyozas.gif",
+      "file": "originals/63819-dorogyozas.gif",
+      "sha256": "ac06de32f069a8a0323f1888e8602589cd3dcd2fa316f827199767828f30469a",
+      "page": "https://emoji.gg/emoji/63819-dorogyozas",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "6987-dorohacker.gif",
+      "file": "originals/6987-dorohacker.gif",
+      "sha256": "78d666cb0b30b55e3b0d6961004f47debff9ee127f8f8bfafe31ffc4488af72d",
+      "page": "https://emoji.gg/emoji/6987-dorohacker",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "24320-dorohacker1.gif",
+      "file": "originals/24320-dorohacker1.gif",
+      "sha256": "e969b6c2b6f9cda3742d2fb5511d2b85d8c6e2df09dca2dfacb46843ddf8378b",
+      "page": "https://emoji.gg/emoji/24320-dorohacker1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "45561-dorohappy.png",
+      "file": "originals/45561-dorohappy.png",
+      "sha256": "f3d38e704f1dc5eb3adfa5a9d7a0d9148b3c1d16f8d655eb280637f56073cbd7",
+      "page": "https://emoji.gg/emoji/45561-dorohappy",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "2819-dorohead.png",
+      "file": "originals/2819-dorohead.png",
+      "sha256": "0c1449bc5bd9ac37dd6d6a763e1e60178469ada2c72dfe424e68f0f19165f784",
+      "page": "https://emoji.gg/emoji/2819-dorohead",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "65782-doroheart.png",
+      "file": "originals/65782-doroheart.png",
+      "sha256": "ce8e561e3e51a8350963b098d1e5901024ca368b9dcc48580ea09449109f991b",
+      "page": "https://emoji.gg/emoji/65782-doroheart",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "89022-dorohifivea.gif",
+      "file": "originals/89022-dorohifivea.gif",
+      "sha256": "7a616a0e4b62fe24493f1f981f509678de319ddff98b9185bbd723aa8dcdc157",
+      "page": "https://emoji.gg/emoji/89022-dorohifivea",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "83463-dorohifiveb.gif",
+      "file": "originals/83463-dorohifiveb.gif",
+      "sha256": "970bd0cd995ed357240b852e59f5f8b7493273e1f6263b4e45025adf45b11bb3",
+      "page": "https://emoji.gg/emoji/83463-dorohifiveb",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "12152-dorohmm.png",
+      "file": "originals/12152-dorohmm.png",
+      "sha256": "e6e10bd62601569442f6d07b651ba05052c7f444a5c1dd7fd73ab19ee00b062a",
+      "page": "https://emoji.gg/emoji/12152-dorohmm",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "2806-dorohump.gif",
+      "file": "originals/2806-dorohump.gif",
+      "sha256": "08f84d86c53d553a75ea8afca3d015a4b9f51c8bbe84c5831d952ca3bc1be1a6",
+      "page": "https://emoji.gg/emoji/2806-dorohump",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "74529-dorojam.gif",
+      "file": "originals/74529-dorojam.gif",
+      "sha256": "fd0d58e0134ac943fabefaaea13fd05c62b6c30e5f40bc95edf6bb97ab0d61d7",
+      "page": "https://emoji.gg/emoji/74529-dorojam",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "53567-dorojam2.gif",
+      "file": "originals/53567-dorojam2.gif",
+      "sha256": "a38e09d2f049beb0cffd1bc8852698f21ae5787b3650ecb25c6621b04f64f901",
+      "page": "https://emoji.gg/emoji/53567-dorojam2",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "59077-dorojump.gif",
+      "file": "originals/59077-dorojump.gif",
+      "sha256": "56e66ab42ff25810f6c40998b997a74d03ae363ba12595a489c53c1d8056f089",
+      "page": "https://emoji.gg/emoji/59077-dorojump",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "7563-dorok.png",
+      "file": "originals/7563-dorok.png",
+      "sha256": "4d47bb0cae9477a93845af61effebb4e4baabef5008540af18bea212624890cf",
+      "page": "https://emoji.gg/emoji/7563-dorok",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "57609-dorokek.gif",
+      "file": "originals/57609-dorokek.gif",
+      "sha256": "5ccb8cc0d371b4760090e5240e4c9db7db0991d7a803a3286793576820db69a5",
+      "page": "https://emoji.gg/emoji/57609-dorokek",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "26656-dorokek1.gif",
+      "file": "originals/26656-dorokek1.gif",
+      "sha256": "9fe3dffecf07215952711565d6669970df605581856d637ddc4fe728ebdd3b16",
+      "page": "https://emoji.gg/emoji/26656-dorokek1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "97586-dorokfc1.png",
+      "file": "originals/97586-dorokfc1.png",
+      "sha256": "02b34086043c4ff6635a5836c395cc814709b1a2c6066484e94cb3e6a250984e",
+      "page": "https://emoji.gg/emoji/97586-dorokfc1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "41868-dorokissing.png",
+      "file": "originals/41868-dorokissing.png",
+      "sha256": "473d090e50c1a0aafb4dc746adf47489d9c5d128c3fe36ef863b8d3f0ad02c13",
+      "page": "https://emoji.gg/emoji/41868-dorokissing",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "76963-dorokorea.png",
+      "file": "originals/76963-dorokorea.png",
+      "sha256": "7b31998088ad411aa3a61612fe3478dd35109c1943ac99c671b4d2eab0666676",
+      "page": "https://emoji.gg/emoji/76963-dorokorea",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "31284-dorolemon.gif",
+      "file": "originals/31284-dorolemon.gif",
+      "sha256": "6692677b4a37453123af87034eea1e0dcc11c6941b27353b6352ea635e93d22b",
+      "page": "https://emoji.gg/emoji/31284-dorolemon",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "74391-dorolick.gif",
+      "file": "originals/74391-dorolick.gif",
+      "sha256": "454c6d60a07caa95f2dd419ef20ef22d7cefb0f59529d9585b331b1a076906fd",
+      "page": "https://emoji.gg/emoji/74391-dorolick",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "42082-dorolight.png",
+      "file": "originals/42082-dorolight.png",
+      "sha256": "beb3f5784b0d7aa6e54ef7f55618be20e6de234b6fe5a6186c5db07baf0c39f2",
+      "page": "https://emoji.gg/emoji/42082-dorolight",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "89644-dorolookaway.png",
+      "file": "originals/89644-dorolookaway.png",
+      "sha256": "43dc201af27ebedc7e91e6a3c76095353fa20cfca8d10d52facd223ba737a9ee",
+      "page": "https://emoji.gg/emoji/89644-dorolookaway",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "41891-dorolookdown.png",
+      "file": "originals/41891-dorolookdown.png",
+      "sha256": "223ae9141293cf97619541beac18023bea0e86019f26a45286042394b52256c2",
+      "page": "https://emoji.gg/emoji/41891-dorolookdown",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "31657-dorolove.png",
+      "file": "originals/31657-dorolove.png",
+      "sha256": "771198ec1114d2cecc600ed0959fe26ceebc8debb2a48553e406bcea839dc8c7",
+      "page": "https://emoji.gg/emoji/31657-dorolove",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "39735-dorolove1.png",
+      "file": "originals/39735-dorolove1.png",
+      "sha256": "6304bd15cdc3dc80f28898db82c4b8b75f4acdc459a78ed1f4b60fef10308899",
+      "page": "https://emoji.gg/emoji/39735-dorolove1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "92580-dorolurk.png",
+      "file": "originals/92580-dorolurk.png",
+      "sha256": "48ba2429d3bb12861ef8ef803c249cd1c73dc065a1fef9b30fc6b679f1be01bc",
+      "page": "https://emoji.gg/emoji/92580-dorolurk",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "76769-dorolurk4.png",
+      "file": "originals/76769-dorolurk4.png",
+      "sha256": "6997edfd46f787164b93bd433e0d27392f645c684f10fbdf80dce803bfad83e3",
+      "page": "https://emoji.gg/emoji/76769-dorolurk4",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "28447-doromanhole.png",
+      "file": "originals/28447-doromanhole.png",
+      "sha256": "5b7e5ba5107b9b3dd7cb9f5c81fb7f12a5a219a14a71d1b928f7da3f6b044051",
+      "page": "https://emoji.gg/emoji/28447-doromanhole",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "64203-doromask.png",
+      "file": "originals/64203-doromask.png",
+      "sha256": "13a5fbd5d047d70f75204440c8131413944072e4f918d2aac3f985d2c1018e82",
+      "page": "https://emoji.gg/emoji/64203-doromask",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "86958-doromay.gif",
+      "file": "originals/86958-doromay.gif",
+      "sha256": "6b81145db7bb1dff20e1997e1bf1432347787fabe1c455461a7c8b121310cbea",
+      "page": "https://emoji.gg/emoji/86958-doromay",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "79937-doromayspin.gif",
+      "file": "originals/79937-doromayspin.gif",
+      "sha256": "a5be781fab1f852984f0eed6c5b00d6f24fbd9592b2405f0ca08666253be4343",
+      "page": "https://emoji.gg/emoji/79937-doromayspin",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "13574-doromexican.gif",
+      "file": "originals/13574-doromexican.gif",
+      "sha256": "7609f87a9809327c53855ad4bcedabafe1f4828c10fba1b10d02f7a2f23239d3",
+      "page": "https://emoji.gg/emoji/13574-doromexican",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "71953-doromexican1.gif",
+      "file": "originals/71953-doromexican1.gif",
+      "sha256": "ea192da2ae70678cb3ce3e3ca03303a8ce118dd29200fecbcf82b1da23189eaa",
+      "page": "https://emoji.gg/emoji/71953-doromexican1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "55616-doromunch.gif",
+      "file": "originals/55616-doromunch.gif",
+      "sha256": "7a3748eb3653deb1758c82b97674be4307fd8b54452e98c7a693cd8bf4276b65",
+      "page": "https://emoji.gg/emoji/55616-doromunch",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "22947-doromunchpull.gif",
+      "file": "originals/22947-doromunchpull.gif",
+      "sha256": "65c1fd31dd38c5c759e8e734baca1c798f0e872aafd826ad06e82f551c055c68",
+      "page": "https://emoji.gg/emoji/22947-doromunchpull",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "35249-doromunchrock.gif",
+      "file": "originals/35249-doromunchrock.gif",
+      "sha256": "380152b5da45c0f23e6c5e0db6754ab1b82f4f3e90f1d174f7a16d06dab7ad4d",
+      "page": "https://emoji.gg/emoji/35249-doromunchrock",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "7542-doroneko.png",
+      "file": "originals/7542-doroneko.png",
+      "sha256": "ebc08aa1e2ed12f0cec2028e5f75b8ce8aeabeb41e0e3f37c509ee6c41c7109a",
+      "page": "https://emoji.gg/emoji/7542-doroneko",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "85354-doronewspaper.png",
+      "file": "originals/85354-doronewspaper.png",
+      "sha256": "0daa6a949ddc5bf7bffc3644536a160f74465fd560bd2c58429cb30a5ceb227f",
+      "page": "https://emoji.gg/emoji/85354-doronewspaper",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "99731-doronomdor.gif",
+      "file": "originals/99731-doronomdor.gif",
+      "sha256": "2dd5fe9c2c7aecb96fe5a85974e4492e1d599efb8480996185d2dabe3e864ce8",
+      "page": "https://emoji.gg/emoji/99731-doronomdor",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "41868-doronunchi.png",
+      "file": "originals/41868-doronunchi.png",
+      "sha256": "cfd92d29935357df8aacc8fe1e370fb06347aae0e13388164d386380f052fdc9",
+      "page": "https://emoji.gg/emoji/41868-doronunchi",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "56263-dorooiia.gif",
+      "file": "originals/56263-dorooiia.gif",
+      "sha256": "228df8ce32a5dd8085ddf162580cf0568431e8189f518886636521afe0c8d8c1",
+      "page": "https://emoji.gg/emoji/56263-dorooiia",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "41859-doroparty.gif",
+      "file": "originals/41859-doroparty.gif",
+      "sha256": "f43e5bb4462b03809e07ae53f7ac14dbd8127251b06288d87bf15fa07615c800",
+      "page": "https://emoji.gg/emoji/41859-doroparty",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "65435-doroparty2.gif",
+      "file": "originals/65435-doroparty2.gif",
+      "sha256": "a3f6ccb56fec2cec1a0c84d5d986c82a3ea9ec3a24d7b371bfb52a656052f269",
+      "page": "https://emoji.gg/emoji/65435-doroparty2",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "10185-doropatfast.gif",
+      "file": "originals/10185-doropatfast.gif",
+      "sha256": "c6e65a14f1cae0399ceef97b1909fb638f7e9cf11c8fd83236df1397163cf473",
+      "page": "https://emoji.gg/emoji/10185-doropatfast",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "73919-doropensive.png",
+      "file": "originals/73919-doropensive.png",
+      "sha256": "bc5091eb71eb921b214a52398fe24d4fbc150bc4c3a4f01f257e952949b5107a",
+      "page": "https://emoji.gg/emoji/73919-doropensive",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "45958-doroping.png",
+      "file": "originals/45958-doroping.png",
+      "sha256": "c809a7adf9975458082f0a8d212a36d949bcbd64e11d453d235eda22574a82f6",
+      "page": "https://emoji.gg/emoji/45958-doroping",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "28447-doropingintensify.gif",
+      "file": "originals/28447-doropingintensify.gif",
+      "sha256": "b87e63feb7744b3b156b2238c17536a800df03f01038b9f709e5084a7f21f345",
+      "page": "https://emoji.gg/emoji/28447-doropingintensify",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "70613-doropium.png",
+      "file": "originals/70613-doropium.png",
+      "sha256": "902b80eddc03581c21c41b0f0ddf216564ae20483c4a77bf06fbfb389df3e9be",
+      "page": "https://emoji.gg/emoji/70613-doropium",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "28738-doropleading.png",
+      "file": "originals/28738-doropleading.png",
+      "sha256": "b8b31e42d5ae6e42bfaa12d6eb35eb1925cd58919f51b6fd1ddf551f3574cb7d",
+      "page": "https://emoji.gg/emoji/28738-doropleading",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "9433-doropleased.png",
+      "file": "originals/9433-doropleased.png",
+      "sha256": "2afdf36ab7de5da6ff902273672a34de8f4d20f36f86a8abfe5368cbb70fa838",
+      "page": "https://emoji.gg/emoji/9433-doropleased",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "78220-doroplot.gif",
+      "file": "originals/78220-doroplot.gif",
+      "sha256": "af98fea7ef3c94d0be9b765027d5cc848fcde7d0026404796d62aaf48275fcc6",
+      "page": "https://emoji.gg/emoji/78220-doroplot",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "7020-doropoint.gif",
+      "file": "originals/7020-doropoint.gif",
+      "sha256": "c4434e0142181f32b037ea4c31ca2fdcc138002aab4b23816ebbb96cbe69bb13",
+      "page": "https://emoji.gg/emoji/7020-doropoint",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "56490-doropoint4.gif",
+      "file": "originals/56490-doropoint4.gif",
+      "sha256": "b4ea79c0fa00bb2aa96739566cc972e666d68d9c74c602a23be710066d62829c",
+      "page": "https://emoji.gg/emoji/56490-doropoint4",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "1297-doropphard.gif",
+      "file": "originals/1297-doropphard.gif",
+      "sha256": "a19506db1bfb2071018a20aa9e11cf0fbbcc939485ba267d04025ac4ca8aed12",
+      "page": "https://emoji.gg/emoji/1297-doropphard",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "82634-doropray.png",
+      "file": "originals/82634-doropray.png",
+      "sha256": "a0601bfd37a8418849d72613cf3f98b248ff4cfde0a8f67ccf71b83ef2491d6e",
+      "page": "https://emoji.gg/emoji/82634-doropray",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "69408-doropression.png",
+      "file": "originals/69408-doropression.png",
+      "sha256": "44a93d295fba2ff27ca8797dbad41bf2b39a08f95657a6741cccae871c6c83e8",
+      "page": "https://emoji.gg/emoji/69408-doropression",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "9433-dororage.png",
+      "file": "originals/9433-dororage.png",
+      "sha256": "b8e828d37d6854c53c948769b8d840561763dd563d1efb5f7334e644fb3165da",
+      "page": "https://emoji.gg/emoji/9433-dororage",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "3786-dororaora.gif",
+      "file": "originals/3786-dororaora.gif",
+      "sha256": "b88cc26f14a197debce040e06375d50c2d49f45b90abd8d698064dbc11b9acc3",
+      "page": "https://emoji.gg/emoji/3786-dororaora",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "59077-dororaora1.gif",
+      "file": "originals/59077-dororaora1.gif",
+      "sha256": "baf65a21b5b4d721e45f38bdc7c88b37bc58fb130a34166959e707b9a2fc98c3",
+      "page": "https://emoji.gg/emoji/59077-dororaora1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "15496-dororest.png",
+      "file": "originals/15496-dororest.png",
+      "sha256": "a91612056800fc328e04c0d9ce1b37bee5d07fc046d119e290dc81f4abd88c10",
+      "page": "https://emoji.gg/emoji/15496-dororest",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "76769-dororgb.gif",
+      "file": "originals/76769-dororgb.gif",
+      "sha256": "30bc79fa51491d58935fdc58ac5680d5d05d24aa8c9c41dd1d076864a54070c7",
+      "page": "https://emoji.gg/emoji/76769-dororgb",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "24028-dororgb2.gif",
+      "file": "originals/24028-dororgb2.gif",
+      "sha256": "de71f005a4c702d7241106f1a6b95a3ffe8019ce8f429f2a6b55dcb972fbf279",
+      "page": "https://emoji.gg/emoji/24028-dororgb2",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "10389-dororgbspin.gif",
+      "file": "originals/10389-dororgbspin.gif",
+      "sha256": "1c2bbaaabe39e0e2409d74aad57504009a5b9989e5c9b6914b671ed0f795078b",
+      "page": "https://emoji.gg/emoji/10389-dororgbspin",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "84509-dororun.gif",
+      "file": "originals/84509-dororun.gif",
+      "sha256": "e069a129aa0a9c59eafc4eb37f04d7d9cd0fc92aabdf382a583701f202e169e6",
+      "page": "https://emoji.gg/emoji/84509-dororun",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "82083-dororun2.gif",
+      "file": "originals/82083-dororun2.gif",
+      "sha256": "2e32f7e4aeb6e366bd15c534614524bdad5a20ecae9e6c06bf2e19f8e1810279",
+      "page": "https://emoji.gg/emoji/82083-dororun2",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "7542-dorosanta.png",
+      "file": "originals/7542-dorosanta.png",
+      "sha256": "28f8ee9c881855fc199ee17e91a8466a15bc91920f9e8a2dc5af87027d844b21",
+      "page": "https://emoji.gg/emoji/7542-dorosanta",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "85339-dorosays.png",
+      "file": "originals/85339-dorosays.png",
+      "sha256": "4647d70be89eabb432055b76a34dfd0ae28c69140eae83d7cb95f7dfca89c340",
+      "page": "https://emoji.gg/emoji/85339-dorosays",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "34346-doroscope.png",
+      "file": "originals/34346-doroscope.png",
+      "sha256": "d2de6d657aef81e6a34d5ae3371de85d8b2491a41f41d14268f1b911838a2f51",
+      "page": "https://emoji.gg/emoji/34346-doroscope",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "26908-doroshark.png",
+      "file": "originals/26908-doroshark.png",
+      "sha256": "ea20ead0381a439a2fb8ca240f57b7971821f757c8a34ca7436fe9ed17585040",
+      "page": "https://emoji.gg/emoji/26908-doroshark",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "2598-doroshifty.png",
+      "file": "originals/2598-doroshifty.png",
+      "sha256": "b605b17c9fe0a2676d0c64264b060040db1ad63f132005471fd9bf7d3afa5540",
+      "page": "https://emoji.gg/emoji/2598-doroshifty",
+      "uploader": "yannie_bells"
+    },
+    {
+      "id": "7584-doroshikanokoa.gif",
+      "file": "originals/7584-doroshikanokoa.gif",
+      "sha256": "471a078e26419b6cc07e67f12435f2b524b4877ee4afcc771a9985d869fa80e6",
+      "page": "https://emoji.gg/emoji/7584-doroshikanokoa",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "16303-doroshikanokob.gif",
+      "file": "originals/16303-doroshikanokob.gif",
+      "sha256": "547a32f131cd7734788e698a26bee3fdf4f9384f5b57841cd39b3a28b977f05d",
+      "page": "https://emoji.gg/emoji/16303-doroshikanokob",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "15496-doroshock.png",
+      "file": "originals/15496-doroshock.png",
+      "sha256": "0d035d072e899f07aa1a3e42173d1e02f5050c887b5fe40b0846e03a70f5fcc8",
+      "page": "https://emoji.gg/emoji/15496-doroshock",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "24893-doroshootsyou.gif",
+      "file": "originals/24893-doroshootsyou.gif",
+      "sha256": "a1592745f6cd631d9031d33a5c586714b2afea16b9602658ff18f9c93cbe6bff",
+      "page": "https://emoji.gg/emoji/24893-doroshootsyou",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "82634-doroshrimp.png",
+      "file": "originals/82634-doroshrimp.png",
+      "sha256": "128d34553c9871f36eb936be2613a56f8d093e33d35bb2abe63d2f67898df2f4",
+      "page": "https://emoji.gg/emoji/82634-doroshrimp",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "91105-doroskate.gif",
+      "file": "originals/91105-doroskate.gif",
+      "sha256": "f17ee2fde4ec04fac1e51d5516f6f3180f48916fdcd6b428f317c79f18c56096",
+      "page": "https://emoji.gg/emoji/91105-doroskate",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "23355-doroslap.gif",
+      "file": "originals/23355-doroslap.gif",
+      "sha256": "5b8563d46d3e157469fa2384ffcca3e15a30c2e0ed33693590d90c6cfc591494",
+      "page": "https://emoji.gg/emoji/23355-doroslap",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "71812-dorosmug.png",
+      "file": "originals/71812-dorosmug.png",
+      "sha256": "49d512853d0c0f69abd3f1e2f99141f993f3cab396283404e62e860c02020a9e",
+      "page": "https://emoji.gg/emoji/71812-dorosmug",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "13454-dorosmug2.png",
+      "file": "originals/13454-dorosmug2.png",
+      "sha256": "0b5e5e8cb2ddedd7693ea9b4a29895a32e8662f0b95e81f1625b7c6c05f87733",
+      "page": "https://emoji.gg/emoji/13454-dorosmug2",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "99350-dorosob.png",
+      "file": "originals/99350-dorosob.png",
+      "sha256": "9fbd01370e05f9778f407acf6eb6134febda2a9663fbd4e96cf812ce68ae8ce6",
+      "page": "https://emoji.gg/emoji/99350-dorosob",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "1708-dorosob1.gif",
+      "file": "originals/1708-dorosob1.gif",
+      "sha256": "b027b4ee7618afb8bcf1b7bd65922487359a0cc98b7855dd7341f122b6298e4e",
+      "page": "https://emoji.gg/emoji/1708-dorosob1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "86176-dorosparkle.png",
+      "file": "originals/86176-dorosparkle.png",
+      "sha256": "82e0333be9533c251d8b1705a9a42c0cc938a362ff16c92adb76b70537bcc217",
+      "page": "https://emoji.gg/emoji/86176-dorosparkle",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "16209-dorospider.gif",
+      "file": "originals/16209-dorospider.gif",
+      "sha256": "efc3de12c9dc6be84ad0a3a5a423fba3dc44a4ee91133665324db2d7329704b6",
+      "page": "https://emoji.gg/emoji/16209-dorospider",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "84656-dorospidera.gif",
+      "file": "originals/84656-dorospidera.gif",
+      "sha256": "649bb639aee3684a785549b5955088ce566ecd8b7b1204b506ba9118b724d196",
+      "page": "https://emoji.gg/emoji/84656-dorospidera",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "43658-dorospiderb.gif",
+      "file": "originals/43658-dorospiderb.gif",
+      "sha256": "b7933d1e01fd11c76404e074efd66e22c69216a2e3e17feff82c2d2393fb97fc",
+      "page": "https://emoji.gg/emoji/43658-dorospiderb",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "78938-dorospiderc.gif",
+      "file": "originals/78938-dorospiderc.gif",
+      "sha256": "e6aca36bbdb4ccb195296e577070df9753a28293a515e17f6936e3d7348f5c3f",
+      "page": "https://emoji.gg/emoji/78938-dorospiderc",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "31284-dorospin.gif",
+      "file": "originals/31284-dorospin.gif",
+      "sha256": "4c1ef119c4bd8e1e7f8dce4c14c695582b19fc69766735e29aa9d0ee4fe5e9ff",
+      "page": "https://emoji.gg/emoji/31284-dorospin",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "83755-dorospit.png",
+      "file": "originals/83755-dorospit.png",
+      "sha256": "fceac0fa0eed783534220da48617ba3fff01459ee2740812be94848a4d978eb1",
+      "page": "https://emoji.gg/emoji/83755-dorospit",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "31059-dorosquash.gif",
+      "file": "originals/31059-dorosquash.gif",
+      "sha256": "814f4f017623681f522c25b7e4df5cc96254fcc0143693b57a2c838a75b31587",
+      "page": "https://emoji.gg/emoji/31059-dorosquash",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "84751-dorosquish.png",
+      "file": "originals/84751-dorosquish.png",
+      "sha256": "2a72d75b6c53f9beed95a95b85acb462c0bc69d743b41def4dbcc8564145a78e",
+      "page": "https://emoji.gg/emoji/84751-dorosquish",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "74032-dorostairs.gif",
+      "file": "originals/74032-dorostairs.gif",
+      "sha256": "bb0c647d90118ff9048fef2d52220a1c4273c5fa22d499d98f774cd31dcd893c",
+      "page": "https://emoji.gg/emoji/74032-dorostairs",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "31657-dorostare.png",
+      "file": "originals/31657-dorostare.png",
+      "sha256": "148aeb29bc0c7f48dadc7140a4575b653fa9ec55b38ff632dc345bc1ba521057",
+      "page": "https://emoji.gg/emoji/31657-dorostare",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "34848-dorostare1.png",
+      "file": "originals/34848-dorostare1.png",
+      "sha256": "6429f1c387d7094edcc2970101a1a93b9c79d0d9c78d56482a8ee32aeb28a528",
+      "page": "https://emoji.gg/emoji/34848-dorostare1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "60750-dorostarspin.gif",
+      "file": "originals/60750-dorostarspin.gif",
+      "sha256": "df2eefdbe7976209dc6e655100ed70a39205031c0f02e13825ea2de49175f7ef",
+      "page": "https://emoji.gg/emoji/60750-dorostarspin",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "33685-dorosunglasses.png",
+      "file": "originals/33685-dorosunglasses.png",
+      "sha256": "db4294ecb770eb544b382935c91232ef11eda05731b96318d7023ad8d954f39e",
+      "page": "https://emoji.gg/emoji/33685-dorosunglasses",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "78130-dorosupersaiyan.gif",
+      "file": "originals/78130-dorosupersaiyan.gif",
+      "sha256": "7fa0104659be5b4b69af74cc361cca84650dc46f0c9b4bc1abf390151ebeb7df",
+      "page": "https://emoji.gg/emoji/78130-dorosupersaiyan",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "20246-dorosurprised.png",
+      "file": "originals/20246-dorosurprised.png",
+      "sha256": "3c8baa3fe796759c261aa698c71c36f23f2099ce5161b0c76cdaa502c417eda2",
+      "page": "https://emoji.gg/emoji/20246-dorosurprised",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "67217-dorosurprised1.png",
+      "file": "originals/67217-dorosurprised1.png",
+      "sha256": "7c681ee259de80cc3f88a945c3757279933113c552c9a008f24a5a735bdd103d",
+      "page": "https://emoji.gg/emoji/67217-dorosurprised1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "6999-dorosyuen.png",
+      "file": "originals/6999-dorosyuen.png",
+      "sha256": "790f11c5df15b0cfb7e3efe97bf390bf5b6d9517d9042cf2d78f8d0d537f4afc",
+      "page": "https://emoji.gg/emoji/6999-dorosyuen",
+      "uploader": "yannie_bells"
+    },
+    {
+      "id": "62928-dorotea.png",
+      "file": "originals/62928-dorotea.png",
+      "sha256": "d0628f68ae066806916a59ed5466fb8abb8784e9c31726bae6a0fcf6788f23d9",
+      "page": "https://emoji.gg/emoji/62928-dorotea",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "7584-dorothink.gif",
+      "file": "originals/7584-dorothink.gif",
+      "sha256": "ff19a2214fb79184b9f45bd3cf98528147161cd3b661d9e4ecf4e740c39a407a",
+      "page": "https://emoji.gg/emoji/7584-dorothink",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "32500-dorothink3.gif",
+      "file": "originals/32500-dorothink3.gif",
+      "sha256": "23d5ea95ea9f343cbdcd552a74c7e0054b98ac3fbda9cf44d6b609afa26206b9",
+      "page": "https://emoji.gg/emoji/32500-dorothink3",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "97824-dorothumbs.gif",
+      "file": "originals/97824-dorothumbs.gif",
+      "sha256": "eee26b2e5f9084e78abe2b7cbbbec07cf5ffb4ef5288bbddc3ba4d23960743ec",
+      "page": "https://emoji.gg/emoji/97824-dorothumbs",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "60750-dorotwerk1.gif",
+      "file": "originals/60750-dorotwerk1.gif",
+      "sha256": "583453bdc09d6a455d82515d40e54a6024274fdbf86ec1fb84b6460b74db89b0",
+      "page": "https://emoji.gg/emoji/60750-dorotwerk1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "83306-doroveryclose.png",
+      "file": "originals/83306-doroveryclose.png",
+      "sha256": "4906efc120eca474f23df0cee4289dd8ca8377483d90c1201d7ccea9f2dcdae9",
+      "page": "https://emoji.gg/emoji/83306-doroveryclose",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "58354-dorovibe.gif",
+      "file": "originals/58354-dorovibe.gif",
+      "sha256": "4e53618894e34ea0458c8964a150a7d52bc5395ea78b08db85d2e8dd50ea6258",
+      "page": "https://emoji.gg/emoji/58354-dorovibe",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "1965-dorowalk.gif",
+      "file": "originals/1965-dorowalk.gif",
+      "sha256": "003de0ea27fd403f99d754d6fc1e55854174b7e645d1a0417f997e275345493f",
+      "page": "https://emoji.gg/emoji/1965-dorowalk",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "74284-dorowall.gif",
+      "file": "originals/74284-dorowall.gif",
+      "sha256": "68675a540e72e2618b761abbcb10c230c3cc28cf1afedcc0b926e8e0741da1a1",
+      "page": "https://emoji.gg/emoji/74284-dorowall",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "29913-dorowashing.gif",
+      "file": "originals/29913-dorowashing.gif",
+      "sha256": "dcb7770a0411b5af302e1fcc6041b7228319a0f84df23608f03e74481cfcd28e",
+      "page": "https://emoji.gg/emoji/29913-dorowashing",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "31355-dorowhat.png",
+      "file": "originals/31355-dorowhat.png",
+      "sha256": "d769ae5815bb1ade430b410bf96f72cd74076a8aa92b4f65c5519eb928aaff57",
+      "page": "https://emoji.gg/emoji/31355-dorowhat",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "61766-dorowhat1.png",
+      "file": "originals/61766-dorowhat1.png",
+      "sha256": "a06cd2767ea62d8abfccdfb71f7a6a3f9f36001088372d7cc25719eaf8941ee5",
+      "page": "https://emoji.gg/emoji/61766-dorowhat1",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "89685-dorowhip.gif",
+      "file": "originals/89685-dorowhip.gif",
+      "sha256": "ce12b9937f5fabeee5f0fe4b1be8c3c259b1e1d656b8ef82654648a8c3f861fc",
+      "page": "https://emoji.gg/emoji/89685-dorowhip",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "97493-dorowiggle.gif",
+      "file": "originals/97493-dorowiggle.gif",
+      "sha256": "ac11918acaa8deaa1bc6ea31d1034930c31cae1ac8aa718b11c3e61adb93fd44",
+      "page": "https://emoji.gg/emoji/97493-dorowiggle",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "15717-dorowiggle2.gif",
+      "file": "originals/15717-dorowiggle2.gif",
+      "sha256": "cde58dcad601d678441a237c7b3dc2db496041bc99793adc61f8d2da28572e85",
+      "page": "https://emoji.gg/emoji/15717-dorowiggle2",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "59123-dorowine.gif",
+      "file": "originals/59123-dorowine.gif",
+      "sha256": "2bec0a461568be6f1287322e5b674d4cca3496642ff7489e541104d40e7ab3ae",
+      "page": "https://emoji.gg/emoji/59123-dorowine",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "76104-doroxd.png",
+      "file": "originals/76104-doroxd.png",
+      "sha256": "4cae0a3bf7111c4558c5401e1b8a60752a2710aadec42b5c3dd19e6f41ef7da0",
+      "page": "https://emoji.gg/emoji/76104-doroxd",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "34346-dorozzz.gif",
+      "file": "originals/34346-dorozzz.gif",
+      "sha256": "6ce19820c0d756d28aedf4de73f1035acb7d06fcd2213ca6c51db28d6487b8c5",
+      "page": "https://emoji.gg/emoji/34346-dorozzz",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "48835-dorpeace.png",
+      "file": "originals/48835-dorpeace.png",
+      "sha256": "1d92cd2d32c499f7ad6eae04cbad91846238dcd3e0323bc4afc8ef8de76c7384",
+      "page": "https://emoji.gg/emoji/48835-dorpeace",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "60640-dorphone.png",
+      "file": "originals/60640-dorphone.png",
+      "sha256": "9a20421a98ac8f720ca5245c6148b6776b6320ec305f914be8bf8e0999d23048",
+      "page": "https://emoji.gg/emoji/60640-dorphone",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "74517-evadoro.gif",
+      "file": "originals/74517-evadoro.gif",
+      "sha256": "f90a8b81f1f7ffb64d3d458795daa3fb130527fe593aed26759c235831c8dc30",
+      "page": "https://emoji.gg/emoji/74517-evadoro",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "76546-gyozadoro.png",
+      "file": "originals/76546-gyozadoro.png",
+      "sha256": "004704381bdcd4f5125a4007f8c2def7545623855d4271c66e659552b7d7410a",
+      "page": "https://emoji.gg/emoji/76546-gyozadoro",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "647118-lunadoro.png",
+      "file": "originals/647118-lunadoro.png",
+      "sha256": "8d043d2e41f1937d3b445faf2ab493d75b4dcb037dc2ed86b900d3912125f8bf",
+      "page": "https://emoji.gg/emoji/647118-lunadoro",
+      "uploader": "Apurbo Ghosh"
+    },
+    {
+      "id": "36182-matisdoroa.gif",
+      "file": "originals/36182-matisdoroa.gif",
+      "sha256": "5ceafc547b2eb4095e4581846b27c0a1602f3d54998e8480bc80789d837a5e8c",
+      "page": "https://emoji.gg/emoji/36182-matisdoroa",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "12152-matisdorob.gif",
+      "file": "originals/12152-matisdorob.gif",
+      "sha256": "45a181c6753a93d254cad40e45e77ad8cddf9842ee20076770356c5a09d5659e",
+      "page": "https://emoji.gg/emoji/12152-matisdorob",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "50817-matisdoroc.gif",
+      "file": "originals/50817-matisdoroc.gif",
+      "sha256": "789fcafe653fdc92c220a6b803ec466ad317194633617b1811e73b1895a2e08c",
+      "page": "https://emoji.gg/emoji/50817-matisdoroc",
+      "uploader": "Menyou"
+    },
+    {
+      "id": "10389-redoro.gif",
+      "file": "originals/10389-redoro.gif",
+      "sha256": "7038c1951b070a21f7b8c4c86b4130915864c68a7d5c40fb4dc9a8323fa30c4d",
+      "page": "https://emoji.gg/emoji/10389-redoro",
+      "uploader": "Menyou"
+    }
+  ],
+  "contract_sources": [
+    "starter/src/animation/cues.json",
+    "starter/src/animation/triggers.json",
+    "starter/docs/events.md",
+    "starter/docs/pets.md",
+    "starter/docs/plugins.md",
+    "starter/src/animation/easter_eggs.h",
+    "starter/docs/adr/0055-bedtime-animations.md"
+  ]
+}

@@ -15,8 +15,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: WindyWin/vpet-agent-pet
-          # Includes the phase 4 VPet-only index and phase 2 importer; pin validation semantics for reproducibility.
-          ref: bbf7aba90798921b0cee8dc8e6323f56e870c122
+          # Includes tool cues and bedtime art used by the reviewed Doro pack.
+          ref: 7d0bbc1fb670dcf84b84c55261f3c954d6492dde
           path: validator
       - name: Install build tools
         run: sudo apt-get update && sudo apt-get install -y ninja-build zlib1g-dev libarchive-dev libgl-dev libx11-dev libxtst-dev

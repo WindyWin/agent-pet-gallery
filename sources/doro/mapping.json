@@ -1,0 +1,277 @@
+{
+  "review_sha256": "5b7b43603a82e1ff53353481ec796fc06e1afd4e8e6994ac2e43ab582f2bfca9",
+  "canvas": [
+    192,
+    192
+  ],
+  "ground_y": 176,
+  "background_policy": "preserve original pixels and alpha; transparent padding only",
+  "zero_delay_ms": 100,
+  "slot_states": {
+    "cue:idle": [
+      "idle"
+    ],
+    "cue:waiting": [
+      "cue_waiting"
+    ],
+    "cue:thinking": [
+      "cue_thinking"
+    ],
+    "cue:reading": [
+      "cue_reading"
+    ],
+    "cue:searching": [
+      "cue_searching"
+    ],
+    "cue:editing": [
+      "cue_editing"
+    ],
+    "cue:executing": [
+      "cue_executing"
+    ],
+    "cue:browsing": [
+      "cue_browsing"
+    ],
+    "cue:delegating": [
+      "cue_delegating"
+    ],
+    "cue:working": [
+      "cue_working"
+    ],
+    "cue:attention": [
+      "cue_attention"
+    ],
+    "cue:exhausted": [
+      "cue_exhausted"
+    ],
+    "cue:error": [
+      "cue_error"
+    ],
+    "cue:turn-finished": [
+      "cue_turn_finished"
+    ],
+    "cue:turn-start": [
+      "cue_turn_start"
+    ],
+    "cue:inactive": [
+      "cue_inactive"
+    ],
+    "cue:nap": [
+      "cue_nap"
+    ],
+    "cue:start": [
+      "cue_start"
+    ],
+    "cue:quit": [
+      "cue_quit"
+    ],
+    "cue:annoyed": [
+      "cue_annoyed"
+    ],
+    "cue:quit-angry": [
+      "cue_quit_angry"
+    ],
+    "cue:drag": [
+      "cue_drag"
+    ],
+    "cue:celebrate": [
+      "cue_celebrate_1",
+      "cue_celebrate_2"
+    ],
+    "cue:snack": [
+      "cue_snack_1",
+      "cue_snack_2",
+      "cue_snack_3"
+    ],
+    "cue:milestone": [
+      "cue_milestone_1"
+    ],
+    "cue:long-turn": [
+      "cue_long_turn_1"
+    ],
+    "cue:birthday": [
+      "cue_birthday_1",
+      "cue_birthday_2"
+    ],
+    "cue:may20": [
+      "cue_may20_1",
+      "cue_may20_2",
+      "cue_may20_3",
+      "cue_may20_4"
+    ],
+    "cue:friday-evening": [
+      "cue_friday_evening_1",
+      "cue_friday_evening_2",
+      "cue_friday_evening_3",
+      "cue_friday_evening_4"
+    ],
+    "cue:late-night": [
+      "cue_late_night_1",
+      "cue_late_night_2"
+    ],
+    "cue:konami": [
+      "cue_konami_1"
+    ],
+    "cue:danger": [
+      "cue_danger_1",
+      "cue_danger_2",
+      "cue_danger_3",
+      "cue_danger_4"
+    ],
+    "cue:movement-break": [
+      "cue_movement_break_1",
+      "cue_movement_break_2",
+      "cue_movement_break_3",
+      "cue_movement_break_4",
+      "cue_movement_break_5"
+    ],
+    "cue:monday": [
+      "cue_monday_1",
+      "cue_monday_2",
+      "cue_monday_3",
+      "cue_monday_4"
+    ],
+    "cue:lunch": [
+      "cue_lunch_1",
+      "cue_lunch_2"
+    ],
+    "cue:leave-work": [
+      "cue_leave_work_1",
+      "cue_leave_work_2",
+      "cue_leave_work_3",
+      "cue_leave_work_4"
+    ],
+    "cue:sleep": [
+      "cue_sleep_1",
+      "cue_sleep_2",
+      "cue_sleep_3"
+    ],
+    "cue:eye-break": [
+      "cue_eye_break_1",
+      "cue_eye_break_2"
+    ],
+    "cue:water": [
+      "cue_water_1",
+      "cue_water_2"
+    ],
+    "cue:reminder-done": [
+      "cue_reminder_done_1",
+      "cue_reminder_done_2",
+      "cue_reminder_done_3",
+      "cue_reminder_done_4"
+    ],
+    "touch:touch_head": [
+      "touch_touch_head"
+    ],
+    "touch:touch_body": [
+      "touch_touch_body"
+    ],
+    "touch:pinch": [
+      "touch_pinch"
+    ],
+    "touch:fall_left": [
+      "touch_fall_left"
+    ],
+    "touch:fall_right": [
+      "touch_fall_right"
+    ],
+    "touch:edge_left": [
+      "touch_edge_left"
+    ],
+    "touch:edge_right": [
+      "touch_edge_right"
+    ],
+    "move:walk_left": [
+      "move_walk_left"
+    ],
+    "move:walk_right": [
+      "move_walk_right"
+    ],
+    "move:trot_left": [
+      "move_trot_left"
+    ],
+    "move:trot_right": [
+      "move_trot_right"
+    ],
+    "move:trudge_left": [
+      "move_trudge_left"
+    ],
+    "move:trudge_right": [
+      "move_trudge_right"
+    ],
+    "move:crawl_left": [
+      "move_crawl_left"
+    ],
+    "move:crawl_right": [
+      "move_crawl_right"
+    ],
+    "move:climb_up_left": [
+      "move_climb_up_left"
+    ],
+    "move:climb_down_left": [
+      "move_climb_down_left"
+    ],
+    "move:climb_up_right": [
+      "move_climb_up_right"
+    ],
+    "move:climb_down_right": [
+      "move_climb_down_right"
+    ],
+    "ambient:glance": [
+      "ambient_glance"
+    ],
+    "ambient:bored": [
+      "ambient_bored"
+    ],
+    "ambient:wiggle": [
+      "ambient_wiggle"
+    ],
+    "ambient:stretch": [
+      "ambient_stretch"
+    ],
+    "ambient:play": [
+      "ambient_play"
+    ],
+    "trigger:break-buddy": [
+      "doro-events.trigger_break_buddy_1",
+      "doro-events.trigger_break_buddy_2",
+      "doro-events.trigger_break_buddy_3"
+    ],
+    "custom:deploy_succeeded": [
+      "doro-events.custom_deploy_succeeded_1"
+    ],
+    "custom:tests_failed": [
+      "doro-events.custom_tests_failed_1"
+    ],
+    "custom:build_succeeded": [
+      "doro-events.custom_build_succeeded_1"
+    ],
+    "mood:happy:idle": [
+      "idle"
+    ],
+    "mood:happy:working": [
+      "cue_working"
+    ],
+    "mood:happy:turn-finished": [
+      "cue_turn_finished"
+    ],
+    "mood:poor:idle": [
+      "idle"
+    ],
+    "mood:poor:working": [
+      "cue_working"
+    ],
+    "mood:poor:turn-finished": [
+      "cue_turn_finished"
+    ],
+    "bedtime:working": [
+      "cue_working"
+    ],
+    "bedtime:turn-finished": [
+      "cue_turn_finished"
+    ]
+  },
+  "pet_sequences": 88,
+  "unique_pet_pngs": 1103,
+  "plugin_rules": 6
+}

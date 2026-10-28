@@ -1,0 +1,345 @@
+{
+  "schema_version": 2,
+  "sequences": [
+    {
+      "path": "68169-dorobounce-c2c9f351",
+      "state": "doro-events.trigger_break_buddy_1",
+      "frames": [
+        {
+          "path": "frames/336207f0ace693684eb762c1c74763a473b895f927f6df16300f5996718a7da1.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/a852dbd3aa3731cc744fdea749d24a30970ba7d4f68abd2eed452c8ef491a1e2.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "frames/9f350fd7a5a36d96afe39c1a614b5752885db9651db3e5a452fea65e765db264.png",
+          "duration_ms": 90
+        },
+        {
+          "path": "frames/c9c8defb0fdf65ee543288f279df53a31ac09f702df9d3f2ba82af50988e0b11.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "frames/ff6d1e21320d337c33e2066b51b33d4262face26b88f03ffd64ac8b1f40b3fd5.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/4c26a3d99788daabad0fda18d3d1c4b4bc897963c1a2d16c3f8cc28e2f98b69b.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/9295ccd8b48de818b4bfc7b3c29c5673da96c58a1ca89185b9cd0b0c2a09aa5f.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "frames/b79330e045b44e5fe729ee3d9c3d65f4e80e81c518416d3be9e622a7287ebd96.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/dcb5769bb6b36c5501b8008fcde9cc93f2e71ec1a0d16f8d132c96dd7c1ff783.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "frames/e067e3649fa5dd2127e13bb03d587312109d5782db0f5d3bd993f5be4c126efd.png",
+          "duration_ms": 70
+        },
+        {
+          "path": "frames/5e834acfbfb46c750ac20cd0d21c4b09ee659d42a18117c7d5422fbad6922cde.png",
+          "duration_ms": 90
+        },
+        {
+          "path": "frames/ae6baa6fdb5c976eb737856be8798e001cc35a61e598680fbb6a7e048a5f9028.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/1a8ca70a1ebe411374a1e5c344b06624fe539cb55d22f3b1bfbd0ab0fc4cc02f.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/6b15940abe0ad0971d4bb984825581610a7f5a55ec85cb58be8092cb6e0c5388.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "frames/c57984a0da481f610babd5b9061c5aabba9463cbf5d47758016ef5d6b6818d1c.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/25c73a1b45d5cda2e3e209405d97f3e32bfaab2af187fe09922ab570ffaa1f25.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "frames/6758b5a6676a5236e1f307ae94d2f36067cff4a709bfae05f508465959dcb6d7.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/7312fe4756ba7086941e18ace5529a00ada0fc6769c9fa9038862c2be2040e89.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/72df944a3e67582f886be06eb7a6abdd80fe61b23b39a34111c862a561e25290.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "frames/751357b14135b6fa3c938294bb394933206b14618633df4c49e091c05eb2eaa7.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/c4656b9cd9f37d1933c83c354c5b736e868ffcd10c03692c5a9102d5d854b2c8.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/d57162df2d8e307096c80b0a6eb15fda57a17fd4fe338c8e8ff09834ede11bce.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "frames/d696611b53ec42ecc3de1dd3710a645a3271e9941eb8ac7f6fe061a533444fa1.png",
+          "duration_ms": 30
+        }
+      ],
+      "duration_ms": 1090
+    },
+    {
+      "path": "65435-doroparty2-115f9f86",
+      "state": "doro-events.trigger_break_buddy_2",
+      "frames": [
+        {
+          "path": "frames/6666670ef4c05452a530f102e3888106c32f62f0dfa6fe6624b4a9e28aeb0e3c.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "frames/38481a59c257d04aec4d0edce83310389464b6898626d849fd2b5fb2adb5c5ea.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "frames/e51207671551a7fdbbb8c57266293069b69af61c9253fb637c51637d320066a6.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "frames/e5f43fa476290c4679cd02c812fb35accdd7a76b99072227b69d10c3e0f9c43d.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "frames/34dd6536ad715e1005fe5a791b438a5e02d7065216ac476cc458edd2bd643f65.png",
+          "duration_ms": 40
+        }
+      ],
+      "duration_ms": 200
+    },
+    {
+      "path": "24028-dororgb2-31712103",
+      "state": "doro-events.trigger_break_buddy_3",
+      "frames": [
+        {
+          "path": "frames/166339e707861463c4718f2ff2a60865539aaf9690cc270f9c377311c3f49d2e.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/4151b7ea17c3b4c10ba613d42cb912f6298751206d5a217ab7c045585e52ed55.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/ff7be1b86d0a95a071fed100503c7c68494cd4653ccbc1dc76f30bc9f709e44b.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/eafd9ce74e2f00bd36f0f4e1896d852059606c404e0983fa7588fbdf562f935a.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/ce74823d8f646a0ab65445fd7d31b5feaf372533150a102183de460eb41a542e.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/7fd0e36dadf557cdda887a40c0d0b177e651c85778e94586d63e233bbff24bd7.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/0c228af48c8df2b04ee902bd867fc89454f4575cd92d27f2787a9936227be35f.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/447af48b444364ec37b0ec8d4335fc52546df3415cae83a03fc2ea502917db8b.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/528cc1956a986389dc9abe1b80feb65e6bede37926617f34284ba0f52fb04ca0.png",
+          "duration_ms": 30
+        },
+        {
+          "path": "frames/7a35d61ca9ee97e5ceec5a6d81eb536a63165910213d8d852183b22ec915c378.png",
+          "duration_ms": 30
+        }
+      ],
+      "duration_ms": 300
+    },
+    {
+      "path": "97824-dorothumbs-d10d04e6",
+      "state": "doro-events.custom_deploy_succeeded_1",
+      "frames": [
+        {
+          "path": "frames/43282afc0f8052ae5cb764e8014d17d7e453a916f39667c53e0d1c98e1ea8f9b.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/b78125b08ec007416b85d13538377d8919d4a641fcf89ffcaf3354f61104a16a.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/97ca7c24d795b18c7829fdc298ddb586f2c0140b1f6a8ff74e3606f32f064097.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/2121103d61a8cabfacc04b1e9a9b50b5d0bfbf4148d12f962ee7fc287daea201.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/c66cc164c0d69345c83f87576c576ca78a71f9c889cfbfc9c9feaeace97523c9.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/a26ea4539cae7c86aae45f0b57ed555d1e16b17fb32cc6fe6e716b2d79d22716.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/b5e0de639de711396b986d9c05bc47cf8a9f6a930e6dddec0d2a2fad862c8ecd.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/9c5689aa6eae86c78f7545e8473fd1681d73b20348c54df77a428c33bb9f5e14.png",
+          "duration_ms": 100
+        }
+      ],
+      "duration_ms": 800
+    },
+    {
+      "path": "31059-dorosquash-40c2a837",
+      "state": "doro-events.custom_tests_failed_1",
+      "frames": [
+        {
+          "path": "frames/953ef51833aec0f350dfbc549c7063bfba8d345b2e1946e005feca4c2cea9a5a.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/cf8aa18e70b297e37e83d09742465df21afdcb4096a9d8568507ca51cac43170.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/32c69289f639e0664b4d6991c0a441045c9174df8504c15a0bb1941beb0ca855.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/c356e76d5f7b31cac6ca63f5a42f3d9e8eb92111b533901872714de90110c3a3.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/0f5bac6bc014c65d5098484360b8e9fdc8e4ec19599011d7f4a627c92928ab53.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/5bc0c8455bf13092826890e1d6a1a31fdb86f1d375bf8240ea8267ca1133a36a.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/ca16ed3870d10f821902d3d24eeaa22c58c22dcafed43945816d350386e4edac.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/4f2d7955069f018daedc9f2dd9c1adcbe9f721895f8af86280c85904eb5fa879.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/6eff24199c93d2ced0d0a1eebbabec0331376eb7ea6ec2d963cd7cb41c5ef2d7.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/3169b28b8f0d93329f43b3e68399169d117c33084b7927bdafdecbb37b2089b5.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/26b079ec5a21a7f5f531a19e729ecf7b29e5427647277b98788be1462c35af8b.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/50d886067e8c3a9f010456c7f400843f8097c36d9fa3c32f4b5c37fba6780c35.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "frames/7936fcdd0938737c6a6fe4d16ef0bcfa4faf2b7dbe0106f88d6862b865e18322.png",
+          "duration_ms": 100
+        }
+      ],
+      "duration_ms": 1300
+    },
+    {
+      "path": "83517-doroclap-1d18fa89",
+      "state": "doro-events.custom_build_succeeded_1",
+      "frames": [
+        {
+          "path": "frames/25aae978dcf748056d63e62d91f15814949201dda3cd39ed662824bab6577dd9.png",
+          "duration_ms": 80
+        },
+        {
+          "path": "frames/146b153a485708fa22e2a839ba3b2bb4d073f8104d769dd5830a86fa04990279.png",
+          "duration_ms": 80
+        }
+      ],
+      "duration_ms": 160
+    }
+  ],
+  "states": {
+    "doro-events.trigger_break_buddy_1": [
+      "68169-dorobounce-c2c9f351"
+    ],
+    "doro-events.trigger_break_buddy_2": [
+      "65435-doroparty2-115f9f86"
+    ],
+    "doro-events.trigger_break_buddy_3": [
+      "24028-dororgb2-31712103"
+    ],
+    "doro-events.custom_deploy_succeeded_1": [
+      "97824-dorothumbs-d10d04e6"
+    ],
+    "doro-events.custom_tests_failed_1": [
+      "31059-dorosquash-40c2a837"
+    ],
+    "doro-events.custom_build_succeeded_1": [
+      "83517-doroclap-1d18fa89"
+    ]
+  },
+  "playback": {
+    "doro-events.trigger_break_buddy_1": {
+      "mode": "once",
+      "after": "idle",
+      "weight": 1
+    },
+    "doro-events.trigger_break_buddy_2": {
+      "mode": "once",
+      "after": "idle",
+      "weight": 1
+    },
+    "doro-events.trigger_break_buddy_3": {
+      "mode": "once",
+      "after": "idle",
+      "weight": 1
+    },
+    "doro-events.custom_deploy_succeeded_1": {
+      "mode": "once",
+      "after": "idle",
+      "weight": 1
+    },
+    "doro-events.custom_tests_failed_1": {
+      "mode": "once",
+      "after": "idle",
+      "weight": 1
+    },
+    "doro-events.custom_build_succeeded_1": {
+      "mode": "once",
+      "after": "idle",
+      "weight": 1
+    }
+  },
+  "variants": {},
+  "cues": {}
+}

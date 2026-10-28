@@ -19,13 +19,21 @@ def main():
     parser.add_argument('--output', type=Path, default=ROOT / 'dist')
     parser.add_argument('--repository', default='WindyWin/agent-pet-gallery')
     parser.add_argument('--tag', default='v1.0.0')
+    parser.add_argument('--only', nargs='+', metavar='ID', help='build only these pet/plugin identities')
     args = parser.parse_args()
     if sys.platform != "linux":
         parser.error("Build on Linux: import verification relies on isolated XDG_DATA_HOME storage.")
     args.output.mkdir(parents=True, exist_ok=True)
     base = f'https://github.com/{args.repository}/releases/download/{args.tag}'
     entries = []
-    for source in sorted((ROOT / 'assets').iterdir()):
+    sources = sorted((ROOT / 'assets').iterdir())
+    if (ROOT / 'plugins').is_dir():
+        sources += sorted((ROOT / 'plugins').iterdir())
+    if args.only:
+        unknown = set(args.only) - {source.name for source in sources}
+        if unknown: parser.error('Unknown pack ids: ' + ', '.join(sorted(unknown)))
+        sources = [source for source in sources if source.name in args.only]
+    for source in sources:
         metadata = json.loads((source / 'pack.json').read_text(encoding='utf-8'))
         id = metadata['id']
         name = f'{id}-{metadata["version"]}.agentpet'
@@ -36,13 +44,18 @@ def main():
             terms = Path(metadata['terms'])
             (folder / terms.parent).mkdir(parents=True, exist_ok=True)
             shutil.copyfile(ROOT / terms, folder / terms)
-            subprocess.run([sys.executable, str(ROOT / 'scripts/pack.py'), str(folder),
-                            '-o', str(archive.absolute()), '--app', str(args.app.absolute())], check=True)
-            # Exercise the actual archive importer in an isolated Linux data directory.
             env = dict(os.environ, XDG_DATA_HOME=str(Path(temporary) / 'data'))
+            if metadata['kind'] == 'plugin':
+                target = json.loads((ROOT / 'assets' / metadata['pet'] / 'pack.json').read_text(encoding='utf-8'))
+                target_archive = args.output / f'{target["id"]}-{target["version"]}.agentpet'
+                subprocess.run([str(args.app.absolute()), 'import', str(target_archive.absolute())],
+                               input='yes\n', text=True, env=env, check=True)
+            subprocess.run([sys.executable, str(ROOT / 'scripts/pack.py'), str(folder),
+                            '-o', str(archive.absolute()), '--app', str(args.app.absolute())], env=env, check=True)
+            # Exercise the actual archive importer in an isolated Linux data directory.
             subprocess.run([str(args.app.absolute()), 'import', str(archive.absolute())],
                            input='yes\n', text=True, env=env, check=True)
-            installed = Path(env['XDG_DATA_HOME']) / 'agent-pet/packs/pets' / id
+            installed = Path(env['XDG_DATA_HOME']) / ('agent-pet/packs/pets' if metadata['kind'] == 'pet' else 'agent-pet/plugins') / id
             if not (installed / 'pack.json').is_file():
                 raise RuntimeError(f'{id}: import did not commit the pack')
         preview = f'{id}-preview.png'
@@ -51,6 +64,9 @@ def main():
         entry.update(description=f'{metadata["name"]} for Agent Pet. See the included artwork terms.',
                      preview=f'{base}/{preview}', download=f'{base}/{name}',
                      bytes=archive.stat().st_size, sha256=hashlib.sha256(archive.read_bytes()).hexdigest())
+        if metadata['kind'] == 'plugin':
+            entry['pet'] = metadata['pet']
+            entry['setup'] = 'Install Doro first and restart, then import and enable Doro Events in Settings → Plugins. Custom events must be emitted by your own scripts.'
         entries.append(entry)
     (args.output / 'index.json').write_text(json.dumps({'schema_version': 1, 'packs': entries},
                                                     ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
