@@ -1,0 +1,3694 @@
+{
+  "version": 1,
+  "inputs": {
+    "pet-sources/authoring/doro-spider-transition/run-01/inputs/base.png": "90ff3a023c39cb2dc8edc1ea8597a273fe2bd1ab6f8341ae028db39098811d0c",
+    "pet-sources/authoring/doro-spider-transition/run-01/inputs/enter-1.png": "5b79410c770b507fd4c146eb49d46eac0ca6824cb03843880b6e5ccc1020d758",
+    "pet-sources/authoring/doro-spider-transition/run-01/inputs/enter-2.png": "b12e41ef580b5d2ae3efe0551fffbce45dbe95f43b6498fed36fc223e9e8673f",
+    "pet-sources/authoring/doro-spider-transition/run-01/inputs/enter-3.png": "9ae5500766f796941bc66dba1f118acbd699bed4b9301ba235cd519f44bcd93c",
+    "pet-sources/authoring/doro-spider-transition/run-01/inputs/enter-4.png": "90dcc50ee7bba2ebc927f5cbf50b8b26ff9f0879528855e58cfec29ea2501e41",
+    "pet-sources/authoring/doro-spider-transition/run-01/inputs/exit-1.png": "ea2b499936a4324221e727965cfcc95e35177e8d0118dd2f14533fc8011baad1",
+    "pet-sources/authoring/doro-spider-transition/run-01/inputs/exit-2.png": "e61888e5a010526a7da9e3d83b73f6bcb760af316d3ef4bc7564a0f9a1e1e9e4",
+    "pet-sources/authoring/doro-spider-transition/run-01/inputs/exit-3.png": "13e5020439668b68b320fe493e34e94cfc4db2dcb79a4d8d94d48733aa57dcd8",
+    "pet-sources/authoring/doro-spider-transition/run-01/inputs/exit-4.png": "38d7a76cc3e564c8685da6cf39746478428888daa8b1c519259fd0086f7d3586"
+  },
+  "connector_transforms": {
+    "enter-1": {
+      "source_sha256": "5b79410c770b507fd4c146eb49d46eac0ca6824cb03843880b6e5ccc1020d758",
+      "alpha_floor": 16,
+      "crop": [
+        276,
+        480,
+        1038,
+        1108
+      ],
+      "scale": 0.1767515923566879,
+      "at": [
+        35,
+        65
+      ],
+      "target_box": [
+        32,
+        65,
+        173,
+        176
+      ]
+    },
+    "enter-2": {
+      "source_sha256": "b12e41ef580b5d2ae3efe0551fffbce45dbe95f43b6498fed36fc223e9e8673f",
+      "alpha_floor": 16,
+      "crop": [
+        253,
+        573,
+        1110,
+        1097
+      ],
+      "scale": 0.1411901983663944,
+      "at": [
+        54,
+        102
+      ],
+      "target_box": [
+        54,
+        82,
+        175,
+        176
+      ]
+    },
+    "enter-3": {
+      "source_sha256": "9ae5500766f796941bc66dba1f118acbd699bed4b9301ba235cd519f44bcd93c",
+      "alpha_floor": 16,
+      "crop": [
+        488,
+        694,
+        1159,
+        1105
+      ],
+      "scale": 0.15350223546944858,
+      "at": [
+        73,
+        113
+      ],
+      "target_box": [
+        73,
+        103,
+        176,
+        176
+      ]
+    },
+    "enter-4": {
+      "source_sha256": "90dcc50ee7bba2ebc927f5cbf50b8b26ff9f0879528855e58cfec29ea2501e41",
+      "alpha_floor": 16,
+      "crop": [
+        569,
+        769,
+        1175,
+        1121
+      ],
+      "scale": 0.15346534653465346,
+      "at": [
+        83,
+        122
+      ],
+      "target_box": [
+        83,
+        117,
+        176,
+        176
+      ]
+    },
+    "exit-1": {
+      "source_sha256": "ea2b499936a4324221e727965cfcc95e35177e8d0118dd2f14533fc8011baad1",
+      "alpha_floor": 16,
+      "crop": [
+        403,
+        679,
+        1176,
+        1155
+      ],
+      "scale": 0.1203104786545925,
+      "at": [
+        83,
+        119
+      ],
+      "target_box": [
+        83,
+        117,
+        176,
+        176
+      ]
+    },
+    "exit-2": {
+      "source_sha256": "e61888e5a010526a7da9e3d83b73f6bcb760af316d3ef4bc7564a0f9a1e1e9e4",
+      "alpha_floor": 16,
+      "crop": [
+        321,
+        504,
+        1081,
+        1132
+      ],
+      "scale": 0.11624203821656051,
+      "at": [
+        80,
+        103
+      ],
+      "target_box": [
+        73,
+        103,
+        176,
+        176
+      ]
+    },
+    "exit-3": {
+      "source_sha256": "13e5020439668b68b320fe493e34e94cfc4db2dcb79a4d8d94d48733aa57dcd8",
+      "alpha_floor": 16,
+      "crop": [
+        288,
+        479,
+        1109,
+        1175
+      ],
+      "scale": 0.13505747126436782,
+      "at": [
+        59,
+        82
+      ],
+      "target_box": [
+        54,
+        82,
+        175,
+        176
+      ]
+    },
+    "exit-4": {
+      "source_sha256": "38d7a76cc3e564c8685da6cf39746478428888daa8b1c519259fd0086f7d3586",
+      "alpha_floor": 16,
+      "crop": [
+        144,
+        399,
+        1136,
+        1196
+      ],
+      "scale": 0.1461693548387097,
+      "at": [
+        24,
+        60
+      ],
+      "target_box": [
+        24,
+        58,
+        169,
+        176
+      ]
+    }
+  },
+  "source_spider_catalog_sha256": "d753e2aa35a604b29cbd7222fd2b970e953ecf3524d99a9a3dd656584ef2ce73",
+  "spider_derivation": {
+    "version": 1,
+    "pack_id": "doro-spider",
+    "pack_version": "0.2.0",
+    "sources": [
+      {
+        "file": "pet-sources/authoring/agent-pet-gallery/sources/doro/originals/84656-dorospidera.gif",
+        "sha256": "649bb639aee3684a785549b5955088ce566ecd8b7b1204b506ba9118b724d196",
+        "frames": 77,
+        "total_ms": 2240
+      },
+      {
+        "file": "pet-sources/authoring/agent-pet-gallery/sources/doro/originals/43658-dorospiderb.gif",
+        "sha256": "b7933d1e01fd11c76404e074efd66e22c69216a2e3e17feff82c2d2393fb97fc",
+        "frames": 112,
+        "total_ms": 2240
+      },
+      {
+        "file": "pet-sources/authoring/agent-pet-gallery/sources/doro/originals/78938-dorospiderc.gif",
+        "sha256": "e6aca36bbdb4ccb195296e577070df9753a28293a515e17f6936e3d7348f5c3f",
+        "frames": 112,
+        "total_ms": 2240
+      }
+    ],
+    "replacements": [
+      {
+        "state": "idle",
+        "sequence": "spider-idle",
+        "previous": [
+          "25686-doro-d267f33b"
+        ],
+        "removed_variants": [
+          {
+            "sequences": [
+              "97493-dorowiggle-e85fd06d"
+            ],
+            "weight": 1
+          }
+        ],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_walk_left",
+        "sequence": "spider-move_walk_left",
+        "previous": [
+          "1965-dorowalk-3dda34f4",
+          "1965-dorowalk-3dda34f4",
+          "1965-dorowalk-3dda34f4"
+        ],
+        "removed_variants": [
+          {
+            "sequences": [
+              "94441-dorobomb-36898ca5",
+              "94441-dorobomb-36898ca5",
+              "94441-dorobomb-36898ca5"
+            ],
+            "weight": 1
+          }
+        ],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_walk_right",
+        "sequence": "spider-move_walk_right",
+        "previous": [
+          "10389-distortdoro-84cdd344",
+          "10389-distortdoro-84cdd344",
+          "10389-distortdoro-84cdd344"
+        ],
+        "removed_variants": [
+          {
+            "sequences": [
+              "43458-doroduck-1ead0ebd",
+              "43458-doroduck-1ead0ebd",
+              "43458-doroduck-1ead0ebd"
+            ],
+            "weight": 1
+          }
+        ],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_trot_left",
+        "sequence": "spider-move_trot_left",
+        "previous": [
+          "84509-dororun-51d4f471",
+          "84509-dororun-51d4f471",
+          "84509-dororun-51d4f471"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_trot_right",
+        "sequence": "spider-move_trot_right",
+        "previous": [
+          "84509-dororun-51d4f471",
+          "84509-dororun-51d4f471",
+          "84509-dororun-51d4f471"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_trudge_left",
+        "sequence": "spider-move_trudge_left",
+        "previous": [
+          "10389-dororgbspin-ba0c9e26",
+          "10389-dororgbspin-ba0c9e26",
+          "10389-dororgbspin-ba0c9e26"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_trudge_right",
+        "sequence": "spider-move_trudge_right",
+        "previous": [
+          "1965-dorowalk-3dda34f4",
+          "1965-dorowalk-3dda34f4",
+          "1965-dorowalk-3dda34f4"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_crawl_left",
+        "sequence": "spider-move_crawl_left",
+        "previous": [
+          "16209-dorospider-6b70b064",
+          "16209-dorospider-6b70b064",
+          "16209-dorospider-6b70b064"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_crawl_right",
+        "sequence": "spider-move_crawl_right",
+        "previous": [
+          "16209-dorospider-6b70b064",
+          "16209-dorospider-6b70b064",
+          "16209-dorospider-6b70b064"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_climb_up_left",
+        "sequence": "spider-move_climb_up_left",
+        "previous": [
+          "84656-dorospidera-261eac31",
+          "84656-dorospidera-261eac31",
+          "84656-dorospidera-261eac31"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_climb_up_right",
+        "sequence": "spider-move_climb_up_right",
+        "previous": [
+          "84656-dorospidera-261eac31",
+          "84656-dorospidera-261eac31",
+          "84656-dorospidera-261eac31"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_climb_down_left",
+        "sequence": "spider-move_climb_down_left",
+        "previous": [
+          "84656-dorospidera-261eac31",
+          "84656-dorospidera-261eac31",
+          "84656-dorospidera-261eac31"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      },
+      {
+        "state": "move_climb_down_right",
+        "sequence": "spider-move_climb_down_right",
+        "previous": [
+          "84656-dorospidera-261eac31",
+          "84656-dorospidera-261eac31",
+          "84656-dorospidera-261eac31"
+        ],
+        "removed_variants": [],
+        "count": 112,
+        "duration_ms": 2240
+      }
+    ],
+    "transform": {
+      "crop": [
+        23,
+        1,
+        255,
+        85
+      ],
+      "scale": 0.6982758620689655,
+      "at": [
+        15,
+        117
+      ],
+      "size": [
+        162,
+        59
+      ]
+    },
+    "app_sha256": "299378c45bb76bec6ea50f5b538476f05bd2731876f92f555ef7ec2c2a163100",
+    "derivation": "Timestamp-synchronized A/B/C tiles at x=0/97/194, then one clip-wide transform. Original alpha and timing retained.",
+    "limits": [
+      "The spider paces within its canvas as drawn. Native window movement adds translation; desktop speed calibration remains pending.",
+      "Other actions retain the original mappings. No new entry/exit drawings. Native wall anchors and touch geometry need desktop review.",
+      "Original low-resolution GIF edges and any source artifacts are retained."
+    ]
+  },
+  "base_derivation": {
+    "sticker_id": "915179505",
+    "source_apng_sha256": "9a8163c581b34487c2b81d23a12bc578c63d6f6f5e9660ae48694eb74e77d958",
+    "clean_base_sha256": "b7032b65f1d7f1b9a89cb1602c721412062200c9eb63b37233e292308d32ab68",
+    "breathing_frame_sha256": [
+      "9a49082115b4e7182b63e630f2300422a38630562cb8befd78ba0ee9eacf2959",
+      "4e738ef3edb6dcd0262715487cad2e1c552ffaaf50c8f9c9da441a1d3db1d3e7",
+      "60e960ce61b7b1fcb5987a5c49e3423fd5c6d4aa8375bc5be97e41f333d1b69a",
+      "1b2619ae92fbd098706ea1b39be29e5109ca7717afef0d479f224e5fc8b9e497",
+      "2a1e1fe9581a2eba2912b125156cf2a5a0c52a978d922d890a26b82d04808d0e",
+      "7d8acd4a66623e56809800d789d956248379d2f448bdb4978e734d1970da39a6",
+      "647d6968bd73164c1ad8b1487d98c3e6ff8706f970e0cb036d0c53b91e604d82",
+      "943e1a5da5248a20de7deb5dec93f479243169e624878191999722b9a024d518",
+      "3f0ff64d929f9c797e8145cfcaa2ef9460e4e9205f4d5449933b781bb2354d3b",
+      "480cccc86ffe1c402647ef01c9af223691f80efcb195e250cda270ef7c479ed6",
+      "22cc217c1b6dcb4522d2c225d2934a5a8a2346bd721b8d9ee3f45f398a83e278",
+      "abe6176658791499d551a1fa4308b3e712d3d95fa0cfaa15231bed309c8caea4",
+      "d2b082da4f7fbbf93a0a9e81d9efe0907eb396950c47944e0e997f012764b479",
+      "96c02baec61c574a8c443ad0c51ca78700e29538670ce09217ce972309637cb2",
+      "0f8bf90015b9b90454765a4b78a98c193862ccc1a5a650bf5a8dc0e9caa97e8a",
+      "72794254d48faea61705c0c51e8fcac17b7fed91ae40000590c942ded76d106a",
+      "49c894ca42818b6cf9ab80de5d951dda8c7e8df822c86de5efcc76122be63c2a",
+      "a6ceedb6a846eac3c91631683c30a387f7b08a68044061eca033b6e456228964",
+      "a76749f746c19fed11c6b4ce24f520a969ab168c402354e6e45aaa65e2da937a",
+      "c8fc30a6676919bb49d8e5c5cae8b2c6d14cd0b971427b807953c8b5a37f9a8c",
+      "b572b25840c44c6aa8c57f2e63e1c797d8bb9e38129f9171079f8377049a27f1",
+      "0d33fd3a872a864341929bbd2896079c923c200f4d937156c4a0f29b7650f8ea",
+      "c549b6db638bbce7d2bb9054388f88656b9901fcbfd6e3fe7d128a6bffc77e20",
+      "6c4f351563ec37c11ae1045760548e84f5faa481606fb33703084aab17e899af",
+      "11402f7cf220f20f099b0e89372aad8b43848e8e79b2738b444ba77888ae1037",
+      "be32999d32bbf674791fa07aa4987afa37aae9184591a3be111bb074a2105b3a",
+      "71699d034f897b20ddcd5fbaab0d26ee61e121cf745c0cd660545ae701165e0b",
+      "1197766c4d6ae9128276a27e56cab03cea59b074375adf21e225c30cf8caf311",
+      "418e5d3baddf2e0a6761a2ea859d0b2e79346f0c22ec6723726cf49a6546ad07",
+      "3892d9c1c3a9256342662b3a379a774e8050f39e906e81fca0c43251834d706d",
+      "ce786b3bbfcbe793569e72013af2610616a9cdf1e88c7cd90a23983a94c34f9a",
+      "cddf6ec37817276b0a1bf21192a54e5875225808c0dd84b25a113d075523c61f",
+      "c678f988a14268f5cd2a0cb59ceaf1ae12997ee4d805eccd587382cc6c34181e",
+      "a4e4cc74d32188de8349010dd988342104d300cd74ab6599c00119396312863a",
+      "6dd94961d3718a945a808ab4bf2f304655de95f11345a87909c703ffea02202d",
+      "e3c796c1ff5003906991646827290401cf246a59556ed1f1142798feb80f435d"
+    ],
+    "scale": 0.9,
+    "translation": [
+      -10,
+      5
+    ]
+  },
+  "generation": {
+    "tool": "built-in image_gen",
+    "transparent_background": true,
+    "prompts": {
+      "enter-1.prompt.txt": "358ee192e952c0540db3837f89280b3f3f7364bbfc9b2ebb6ee2065a702a7c83",
+      "enter-2.prompt.txt": "7b0f56727e78baa09d06b930ae7fc1549e79997b50bf33caae6a20e49262ef7b",
+      "enter-3.prompt.txt": "6023cf9bf307070b0eef8542c29efa5497c2909984b31c1926d28aaf898bb6c6",
+      "enter-4.prompt.txt": "d7cd5227b0ba838113440784835c320904a9281ec0c32d5a9c9b8ba907c3bf5f",
+      "exit-1.prompt.txt": "56ab4b3b1fd15c13cf327afd4b9f90c66808fe77bfc05708c19bd63ca73b539f",
+      "exit-2.prompt.txt": "917808c298f4491171f34f0a5dc43d0b4eb492ca39e60b19ff324d77f0ac9fa7",
+      "exit-3.prompt.txt": "08ad7667f46b0d0226b89c312a5ea33bad6b8cabe225bf7f2d8bcbdc6a50c56c",
+      "exit-4.prompt.txt": "c49ecacd176c8f2ada5f33c72aaf302761e151b21946b1898f447b988dc90590"
+    }
+  },
+  "method": "Eight separate built-in image_gen drawings; one whole-drawing fit each. Exact accepted spider pixels and timing. No RIFE, crossfades or video generation.",
+  "loop": {
+    "frames": 112,
+    "duration_ms": 2240
+  },
+  "app_sha256": "299378c45bb76bec6ea50f5b538476f05bd2731876f92f555ef7ec2c2a163100",
+  "native_policy": "Base idle; enter/loop/exit for all 12 movement states. Same frontal spider orientation in each direction; native movement speed sets direction.",
+  "limits": [
+    "New drawn poses are a visual draft with different line weight from the low-resolution source GIF.",
+    "Native move speed, wall anchors and touch geometry still require desktop calibration.",
+    "Urgent runtime interruptions can skip exits; no runtime scheduling changes."
+  ],
+  "die_landing": {
+    "plugin": null,
+    "pet": "pet-sources/authoring/doro-die-landing/run-02/export/doro-motion",
+    "source_catalog_sha256": "3e6ae2aac66edecc64b925a17cb8b14ad5cca4564ffb9d5071f0f94232d1dba5",
+    "source_pet": "/home/wwindy/.local/share/agent-pet/packs/pets/doro-motion",
+    "fits": {
+      "impact-tuck": {
+        "source_sha256": "70d4e4ff2c41d0370645e01522ef3244526d91e34f3e2db37e292b784304d00e",
+        "scale": 0.16644823066841416,
+        "offset": [
+          -10,
+          -2
+        ],
+        "contact_box": [
+          32,
+          92,
+          160,
+          176
+        ]
+      },
+      "roll-side": {
+        "source_sha256": "b5578555b5c6e51383a68fc3e9522570c0131129490164375e6107faaf0a5357",
+        "scale": 0.15463917525773196,
+        "offset": [
+          -1,
+          11
+        ],
+        "contact_box": [
+          29,
+          106,
+          164,
+          176
+        ]
+      },
+      "push-up": {
+        "source_sha256": "24abafe85cc90410cbb0e6cb3a9c9eac17deb5cdb9d171d1ce08243b554be19b",
+        "scale": 0.17624521072796934,
+        "offset": [
+          -16,
+          -18
+        ],
+        "contact_box": [
+          26,
+          77,
+          165,
+          176
+        ]
+      },
+      "settle": {
+        "source_sha256": "7a8843f3fdd71f26e4c9b23d4ca6d7889b1d1b6890ad504c21e9f8ce3bd766b5",
+        "scale": 0.2013986013986014,
+        "offset": [
+          -35,
+          -45
+        ],
+        "contact_box": [
+          24,
+          69,
+          168,
+          176
+        ]
+      }
+    },
+    "die_sha256": "2553e8347a6967c9fbfa04e128951f633bcb75c778d65ee163250639fac577dd",
+    "landing_ms": 845,
+    "landing": [
+      [
+        "impact-tuck",
+        45
+      ],
+      [
+        "die",
+        420
+      ],
+      [
+        "roll-side",
+        90
+      ],
+      [
+        "push-up",
+        100
+      ],
+      [
+        "settle",
+        90
+      ],
+      [
+        "base",
+        100
+      ]
+    ],
+    "immediate_impact": true,
+    "original_sequences_preserved": 103,
+    "original_frames_preserved": 1326
+  },
+  "approval_1_1_2": {
+    "version": "1.1.2",
+    "pet": "doro-motion",
+    "source_catalog_sha256": "81ca72dd5a9c2da08dbed84185e542ebcf4e78ae6745553cc0fdede4ff66e76c",
+    "preview_data_sha256": "ae1298eb9cf7de8de66150004cd5c695e1c7c086f96ed0c59373f18f3b15efbf",
+    "choices": {
+      "ping": [
+        "approval-ping-start",
+        "28447-doropingintensify-29e97564",
+        "approval-ping-end"
+      ],
+      "plead": [
+        "approval-plead-start",
+        "approval-plead-loop",
+        "approval-plead-end"
+      ]
+    },
+    "original_sequences_preserved": 104,
+    "original_pngs_preserved": 1330,
+    "total_sequences": 109,
+    "total_pngs": 1341,
+    "eye_cycle_ms": 4000,
+    "start_ms": {
+      "ping": 455,
+      "plead": 455
+    },
+    "end_ms": {
+      "ping": 460,
+      "plead": 460
+    },
+    "live_installation_changed": false,
+    "runtime_changed": false,
+    "native_limitations": [
+      "Urgent attention still cuts the outgoing work exit; its new start begins at the shared base.",
+      "Native approval resolution may redraw the working variant; same-variant resume was preview control logic.",
+      "Resolution leaves an approval loop immediately, including during a blink; it does not wait for the eye loop.",
+      "Normal resolution during entry completes the 455 ms entrance before exiting; newer urgent cues still cut immediately.",
+      "Existing success, mood/bedtime art, tool/session timing and all other routing are unchanged."
+    ],
+    "accepted_preview": "doro-approval-tool-finish-preview-v3.html",
+    "visual_decision": "User accepted as adequate and requested packaging; 2026-11-01."
+  },
+  "approval_1_1_2_preview_report": {
+    "schema_version": 1,
+    "preview_only": true,
+    "generator": "built-in image_gen",
+    "source_pet": "/home/wwindy/.local/share/agent-pet/packs/pets/doro-motion",
+    "source_catalog_sha256": "81ca72dd5a9c2da08dbed84185e542ebcf4e78ae6745553cc0fdede4ff66e76c",
+    "canvas": [
+      192,
+      192
+    ],
+    "fits": {
+      "ping-1": {
+        "raw_sha256": "90168d4af4ce658bdb4392169ae5d8ee1e7d4f6dfb5ba44e69dca9aa0c39bc02",
+        "scale": 0.1497005988023952,
+        "offset": [
+          0,
+          4
+        ],
+        "hair_target_width": 125.0,
+        "output_sha256": "70f5ddce6ac12d1cc121cc28857fa1c7061cd403b60ade944adc8ec4407cb8ff"
+      },
+      "ping-3": {
+        "raw_sha256": "911814bc3476ec1385bad9618f45fc1260953f36e80a16300a8fe7ba58423135",
+        "scale": 0.12512613521695257,
+        "offset": [
+          14,
+          33
+        ],
+        "hair_target_width": 124.0,
+        "output_sha256": "bdec451ea7f38bfc9229c25d06ecfd7ae06b849ad7b582522783a02d13555703"
+      },
+      "ping-2": {
+        "raw_sha256": "6f2690880ec8cbea65c27b6392085b6cdb9f7e0045678a59d764dcef412ef12c",
+        "scale": 0.1362126245847176,
+        "offset": [
+          2,
+          25
+        ],
+        "hair_target_width": 123.0,
+        "output_sha256": "bbdbc61724bde028117de7c504fda503c729a9ba439f17db46f147726118c2d4"
+      },
+      "ping-4": {
+        "raw_sha256": "7637a9bc7841fea65839e9a6ea4e3e2871cffa10f46f7d44c52880a50cedd799",
+        "scale": 0.1519302615193026,
+        "offset": [
+          -1,
+          0
+        ],
+        "hair_target_width": 122.0,
+        "output_sha256": "a71c72aa52338a6b550fba0656e6ce7d97fc826719d45f186e2ac657372b172a"
+      },
+      "plead-1": {
+        "raw_sha256": "8d6955ab33ac74c3feae51ce54bda1b9f581794bdd66d5352489d0c7ae14dc1d",
+        "scale": 0.14358353510895883,
+        "offset": [
+          3,
+          16
+        ],
+        "hair_target_width": 118.6,
+        "output_sha256": "d56d2db343289c9b7267656fbb7dadc1e51818e2f4b338c10f0a3679e9ce9926"
+      },
+      "plead-3": {
+        "raw_sha256": "da970575439a151e751f0dfa5c63e81434fba450bbe3a14142e35c1a8070a95b",
+        "scale": 0.11300813008130081,
+        "offset": [
+          26,
+          49
+        ],
+        "hair_target_width": 111.2,
+        "output_sha256": "3021fa3248d402296c1453f1f1fdfd3ce23ad5905fdea01ff0763d7aa2bbc4d0"
+      },
+      "plead-2": {
+        "raw_sha256": "8d7eb9b761b22c8eec6db32ed7c6d7baa29cbc4822a758c946bdab438f0437ec",
+        "scale": 0.13622047244094487,
+        "offset": [
+          7,
+          23
+        ],
+        "hair_target_width": 103.8,
+        "output_sha256": "7f05a753ce60052638a7069509ea6e6ca82ed400e786bfbdfa5ba8d0c5228219"
+      },
+      "plead-4": {
+        "raw_sha256": "7f9759c5fe33583d9807f06fd3d4842061b21b3dd22cb2715e404ef08436a63e",
+        "scale": 0.0939571150097466,
+        "offset": [
+          34,
+          66
+        ],
+        "hair_target_width": 96.4,
+        "output_sha256": "cc76f4aa1e77ace69dc38340beb57404a1a0a2a0693c81fb8e38afd8de65f94a"
+      }
+    },
+    "originals": {
+      "base-spider-base": {
+        "frames": [
+          [
+            "2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83",
+            100
+          ],
+          [
+            "4069d1f4bb48e8265ef1c1adf3e6dd3598c8eec92a45d0b7579e66244e38f74f",
+            100
+          ],
+          [
+            "5e0e2b57667932ee787c0d40740b5a07d756a8095936c1a5bc1d213836e6b209",
+            100
+          ],
+          [
+            "179d2bb42c18f441e4bcf1c1db4d300ead11deaf71555ff34b9da452f390200e",
+            100
+          ],
+          [
+            "d8a7a0877817525193f84b82c77ec66f5a5bef0e573cb4008c390250fc74d17a",
+            100
+          ],
+          [
+            "e5f79d8713c139612df166fb0a6b9dd32a1092bebc9255c1c974f6db642085a0",
+            100
+          ],
+          [
+            "64f0f20615aa68e6353703646474bd328e0650ac89df9aaec121e17fdaf94a38",
+            100
+          ],
+          [
+            "c3bb08a150521f58186f6be4ab2701d5fe45d742db6d2bc9b73d31bdcfa33fc8",
+            100
+          ],
+          [
+            "835c204307cd2f8bf701e2c2e9cf05d910faf7d2578edcd3df6267e6cc6734b2",
+            100
+          ],
+          [
+            "57f7b32442710bfa81f4b9ba117aeb2ca1ec0f11a707ded16f0227f4830caac9",
+            100
+          ],
+          [
+            "78934d877e1b74c39b17c4d67ea7a29f92a5ba604cb569c945fb807360c64128",
+            100
+          ],
+          [
+            "fd6f5181c00e30a3356c2ac772242767c5b876b7529728cd3745b5f9c7ce461a",
+            100
+          ],
+          [
+            "36807bcf3634f33eda42c5c97b47ccb0a25032dc7d9294c719ff6401372ec783",
+            100
+          ],
+          [
+            "618da84ef213ec3a92f082e9bdcedaf108067dbd0187024f8383ab4976f5ac97",
+            100
+          ],
+          [
+            "269f5d85e759a8e057a6e66cb0e5b7ebe89fcd40cffc608e58df1951d7df2499",
+            100
+          ],
+          [
+            "d421098bd2df87c1059ccf0ef281242a5f7c50ad8916eddb27a0550ba99c47b0",
+            100
+          ],
+          [
+            "8f1b744732ec4f1b4039914215610325eef78fb0d2cca805c7f28fa8305e93d9",
+            100
+          ],
+          [
+            "276180f8bde27b429ad82f4ca53b735018bb16877bc18d47e31c5f9413f39420",
+            100
+          ],
+          [
+            "56ffe95a2fa81ae383a89a48dddba52707bd8c2830144f3b8420a8ce3b311e93",
+            100
+          ],
+          [
+            "48a2efe9027a026fdb8de6ca96c1470b2db6306e253e65aaa4cf0e213ffc57e7",
+            100
+          ],
+          [
+            "05c3b24f7e70588b90916d84b204543cf9a6156afa60066c145b83d4988af1d3",
+            100
+          ],
+          [
+            "a61f9bfed2d1c888c6a34a2588ccec5dd9852a1841add0581984e41c2905ec18",
+            100
+          ],
+          [
+            "3874f72adb196531e03c3285ca51db0be1c41ffa8b8b6c378300143d195c6fbb",
+            100
+          ],
+          [
+            "e5e522f157e9838456a8d7175677dd670a2e0efe721775c3509546494c51246d",
+            100
+          ],
+          [
+            "743aaff83609b544111187ed602f4530281bfb0f238a277c5fb888994db3ddb0",
+            100
+          ],
+          [
+            "a99349cfa7ff0c0e8efc823f4fd674c4b243fb7f8c68ce29742ff2f169f1a7f5",
+            100
+          ],
+          [
+            "2e97ae41c107857a94bb9086016603e7d1202bc12c4de87294a8c413fa0f1277",
+            100
+          ],
+          [
+            "21d676f56a17b1f6928c7066fa6fe345e1d48d641525380e2a2a37d6ced2776d",
+            100
+          ],
+          [
+            "486fe3772f81af32f94c2ed5b507be4c2a0c7156f89d72370cc061582990456d",
+            100
+          ],
+          [
+            "ef281594b4bc31fe95fa4fbc0a0d0a9924a90fe64cf9e59feb4634c3dae4c0e1",
+            100
+          ],
+          [
+            "563e540105ad511eb1f4b0542f2b28d9ef226a5b96d116a46808bfd73007dc92",
+            100
+          ],
+          [
+            "e638842c6ca290c0aea00a434b0094c0710eb112962118a5407435065c6fcf44",
+            100
+          ],
+          [
+            "1185852f1e7564826ab531f55733ce0388697da4231f8c63a0e38a9377a4bced",
+            100
+          ],
+          [
+            "979a6ad3e37adda5895fe51348b4869aa80625b87da57193821b9b410f610898",
+            100
+          ],
+          [
+            "40f03ef2d71ab5e27eebe46b364023cdd3b5a10859c71126a93d7e6170705f7a",
+            100
+          ],
+          [
+            "1c2394e45553f53ce1b8b354a2b160b99fffa3da89911ffc8145647eb511d8cf",
+            100
+          ],
+          [
+            "2288634c429394feba87fb951b1b76ac95781da070d46ca3a6dbefccb688f61c",
+            100
+          ],
+          [
+            "2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83",
+            100
+          ]
+        ],
+        "duration_ms": 3800,
+        "source_paths": [
+          "assets/doro-motion/frames/2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83.png",
+          "assets/doro-motion/frames/4069d1f4bb48e8265ef1c1adf3e6dd3598c8eec92a45d0b7579e66244e38f74f.png",
+          "assets/doro-motion/frames/5e0e2b57667932ee787c0d40740b5a07d756a8095936c1a5bc1d213836e6b209.png",
+          "assets/doro-motion/frames/179d2bb42c18f441e4bcf1c1db4d300ead11deaf71555ff34b9da452f390200e.png",
+          "assets/doro-motion/frames/d8a7a0877817525193f84b82c77ec66f5a5bef0e573cb4008c390250fc74d17a.png",
+          "assets/doro-motion/frames/e5f79d8713c139612df166fb0a6b9dd32a1092bebc9255c1c974f6db642085a0.png",
+          "assets/doro-motion/frames/64f0f20615aa68e6353703646474bd328e0650ac89df9aaec121e17fdaf94a38.png",
+          "assets/doro-motion/frames/c3bb08a150521f58186f6be4ab2701d5fe45d742db6d2bc9b73d31bdcfa33fc8.png",
+          "assets/doro-motion/frames/835c204307cd2f8bf701e2c2e9cf05d910faf7d2578edcd3df6267e6cc6734b2.png",
+          "assets/doro-motion/frames/57f7b32442710bfa81f4b9ba117aeb2ca1ec0f11a707ded16f0227f4830caac9.png",
+          "assets/doro-motion/frames/78934d877e1b74c39b17c4d67ea7a29f92a5ba604cb569c945fb807360c64128.png",
+          "assets/doro-motion/frames/fd6f5181c00e30a3356c2ac772242767c5b876b7529728cd3745b5f9c7ce461a.png",
+          "assets/doro-motion/frames/36807bcf3634f33eda42c5c97b47ccb0a25032dc7d9294c719ff6401372ec783.png",
+          "assets/doro-motion/frames/618da84ef213ec3a92f082e9bdcedaf108067dbd0187024f8383ab4976f5ac97.png",
+          "assets/doro-motion/frames/269f5d85e759a8e057a6e66cb0e5b7ebe89fcd40cffc608e58df1951d7df2499.png",
+          "assets/doro-motion/frames/d421098bd2df87c1059ccf0ef281242a5f7c50ad8916eddb27a0550ba99c47b0.png",
+          "assets/doro-motion/frames/8f1b744732ec4f1b4039914215610325eef78fb0d2cca805c7f28fa8305e93d9.png",
+          "assets/doro-motion/frames/276180f8bde27b429ad82f4ca53b735018bb16877bc18d47e31c5f9413f39420.png",
+          "assets/doro-motion/frames/56ffe95a2fa81ae383a89a48dddba52707bd8c2830144f3b8420a8ce3b311e93.png",
+          "assets/doro-motion/frames/48a2efe9027a026fdb8de6ca96c1470b2db6306e253e65aaa4cf0e213ffc57e7.png",
+          "assets/doro-motion/frames/05c3b24f7e70588b90916d84b204543cf9a6156afa60066c145b83d4988af1d3.png",
+          "assets/doro-motion/frames/a61f9bfed2d1c888c6a34a2588ccec5dd9852a1841add0581984e41c2905ec18.png",
+          "assets/doro-motion/frames/3874f72adb196531e03c3285ca51db0be1c41ffa8b8b6c378300143d195c6fbb.png",
+          "assets/doro-motion/frames/e5e522f157e9838456a8d7175677dd670a2e0efe721775c3509546494c51246d.png",
+          "assets/doro-motion/frames/743aaff83609b544111187ed602f4530281bfb0f238a277c5fb888994db3ddb0.png",
+          "assets/doro-motion/frames/a99349cfa7ff0c0e8efc823f4fd674c4b243fb7f8c68ce29742ff2f169f1a7f5.png",
+          "assets/doro-motion/frames/2e97ae41c107857a94bb9086016603e7d1202bc12c4de87294a8c413fa0f1277.png",
+          "assets/doro-motion/frames/21d676f56a17b1f6928c7066fa6fe345e1d48d641525380e2a2a37d6ced2776d.png",
+          "assets/doro-motion/frames/486fe3772f81af32f94c2ed5b507be4c2a0c7156f89d72370cc061582990456d.png",
+          "assets/doro-motion/frames/ef281594b4bc31fe95fa4fbc0a0d0a9924a90fe64cf9e59feb4634c3dae4c0e1.png",
+          "assets/doro-motion/frames/563e540105ad511eb1f4b0542f2b28d9ef226a5b96d116a46808bfd73007dc92.png",
+          "assets/doro-motion/frames/e638842c6ca290c0aea00a434b0094c0710eb112962118a5407435065c6fcf44.png",
+          "assets/doro-motion/frames/1185852f1e7564826ab531f55733ce0388697da4231f8c63a0e38a9377a4bced.png",
+          "assets/doro-motion/frames/979a6ad3e37adda5895fe51348b4869aa80625b87da57193821b9b410f610898.png",
+          "assets/doro-motion/frames/40f03ef2d71ab5e27eebe46b364023cdd3b5a10859c71126a93d7e6170705f7a.png",
+          "assets/doro-motion/frames/1c2394e45553f53ce1b8b354a2b160b99fffa3da89911ffc8145647eb511d8cf.png",
+          "assets/doro-motion/frames/2288634c429394feba87fb951b1b76ac95781da070d46ca3a6dbefccb688f61c.png",
+          "assets/doro-motion/frames/2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83.png"
+        ]
+      },
+      "line-work-start": {
+        "frames": [
+          [
+            "4b7eaba52488e6e52746f95c4105d91d3f2872856ad5ec211e5b0a01e76a8c9e",
+            120
+          ],
+          [
+            "19f7b0571c02298b7fbe88d8436a4accc11dd938716e1db9c142870a6a0c7744",
+            60
+          ],
+          [
+            "1632e75606fe148cf447706c84bd033705f20abc32ac1ef1c07d04d99e2d9e02",
+            60
+          ],
+          [
+            "2cf49b14977321c90053eefa20844fd8d69cbf22901d84689822ff1881bc2049",
+            70
+          ],
+          [
+            "a88fe3c522e6d75a589a827103bf770672b6fdfb7b795325eaa3d6361e14a2a3",
+            120
+          ]
+        ],
+        "duration_ms": 430,
+        "source_paths": [
+          "assets/doro-motion/frames/4b7eaba52488e6e52746f95c4105d91d3f2872856ad5ec211e5b0a01e76a8c9e.png",
+          "assets/doro-motion/frames/19f7b0571c02298b7fbe88d8436a4accc11dd938716e1db9c142870a6a0c7744.png",
+          "assets/doro-motion/frames/1632e75606fe148cf447706c84bd033705f20abc32ac1ef1c07d04d99e2d9e02.png",
+          "assets/doro-motion/frames/2cf49b14977321c90053eefa20844fd8d69cbf22901d84689822ff1881bc2049.png",
+          "assets/doro-motion/frames/a88fe3c522e6d75a589a827103bf770672b6fdfb7b795325eaa3d6361e14a2a3.png"
+        ]
+      },
+      "line-work-loop": {
+        "frames": [
+          [
+            "cd6880fcf6c3fdc394a3df08b6369c7aee05bc8b11e6cfe0cdeded4ba3d2bea1",
+            100
+          ],
+          [
+            "b97fc322186cd9d58b0e34249176887a4d5dd1b2d1f453b1dbea91cd41052ad0",
+            50
+          ],
+          [
+            "2025c60ff0e1bc9880b518b85eab4b5d2a8be1c8cc6948ef736b6376ce88ef8c",
+            50
+          ],
+          [
+            "020be423b306cad2b51499a98ef922e3ef259657c074da2ae71742311316754b",
+            50
+          ],
+          [
+            "01c933f0fad1ac290a63e68cc43d325a199e1b08de3f823afa888041307f7ac9",
+            50
+          ],
+          [
+            "a1c6e9726b3348af7ea22224cfb665ed3e087093faf360453b1d1b313398b703",
+            50
+          ],
+          [
+            "02b62dcb6a9b8ec0ecd9d2b2b324881b246b543bfbc983ce1bca9347dedfb9bb",
+            50
+          ],
+          [
+            "9d95d12468b40d405f7dffcb4e6787e20955079c944f0c64bcd38d512f732d49",
+            50
+          ],
+          [
+            "76408983959f868abbe8ade0ba23bc17cec95ad8b83e90ec5b0737fe2c7d69b2",
+            50
+          ],
+          [
+            "b1c8e08be093d7289e5f033007e41b4ce91bd338269728f12938fecda32db3f3",
+            50
+          ],
+          [
+            "637c7fe51b2a8e8f53fd9430ec5c281ed7160c9fb0b26e341d2779a52034927d",
+            50
+          ],
+          [
+            "adaf67359dc1f1028ae8c2a0322ccab52189240c324f1d9a751bcf8a4a194477",
+            50
+          ],
+          [
+            "16c6bc5f398001b2cc1a00f5fa270840c7bd8dfa74d69328599cb75a2871d494",
+            50
+          ],
+          [
+            "7830dbc803408e773b4e9f7b7b906b0a4ba95a50cd0726c7acf2dd37b566c55c",
+            50
+          ],
+          [
+            "bbab0fac8f83ac596796a011bac7cbb7e47f616d6e8095556ee1049f1323686e",
+            50
+          ],
+          [
+            "aaa33de9d0073002d6e48e7652e17c4dd5a7469b2c654aa49d1282c52a60b4ed",
+            50
+          ],
+          [
+            "9d95d12468b40d405f7dffcb4e6787e20955079c944f0c64bcd38d512f732d49",
+            50
+          ],
+          [
+            "76408983959f868abbe8ade0ba23bc17cec95ad8b83e90ec5b0737fe2c7d69b2",
+            100
+          ]
+        ],
+        "duration_ms": 1000,
+        "source_paths": [
+          "assets/doro-motion/frames/cd6880fcf6c3fdc394a3df08b6369c7aee05bc8b11e6cfe0cdeded4ba3d2bea1.png",
+          "assets/doro-motion/frames/b97fc322186cd9d58b0e34249176887a4d5dd1b2d1f453b1dbea91cd41052ad0.png",
+          "assets/doro-motion/frames/2025c60ff0e1bc9880b518b85eab4b5d2a8be1c8cc6948ef736b6376ce88ef8c.png",
+          "assets/doro-motion/frames/020be423b306cad2b51499a98ef922e3ef259657c074da2ae71742311316754b.png",
+          "assets/doro-motion/frames/01c933f0fad1ac290a63e68cc43d325a199e1b08de3f823afa888041307f7ac9.png",
+          "assets/doro-motion/frames/a1c6e9726b3348af7ea22224cfb665ed3e087093faf360453b1d1b313398b703.png",
+          "assets/doro-motion/frames/02b62dcb6a9b8ec0ecd9d2b2b324881b246b543bfbc983ce1bca9347dedfb9bb.png",
+          "assets/doro-motion/frames/9d95d12468b40d405f7dffcb4e6787e20955079c944f0c64bcd38d512f732d49.png",
+          "assets/doro-motion/frames/76408983959f868abbe8ade0ba23bc17cec95ad8b83e90ec5b0737fe2c7d69b2.png",
+          "assets/doro-motion/frames/b1c8e08be093d7289e5f033007e41b4ce91bd338269728f12938fecda32db3f3.png",
+          "assets/doro-motion/frames/637c7fe51b2a8e8f53fd9430ec5c281ed7160c9fb0b26e341d2779a52034927d.png",
+          "assets/doro-motion/frames/adaf67359dc1f1028ae8c2a0322ccab52189240c324f1d9a751bcf8a4a194477.png",
+          "assets/doro-motion/frames/16c6bc5f398001b2cc1a00f5fa270840c7bd8dfa74d69328599cb75a2871d494.png",
+          "assets/doro-motion/frames/7830dbc803408e773b4e9f7b7b906b0a4ba95a50cd0726c7acf2dd37b566c55c.png",
+          "assets/doro-motion/frames/bbab0fac8f83ac596796a011bac7cbb7e47f616d6e8095556ee1049f1323686e.png",
+          "assets/doro-motion/frames/aaa33de9d0073002d6e48e7652e17c4dd5a7469b2c654aa49d1282c52a60b4ed.png",
+          "assets/doro-motion/frames/9d95d12468b40d405f7dffcb4e6787e20955079c944f0c64bcd38d512f732d49.png",
+          "assets/doro-motion/frames/76408983959f868abbe8ade0ba23bc17cec95ad8b83e90ec5b0737fe2c7d69b2.png"
+        ]
+      },
+      "line-work-end": {
+        "frames": [
+          [
+            "ae3aa0a7f70591d07beae802aa1db3a85967ea729557f969611899095a904e0a",
+            200
+          ],
+          [
+            "39786af233e335221d1e86e0c899fee259eaa324773e080c59228d0771145a01",
+            60
+          ],
+          [
+            "5b6a097ba11123582a232dc60f3bb37931b24802f2f7933f9cd49448a8c225c0",
+            60
+          ],
+          [
+            "4b7eaba52488e6e52746f95c4105d91d3f2872856ad5ec211e5b0a01e76a8c9e",
+            120
+          ]
+        ],
+        "duration_ms": 440,
+        "source_paths": [
+          "assets/doro-motion/frames/ae3aa0a7f70591d07beae802aa1db3a85967ea729557f969611899095a904e0a.png",
+          "assets/doro-motion/frames/39786af233e335221d1e86e0c899fee259eaa324773e080c59228d0771145a01.png",
+          "assets/doro-motion/frames/5b6a097ba11123582a232dc60f3bb37931b24802f2f7933f9cd49448a8c225c0.png",
+          "assets/doro-motion/frames/4b7eaba52488e6e52746f95c4105d91d3f2872856ad5ec211e5b0a01e76a8c9e.png"
+        ]
+      },
+      "line-button-start": {
+        "frames": [
+          [
+            "e3ee85040cc64b89b63ab34965a3c8e2ac8d17a057311706435dee0b3ad8c9e4",
+            100
+          ],
+          [
+            "f34719fdac28401e9b396e7b072751f5f61aea440d4a7fee28ac63eca1f814d3",
+            80
+          ],
+          [
+            "5cdfff4076253db2657672da5e5592cae87923e75df91c972ab88e553f89eae0",
+            80
+          ],
+          [
+            "28a27fb2ca4cc280f8278634117deab72bd25d868b93976ff065e35289bc931a",
+            90
+          ]
+        ],
+        "duration_ms": 350,
+        "source_paths": [
+          "assets/doro-motion/frames/e3ee85040cc64b89b63ab34965a3c8e2ac8d17a057311706435dee0b3ad8c9e4.png",
+          "assets/doro-motion/frames/f34719fdac28401e9b396e7b072751f5f61aea440d4a7fee28ac63eca1f814d3.png",
+          "assets/doro-motion/frames/5cdfff4076253db2657672da5e5592cae87923e75df91c972ab88e553f89eae0.png",
+          "assets/doro-motion/frames/28a27fb2ca4cc280f8278634117deab72bd25d868b93976ff065e35289bc931a.png"
+        ]
+      },
+      "line-button-loop": {
+        "frames": [
+          [
+            "826a3111d567708dd9e533506aab7c9e7defdcf74a095c0d1d6034e9e0c7856e",
+            30
+          ],
+          [
+            "0658acbe506949ebb63a1ac83734a698c5a127bbaa962f24201f0340d7f7f89b",
+            90
+          ],
+          [
+            "4593ea92308baf5b9093b226f9d4ed4f379a7b35f8d3ce9a9ee368144240ce7c",
+            30
+          ],
+          [
+            "e4186ebe0c89d09ce111f14bf034391a191007efe3ddee00322fee1bee1c65d1",
+            90
+          ],
+          [
+            "4315af9b7c630594cab43bec727bc00e3756c813008a9b419af779fe73ccdb2b",
+            90
+          ],
+          [
+            "371d05fc872c5484153b449077b5ec10bc04b1505ef35fabdb45c29d25e0492b",
+            30
+          ],
+          [
+            "05da75468d6b7dbe40e0e940521457312de16f87c8e485598ea9e41bf888b7e6",
+            40
+          ],
+          [
+            "49062de2716a3ac599f1df5bc07176f9f886428cfa994f52cd05d45221164429",
+            30
+          ],
+          [
+            "dfb007986e32edafa8715bb65b477aaa8c79851e55261840d1ab20b72b562000",
+            60
+          ],
+          [
+            "acfd110bf155c9c5fe48d56ec646c886bf3f93f4b7abdb80cea1940be9f793d3",
+            30
+          ],
+          [
+            "262c9766754833bc53907e50a641b03b437cfd6939343a5445e5f1695d818c8a",
+            30
+          ],
+          [
+            "92497458f055d59bc2c01406ef253b84d7714be90def35b54b9358ba3d7c3225",
+            60
+          ],
+          [
+            "3aae1bee0ad65cdcd6b8aff9038012ce261efb7f4480bf3f3e3e44fa83184f6d",
+            30
+          ],
+          [
+            "f1ba9200f6521d47123d3358e598b0889d5db5dbe6c4399d22fc49614dedb6a0",
+            90
+          ],
+          [
+            "5a1267b91f326f86e43c269224fcd36ef542cc35d31b3aa347d068f0fba8a1ef",
+            30
+          ],
+          [
+            "45d158d0df7f7240401aa12fbb8af0ec0aa7584421974f6c1e263e3dd3c34ec0",
+            30
+          ],
+          [
+            "0fc4b53e81adfd4c48a8b08bafebcb0f62dd36308d366e3b763990fcae316a76",
+            60
+          ],
+          [
+            "6d32c779e55a3caf5521dc83c542c3d1aa549f89be2e3f18ac15bb3d97778150",
+            30
+          ]
+        ],
+        "duration_ms": 880,
+        "source_paths": [
+          "assets/doro-motion/frames/826a3111d567708dd9e533506aab7c9e7defdcf74a095c0d1d6034e9e0c7856e.png",
+          "assets/doro-motion/frames/0658acbe506949ebb63a1ac83734a698c5a127bbaa962f24201f0340d7f7f89b.png",
+          "assets/doro-motion/frames/4593ea92308baf5b9093b226f9d4ed4f379a7b35f8d3ce9a9ee368144240ce7c.png",
+          "assets/doro-motion/frames/e4186ebe0c89d09ce111f14bf034391a191007efe3ddee00322fee1bee1c65d1.png",
+          "assets/doro-motion/frames/4315af9b7c630594cab43bec727bc00e3756c813008a9b419af779fe73ccdb2b.png",
+          "assets/doro-motion/frames/371d05fc872c5484153b449077b5ec10bc04b1505ef35fabdb45c29d25e0492b.png",
+          "assets/doro-motion/frames/05da75468d6b7dbe40e0e940521457312de16f87c8e485598ea9e41bf888b7e6.png",
+          "assets/doro-motion/frames/49062de2716a3ac599f1df5bc07176f9f886428cfa994f52cd05d45221164429.png",
+          "assets/doro-motion/frames/dfb007986e32edafa8715bb65b477aaa8c79851e55261840d1ab20b72b562000.png",
+          "assets/doro-motion/frames/acfd110bf155c9c5fe48d56ec646c886bf3f93f4b7abdb80cea1940be9f793d3.png",
+          "assets/doro-motion/frames/262c9766754833bc53907e50a641b03b437cfd6939343a5445e5f1695d818c8a.png",
+          "assets/doro-motion/frames/92497458f055d59bc2c01406ef253b84d7714be90def35b54b9358ba3d7c3225.png",
+          "assets/doro-motion/frames/3aae1bee0ad65cdcd6b8aff9038012ce261efb7f4480bf3f3e3e44fa83184f6d.png",
+          "assets/doro-motion/frames/f1ba9200f6521d47123d3358e598b0889d5db5dbe6c4399d22fc49614dedb6a0.png",
+          "assets/doro-motion/frames/5a1267b91f326f86e43c269224fcd36ef542cc35d31b3aa347d068f0fba8a1ef.png",
+          "assets/doro-motion/frames/45d158d0df7f7240401aa12fbb8af0ec0aa7584421974f6c1e263e3dd3c34ec0.png",
+          "assets/doro-motion/frames/0fc4b53e81adfd4c48a8b08bafebcb0f62dd36308d366e3b763990fcae316a76.png",
+          "assets/doro-motion/frames/6d32c779e55a3caf5521dc83c542c3d1aa549f89be2e3f18ac15bb3d97778150.png"
+        ]
+      },
+      "line-button-end": {
+        "frames": [
+          [
+            "2dbdc77d0b77737884bce24b95dfe2ea0ae5b5d5e5ba74753eb94b46ca98b1e5",
+            100
+          ],
+          [
+            "21e00e3daad0dd0ca6cefd650c7ad3b37111d42b3a6cd4fda9f39c4f1ccc8522",
+            80
+          ],
+          [
+            "dbf37e3de1c823f28f033ab8222d5ede0949f2ff6f364313403c7898105572c6",
+            80
+          ],
+          [
+            "72e7d016651aa2d17cc02352f41b00329793732a02fa73c79241d085ebafddeb",
+            100
+          ]
+        ],
+        "duration_ms": 360,
+        "source_paths": [
+          "assets/doro-motion/frames/2dbdc77d0b77737884bce24b95dfe2ea0ae5b5d5e5ba74753eb94b46ca98b1e5.png",
+          "assets/doro-motion/frames/21e00e3daad0dd0ca6cefd650c7ad3b37111d42b3a6cd4fda9f39c4f1ccc8522.png",
+          "assets/doro-motion/frames/dbf37e3de1c823f28f033ab8222d5ede0949f2ff6f364313403c7898105572c6.png",
+          "assets/doro-motion/frames/72e7d016651aa2d17cc02352f41b00329793732a02fa73c79241d085ebafddeb.png"
+        ]
+      },
+      "line-scope-start": {
+        "frames": [
+          [
+            "d12b29841a4f0654678f797470b840969b092f0356fb4ba6ca1197140c75ddc8",
+            110
+          ],
+          [
+            "8ed7aa0568ee631b650342ba5394be9aa518d9a07305f99d7d2321f57efcadfc",
+            90
+          ],
+          [
+            "abcaefa192f72fdfed2ee26b126644730cff4d31765b531178d2f90823603240",
+            80
+          ],
+          [
+            "aeae49ff366fba5c81322950f0f5f42fa09fc8093549b457c1b9f90ec2b99ed0",
+            80
+          ],
+          [
+            "9e7633d677f4061a8484abba6404d4a407a63a3a1690410881794f50ab8a8854",
+            90
+          ]
+        ],
+        "duration_ms": 450,
+        "source_paths": [
+          "assets/doro-motion/frames/d12b29841a4f0654678f797470b840969b092f0356fb4ba6ca1197140c75ddc8.png",
+          "assets/doro-motion/frames/8ed7aa0568ee631b650342ba5394be9aa518d9a07305f99d7d2321f57efcadfc.png",
+          "assets/doro-motion/frames/abcaefa192f72fdfed2ee26b126644730cff4d31765b531178d2f90823603240.png",
+          "assets/doro-motion/frames/aeae49ff366fba5c81322950f0f5f42fa09fc8093549b457c1b9f90ec2b99ed0.png",
+          "assets/doro-motion/frames/9e7633d677f4061a8484abba6404d4a407a63a3a1690410881794f50ab8a8854.png"
+        ]
+      },
+      "line-scope-loop": {
+        "frames": [
+          [
+            "e2dd4ca636098aa9f83e71c146dfa74a973335bb8fb6e4d3d089a38113a96d71",
+            100
+          ],
+          [
+            "26ea68cfc9e659de5f2c1ed98638144b05148b9ff69cb95042bdbbc07b8a7da4",
+            100
+          ],
+          [
+            "84c215aa7d206f38af56d0c3dafa0f8fb395c340bac5af2618d0367260bf96d1",
+            100
+          ],
+          [
+            "fac6720d4d401904775c951026ffbd5233b4d53dd80d8ed3630351c0dc1b828a",
+            100
+          ],
+          [
+            "e13eeb730de33436659df12f03ad44fbe4593619e9849a72a4b45cc57f95780c",
+            100
+          ],
+          [
+            "d6f1427f8e732a86b3055937211e772355e126e3e3e9f617022e76ee55d943c4",
+            100
+          ],
+          [
+            "f3b62935971d82fa42220d0886dad6c83470078450c74a46cad9c779182c42e8",
+            100
+          ],
+          [
+            "e0ef01e059de05ff20e81392a0183099be5527520f1fb1e5d0f54b3e08e443ae",
+            100
+          ],
+          [
+            "113c5688f013cc542fc07a314a1b9bd27ed7db0ecdea1ce4a12c9337255246ef",
+            100
+          ],
+          [
+            "a68166b44425d5ed7d98bde158d583cc3dcc2e78be5e9c85ccfd90ed2cb1970f",
+            100
+          ],
+          [
+            "2cdbd36deaf539b3a9af4e88a01f45ed2a7b537d6589f0527391fc67ea2d8894",
+            100
+          ],
+          [
+            "10dc77869416f47e1c656ae4c04cf84e770ae6276f794cbc14c5686293a4e176",
+            100
+          ],
+          [
+            "60cbc52c186c47a45730ab881fa3c087010e9437ecf6a36508cf9c1da7355a85",
+            100
+          ],
+          [
+            "e4bcf4a8de5304121aeda9aea19b12938d475daabc726d254e202e29cbc96baa",
+            100
+          ],
+          [
+            "3f0a585056f9bf42d47297ef1c08aba7f563c3c127a91b2a638279cf96366bbf",
+            100
+          ],
+          [
+            "ca9f5a2abe4a6e25445321bb31e879c86296e318390f7d87bdb3e6fb6e9ebc7c",
+            100
+          ],
+          [
+            "e559aca29ce8cac3d6bf75505792eed970ba5e59a6cbde7660b3f3ef8481c9f5",
+            100
+          ],
+          [
+            "16027929245fe0749a1a69e99fb062b5f7136d55b2355d47ba4bdd60401be9e5",
+            100
+          ],
+          [
+            "4071338d057a978231b5005e02b40ba5ff4e222aa3b41a9ff9507f534dea6056",
+            100
+          ],
+          [
+            "f35e6a8e9035f3fb7b63305b19cb715b9c9ef01fe72f416593e3c356e81c2416",
+            100
+          ],
+          [
+            "a928ab6c0063bc4d2f3954196dd3705136a58bddf22fdc2c5b12f379fc7708c6",
+            100
+          ],
+          [
+            "ad7227f6d7d610330ef4d8d06fc21a865f2b8d6d8d4456d42ca9b1e8919620a0",
+            100
+          ],
+          [
+            "ae426c9e9b3db06b1eca92e0b273fef753e0f75633e1bf678b93c1c5fe4f94d8",
+            100
+          ],
+          [
+            "7789f2ffa45f885e21b5efb0cf3f097743cfc217712e204196dd36278df5dae7",
+            100
+          ],
+          [
+            "c4e6246418cfd939903a250c88a0c97aa714184c268fecf14bc3f77a7d0d87ed",
+            100
+          ],
+          [
+            "cc16e38b5028bc651f4791d86d1b9bfef4638c7b7b65a869dcd57efb118a093e",
+            100
+          ],
+          [
+            "f8ae64d71a65aca6f09f30dfda48e2693f47dc1b87b2dda29580028247f53659",
+            100
+          ],
+          [
+            "384c521c74279566a3eead573bcaf3ee05229c5fc93a0ad89e620e72a678fa33",
+            100
+          ],
+          [
+            "e5c03d5a0f7eca18112a6b95816485e7f52667749aa99c75642147f7dabe886f",
+            100
+          ],
+          [
+            "f44141228c816d053e77abf8feb5fe0428f73acd3aa2e9b2d93ca89650ce191c",
+            100
+          ],
+          [
+            "77dc991063627a8abcd04c747f9fa4b34730038347997ff9887c21e2dbfe88ef",
+            100
+          ],
+          [
+            "ddd6ff74e85528de1ee375e1a4075a33e41cd99e2ec62710833802b4f10ffaa4",
+            100
+          ],
+          [
+            "2b04d062e327462e4a433b875b878fd646dcc21102879dbaf63962105442c33f",
+            100
+          ],
+          [
+            "1682e816c7df6c55ce85704474a12eb604d93d25aea82a2726813a03520966aa",
+            100
+          ],
+          [
+            "d5207edd990eb2ddab321bf015896adc0a77d4dbb8305ead05dfe54d913625a0",
+            100
+          ],
+          [
+            "516a95352ffb4ad8e09e4af32b7c72e289723c84bbc6a519b243de627ae85673",
+            100
+          ]
+        ],
+        "duration_ms": 3600,
+        "source_paths": [
+          "assets/doro-motion/frames/e2dd4ca636098aa9f83e71c146dfa74a973335bb8fb6e4d3d089a38113a96d71.png",
+          "assets/doro-motion/frames/26ea68cfc9e659de5f2c1ed98638144b05148b9ff69cb95042bdbbc07b8a7da4.png",
+          "assets/doro-motion/frames/84c215aa7d206f38af56d0c3dafa0f8fb395c340bac5af2618d0367260bf96d1.png",
+          "assets/doro-motion/frames/fac6720d4d401904775c951026ffbd5233b4d53dd80d8ed3630351c0dc1b828a.png",
+          "assets/doro-motion/frames/e13eeb730de33436659df12f03ad44fbe4593619e9849a72a4b45cc57f95780c.png",
+          "assets/doro-motion/frames/d6f1427f8e732a86b3055937211e772355e126e3e3e9f617022e76ee55d943c4.png",
+          "assets/doro-motion/frames/f3b62935971d82fa42220d0886dad6c83470078450c74a46cad9c779182c42e8.png",
+          "assets/doro-motion/frames/e0ef01e059de05ff20e81392a0183099be5527520f1fb1e5d0f54b3e08e443ae.png",
+          "assets/doro-motion/frames/113c5688f013cc542fc07a314a1b9bd27ed7db0ecdea1ce4a12c9337255246ef.png",
+          "assets/doro-motion/frames/a68166b44425d5ed7d98bde158d583cc3dcc2e78be5e9c85ccfd90ed2cb1970f.png",
+          "assets/doro-motion/frames/2cdbd36deaf539b3a9af4e88a01f45ed2a7b537d6589f0527391fc67ea2d8894.png",
+          "assets/doro-motion/frames/10dc77869416f47e1c656ae4c04cf84e770ae6276f794cbc14c5686293a4e176.png",
+          "assets/doro-motion/frames/60cbc52c186c47a45730ab881fa3c087010e9437ecf6a36508cf9c1da7355a85.png",
+          "assets/doro-motion/frames/e4bcf4a8de5304121aeda9aea19b12938d475daabc726d254e202e29cbc96baa.png",
+          "assets/doro-motion/frames/3f0a585056f9bf42d47297ef1c08aba7f563c3c127a91b2a638279cf96366bbf.png",
+          "assets/doro-motion/frames/ca9f5a2abe4a6e25445321bb31e879c86296e318390f7d87bdb3e6fb6e9ebc7c.png",
+          "assets/doro-motion/frames/e559aca29ce8cac3d6bf75505792eed970ba5e59a6cbde7660b3f3ef8481c9f5.png",
+          "assets/doro-motion/frames/16027929245fe0749a1a69e99fb062b5f7136d55b2355d47ba4bdd60401be9e5.png",
+          "assets/doro-motion/frames/4071338d057a978231b5005e02b40ba5ff4e222aa3b41a9ff9507f534dea6056.png",
+          "assets/doro-motion/frames/f35e6a8e9035f3fb7b63305b19cb715b9c9ef01fe72f416593e3c356e81c2416.png",
+          "assets/doro-motion/frames/a928ab6c0063bc4d2f3954196dd3705136a58bddf22fdc2c5b12f379fc7708c6.png",
+          "assets/doro-motion/frames/ad7227f6d7d610330ef4d8d06fc21a865f2b8d6d8d4456d42ca9b1e8919620a0.png",
+          "assets/doro-motion/frames/ae426c9e9b3db06b1eca92e0b273fef753e0f75633e1bf678b93c1c5fe4f94d8.png",
+          "assets/doro-motion/frames/7789f2ffa45f885e21b5efb0cf3f097743cfc217712e204196dd36278df5dae7.png",
+          "assets/doro-motion/frames/c4e6246418cfd939903a250c88a0c97aa714184c268fecf14bc3f77a7d0d87ed.png",
+          "assets/doro-motion/frames/cc16e38b5028bc651f4791d86d1b9bfef4638c7b7b65a869dcd57efb118a093e.png",
+          "assets/doro-motion/frames/f8ae64d71a65aca6f09f30dfda48e2693f47dc1b87b2dda29580028247f53659.png",
+          "assets/doro-motion/frames/384c521c74279566a3eead573bcaf3ee05229c5fc93a0ad89e620e72a678fa33.png",
+          "assets/doro-motion/frames/e5c03d5a0f7eca18112a6b95816485e7f52667749aa99c75642147f7dabe886f.png",
+          "assets/doro-motion/frames/f44141228c816d053e77abf8feb5fe0428f73acd3aa2e9b2d93ca89650ce191c.png",
+          "assets/doro-motion/frames/77dc991063627a8abcd04c747f9fa4b34730038347997ff9887c21e2dbfe88ef.png",
+          "assets/doro-motion/frames/ddd6ff74e85528de1ee375e1a4075a33e41cd99e2ec62710833802b4f10ffaa4.png",
+          "assets/doro-motion/frames/2b04d062e327462e4a433b875b878fd646dcc21102879dbaf63962105442c33f.png",
+          "assets/doro-motion/frames/1682e816c7df6c55ce85704474a12eb604d93d25aea82a2726813a03520966aa.png",
+          "assets/doro-motion/frames/d5207edd990eb2ddab321bf015896adc0a77d4dbb8305ead05dfe54d913625a0.png",
+          "assets/doro-motion/frames/516a95352ffb4ad8e09e4af32b7c72e289723c84bbc6a519b243de627ae85673.png"
+        ]
+      },
+      "line-scope-end": {
+        "frames": [
+          [
+            "53ca4ded841131e75776a381382173a78a22c28ef5dafb7dbb969dc03f8e0dbb",
+            90
+          ],
+          [
+            "e22617adcbc0dfd9f91d7295161263bb066238e4d81386e62019c613591d00d6",
+            80
+          ],
+          [
+            "6ea1c582de8711f1b78cc0a2b6ef4841d69a994d7e7ac8529d6b10d9056f75bc",
+            80
+          ],
+          [
+            "6572a76fd9dee754f83c83e6321700752fa86d90c7f2db6366c12de93da6592c",
+            90
+          ],
+          [
+            "fc9ab42a4ad96c4ee27ade23ad28851e476f924a8f814589259aed3cd7324b7e",
+            110
+          ]
+        ],
+        "duration_ms": 450,
+        "source_paths": [
+          "assets/doro-motion/frames/53ca4ded841131e75776a381382173a78a22c28ef5dafb7dbb969dc03f8e0dbb.png",
+          "assets/doro-motion/frames/e22617adcbc0dfd9f91d7295161263bb066238e4d81386e62019c613591d00d6.png",
+          "assets/doro-motion/frames/6ea1c582de8711f1b78cc0a2b6ef4841d69a994d7e7ac8529d6b10d9056f75bc.png",
+          "assets/doro-motion/frames/6572a76fd9dee754f83c83e6321700752fa86d90c7f2db6366c12de93da6592c.png",
+          "assets/doro-motion/frames/fc9ab42a4ad96c4ee27ade23ad28851e476f924a8f814589259aed3cd7324b7e.png"
+        ]
+      },
+      "line-read-start": {
+        "frames": [
+          [
+            "8a6b22fee21eed6bfc90232fd2ed6a6766ac2387ce37c4bcee4fd5bac841849b",
+            70
+          ],
+          [
+            "518d3cf1c7adcb8b70773df02fdb8402358e852dcdf9b08cd7c7608d21232fde",
+            60
+          ],
+          [
+            "5a7cdad52718e0f466dd4f9d980ffd363f52c84f0e475755d0c2516b610a6862",
+            60
+          ],
+          [
+            "99ee2a85115730ffcd8ff23e7dc485a5bf114342e559e370f9f76ee2b4800258",
+            60
+          ],
+          [
+            "ba29015a2867a9cfbc85381986a89b720a146007eae6a347ca224df2b3e3b2d0",
+            70
+          ]
+        ],
+        "duration_ms": 320,
+        "source_paths": [
+          "assets/doro-motion/frames/8a6b22fee21eed6bfc90232fd2ed6a6766ac2387ce37c4bcee4fd5bac841849b.png",
+          "assets/doro-motion/frames/518d3cf1c7adcb8b70773df02fdb8402358e852dcdf9b08cd7c7608d21232fde.png",
+          "assets/doro-motion/frames/5a7cdad52718e0f466dd4f9d980ffd363f52c84f0e475755d0c2516b610a6862.png",
+          "assets/doro-motion/frames/99ee2a85115730ffcd8ff23e7dc485a5bf114342e559e370f9f76ee2b4800258.png",
+          "assets/doro-motion/frames/ba29015a2867a9cfbc85381986a89b720a146007eae6a347ca224df2b3e3b2d0.png"
+        ]
+      },
+      "line-read-loop": {
+        "frames": [
+          [
+            "2b536c034afd04d3a89f035c9d390f567acad3af206d3b4a27eee715189909c8",
+            100
+          ],
+          [
+            "62db3062e2aafc201b87af0809a5f8ecdea28ef1ecef3d36c8c0aad2b8cb236e",
+            100
+          ],
+          [
+            "19535c6efab1e35c7523eab1300b9d7e7be5542f07ff4c3f61254847dc204fed",
+            100
+          ],
+          [
+            "49059357f5881c91b4bd9719977b625b7dfde8d961ebcbbe5352a5d8a638f679",
+            100
+          ],
+          [
+            "11e42051fa8964c799a6d01a828f81eaacd5ec723b7578ba11464d9c93ee71b3",
+            100
+          ],
+          [
+            "933bdf1e7fc1f3802fcb923b001fcf646c7329cdb3a1e62fa57fc896d158658b",
+            100
+          ],
+          [
+            "ea74adc90cadd10a941acc89530f27c36ee861759a3ba531f9d013ba7bc35dc0",
+            100
+          ],
+          [
+            "1d204020bdf47909f7f7a0cd4e6ca2577da3e8180487c710d79c061552afc8b1",
+            100
+          ],
+          [
+            "0c4daca9e0bb165f17f520970a717476a1d77320f096cc626fc1c15dab1228d9",
+            100
+          ],
+          [
+            "6141afbe2c19dd4ec1ca934e1f858aab3a2d604b1f8e4a8f693551de29bcd6a8",
+            100
+          ],
+          [
+            "71fa88f1d8cebe8caef66147c05d5484604803885eaa3176ee5449f9ed515a83",
+            100
+          ],
+          [
+            "29343ec2bb77ed784e7e18260f5f94df262d0c9938215b47bd387da40e64ab96",
+            100
+          ],
+          [
+            "8a5b9447fb7db2cc9bf433d4e1f9abd986100292c7890af7d8225495f94ab98d",
+            100
+          ],
+          [
+            "b616306e3502795a4a9b3451d051dda00ea40b8cba55be4a9bd8c4781ca5cf12",
+            100
+          ],
+          [
+            "18cf2d27ad691a51652ddf90dc7ad89f3137a576ac0c005f833b315a62fc0c9b",
+            100
+          ],
+          [
+            "b927387424d40e2677cf1676fbba017ba8c6a1fcc4ff96a7f1e9b8f19bd66974",
+            100
+          ],
+          [
+            "7b8b778f436093017fec408eb7087938dcb686000aeff5f4a624eaf34a30e8c6",
+            100
+          ],
+          [
+            "b95a3770b162ffb8c87bf7b26bbbe414eae4178ef51940026a0b1b20efa05bbd",
+            100
+          ],
+          [
+            "e208b664717244aa5b0ff0108ab050f83c16f212a6f61acfb0c8f5c1b1ecd289",
+            100
+          ],
+          [
+            "a8f3c39217c7e59adba2cf8f5f2c19b592c2e8bf520f41c148c6c4a08da1e90c",
+            100
+          ],
+          [
+            "e4faec7e7c867f5590819d55f7febe87fb19f3fc039ed2347b2c8b454678c781",
+            100
+          ],
+          [
+            "7560aa0dc72dc86556b405001950cfa0aebfdc218ecef2e3156ef966acf7a530",
+            100
+          ],
+          [
+            "0e6f28eae966a797fde291acd3edd45304bded908c61e0a49ad7e193cb341df7",
+            100
+          ],
+          [
+            "6cbc08c3b7aa6e560886fd0fd02b6ab98a3dc081d56f6b3c7d7d86023cd3e63b",
+            100
+          ],
+          [
+            "f7b40b681f555a5c644749aaa58ebc47b34cb207858a78372aac021357cd21b7",
+            100
+          ],
+          [
+            "45173effab05b46866bde7801d008dfed99f4406f5d38379ea1461cd7f16fca3",
+            100
+          ],
+          [
+            "4460d580081e01bf73199908b4879d408770b818a5003a86aa5e43114a4cc212",
+            100
+          ],
+          [
+            "37f6606840788cd492e1650d5fc42f133d4629b958fa6f6284b49e9c9bb2644d",
+            100
+          ],
+          [
+            "dc532b11957092996d7f104b41d945d070f71fbbbbe5fc68a0738fe877aff0c1",
+            100
+          ],
+          [
+            "c724c3c7750c86a830bcc06e177eef81445c46cf742dca0c50b3072172407169",
+            100
+          ],
+          [
+            "3f5b1139e307b3e8330bc7a5a99fe5d070ed6697d021db2015160a0a85fc02d5",
+            100
+          ],
+          [
+            "0f37912673f8a894a2bafe13c61d99ccdbe6e2badbd8a7be1b6c1e9ef37395f5",
+            100
+          ],
+          [
+            "d9fdf436c7b35aa434a83176abab36aedd8aadbbcd700006f93895ab20a1601d",
+            100
+          ],
+          [
+            "f9af1482d47dbaa43db3a771d0a86e669d29c69a25418d369d55bb21e4a58ceb",
+            100
+          ],
+          [
+            "d719d9f4c3f1fe2c26cf4543fd54e7e38e920163c2e198c3faa040af61428547",
+            100
+          ],
+          [
+            "d007cb839e80025c8ad5e8745d1928e4167055dba71872e818824d36fae7ebf8",
+            100
+          ]
+        ],
+        "duration_ms": 3600,
+        "source_paths": [
+          "assets/doro-motion/frames/2b536c034afd04d3a89f035c9d390f567acad3af206d3b4a27eee715189909c8.png",
+          "assets/doro-motion/frames/62db3062e2aafc201b87af0809a5f8ecdea28ef1ecef3d36c8c0aad2b8cb236e.png",
+          "assets/doro-motion/frames/19535c6efab1e35c7523eab1300b9d7e7be5542f07ff4c3f61254847dc204fed.png",
+          "assets/doro-motion/frames/49059357f5881c91b4bd9719977b625b7dfde8d961ebcbbe5352a5d8a638f679.png",
+          "assets/doro-motion/frames/11e42051fa8964c799a6d01a828f81eaacd5ec723b7578ba11464d9c93ee71b3.png",
+          "assets/doro-motion/frames/933bdf1e7fc1f3802fcb923b001fcf646c7329cdb3a1e62fa57fc896d158658b.png",
+          "assets/doro-motion/frames/ea74adc90cadd10a941acc89530f27c36ee861759a3ba531f9d013ba7bc35dc0.png",
+          "assets/doro-motion/frames/1d204020bdf47909f7f7a0cd4e6ca2577da3e8180487c710d79c061552afc8b1.png",
+          "assets/doro-motion/frames/0c4daca9e0bb165f17f520970a717476a1d77320f096cc626fc1c15dab1228d9.png",
+          "assets/doro-motion/frames/6141afbe2c19dd4ec1ca934e1f858aab3a2d604b1f8e4a8f693551de29bcd6a8.png",
+          "assets/doro-motion/frames/71fa88f1d8cebe8caef66147c05d5484604803885eaa3176ee5449f9ed515a83.png",
+          "assets/doro-motion/frames/29343ec2bb77ed784e7e18260f5f94df262d0c9938215b47bd387da40e64ab96.png",
+          "assets/doro-motion/frames/8a5b9447fb7db2cc9bf433d4e1f9abd986100292c7890af7d8225495f94ab98d.png",
+          "assets/doro-motion/frames/b616306e3502795a4a9b3451d051dda00ea40b8cba55be4a9bd8c4781ca5cf12.png",
+          "assets/doro-motion/frames/18cf2d27ad691a51652ddf90dc7ad89f3137a576ac0c005f833b315a62fc0c9b.png",
+          "assets/doro-motion/frames/b927387424d40e2677cf1676fbba017ba8c6a1fcc4ff96a7f1e9b8f19bd66974.png",
+          "assets/doro-motion/frames/7b8b778f436093017fec408eb7087938dcb686000aeff5f4a624eaf34a30e8c6.png",
+          "assets/doro-motion/frames/b95a3770b162ffb8c87bf7b26bbbe414eae4178ef51940026a0b1b20efa05bbd.png",
+          "assets/doro-motion/frames/e208b664717244aa5b0ff0108ab050f83c16f212a6f61acfb0c8f5c1b1ecd289.png",
+          "assets/doro-motion/frames/a8f3c39217c7e59adba2cf8f5f2c19b592c2e8bf520f41c148c6c4a08da1e90c.png",
+          "assets/doro-motion/frames/e4faec7e7c867f5590819d55f7febe87fb19f3fc039ed2347b2c8b454678c781.png",
+          "assets/doro-motion/frames/7560aa0dc72dc86556b405001950cfa0aebfdc218ecef2e3156ef966acf7a530.png",
+          "assets/doro-motion/frames/0e6f28eae966a797fde291acd3edd45304bded908c61e0a49ad7e193cb341df7.png",
+          "assets/doro-motion/frames/6cbc08c3b7aa6e560886fd0fd02b6ab98a3dc081d56f6b3c7d7d86023cd3e63b.png",
+          "assets/doro-motion/frames/f7b40b681f555a5c644749aaa58ebc47b34cb207858a78372aac021357cd21b7.png",
+          "assets/doro-motion/frames/45173effab05b46866bde7801d008dfed99f4406f5d38379ea1461cd7f16fca3.png",
+          "assets/doro-motion/frames/4460d580081e01bf73199908b4879d408770b818a5003a86aa5e43114a4cc212.png",
+          "assets/doro-motion/frames/37f6606840788cd492e1650d5fc42f133d4629b958fa6f6284b49e9c9bb2644d.png",
+          "assets/doro-motion/frames/dc532b11957092996d7f104b41d945d070f71fbbbbe5fc68a0738fe877aff0c1.png",
+          "assets/doro-motion/frames/c724c3c7750c86a830bcc06e177eef81445c46cf742dca0c50b3072172407169.png",
+          "assets/doro-motion/frames/3f5b1139e307b3e8330bc7a5a99fe5d070ed6697d021db2015160a0a85fc02d5.png",
+          "assets/doro-motion/frames/0f37912673f8a894a2bafe13c61d99ccdbe6e2badbd8a7be1b6c1e9ef37395f5.png",
+          "assets/doro-motion/frames/d9fdf436c7b35aa434a83176abab36aedd8aadbbcd700006f93895ab20a1601d.png",
+          "assets/doro-motion/frames/f9af1482d47dbaa43db3a771d0a86e669d29c69a25418d369d55bb21e4a58ceb.png",
+          "assets/doro-motion/frames/d719d9f4c3f1fe2c26cf4543fd54e7e38e920163c2e198c3faa040af61428547.png",
+          "assets/doro-motion/frames/d007cb839e80025c8ad5e8745d1928e4167055dba71872e818824d36fae7ebf8.png"
+        ]
+      },
+      "line-read-end": {
+        "frames": [
+          [
+            "39bd281fad8fcec3f7c079c29f839302feaa4bba55c9f43b5fd7956e1fbb630a",
+            70
+          ],
+          [
+            "5f3eba9d9c7808150cd19d1fc0c270ce0e7c8da0baaaf9fd67bb9504f9c0525b",
+            70
+          ],
+          [
+            "daadcd28cf434c0fb924b4f0a210c6c70daabf9d68260a3ddd13e03d636b2a98",
+            70
+          ],
+          [
+            "13b6e47aae23e5d2a806109ddcb1064bbe03254a37c5aee98017ecd0739aa682",
+            70
+          ],
+          [
+            "c89a68cafe19bcf806bb405e7867e8b6f5759700b9a87c9b5adb6c5da7f4e572",
+            70
+          ]
+        ],
+        "duration_ms": 350,
+        "source_paths": [
+          "assets/doro-motion/frames/39bd281fad8fcec3f7c079c29f839302feaa4bba55c9f43b5fd7956e1fbb630a.png",
+          "assets/doro-motion/frames/5f3eba9d9c7808150cd19d1fc0c270ce0e7c8da0baaaf9fd67bb9504f9c0525b.png",
+          "assets/doro-motion/frames/daadcd28cf434c0fb924b4f0a210c6c70daabf9d68260a3ddd13e03d636b2a98.png",
+          "assets/doro-motion/frames/13b6e47aae23e5d2a806109ddcb1064bbe03254a37c5aee98017ecd0739aa682.png",
+          "assets/doro-motion/frames/c89a68cafe19bcf806bb405e7867e8b6f5759700b9a87c9b5adb6c5da7f4e572.png"
+        ]
+      },
+      "line-phone-start": {
+        "frames": [
+          [
+            "2f18b96379641c4209bf0db11bdc68669ccaf3d09b8cbb491ce2a5fe417a313e",
+            110
+          ],
+          [
+            "1d3aa5b8cc7883e4db7f421e77b7be7c30a0d06b3558c81bf8db30e1081fe47e",
+            90
+          ],
+          [
+            "1db14b8c6818d500ba5232ff4b1dd3df58e3af4103ffa2b6cbfea222746e2b90",
+            90
+          ],
+          [
+            "423203b36ba945c1e905056df0c98ae5686fde2979c2da14004090bb24d3affd",
+            90
+          ],
+          [
+            "a3d6971c7881a52f5115b13493fe4822c0a389316c18d1666c34329b8800d268",
+            100
+          ]
+        ],
+        "duration_ms": 480,
+        "source_paths": [
+          "assets/doro-motion/frames/2f18b96379641c4209bf0db11bdc68669ccaf3d09b8cbb491ce2a5fe417a313e.png",
+          "assets/doro-motion/frames/1d3aa5b8cc7883e4db7f421e77b7be7c30a0d06b3558c81bf8db30e1081fe47e.png",
+          "assets/doro-motion/frames/1db14b8c6818d500ba5232ff4b1dd3df58e3af4103ffa2b6cbfea222746e2b90.png",
+          "assets/doro-motion/frames/423203b36ba945c1e905056df0c98ae5686fde2979c2da14004090bb24d3affd.png",
+          "assets/doro-motion/frames/a3d6971c7881a52f5115b13493fe4822c0a389316c18d1666c34329b8800d268.png"
+        ]
+      },
+      "line-phone-loop": {
+        "frames": [
+          [
+            "8d3d36a27b75511baea20dd9f01d9182d877a8bda27d97597d21d5b4867ab8b5",
+            100
+          ],
+          [
+            "6194b0abd31b0e1d142c750076149caa42f94ec947bf7b3986baa256cfb8b096",
+            100
+          ],
+          [
+            "0858b154d4a3d59d90779887ac3c36eeaafa957dff0e4c3ebe2818e61288267d",
+            100
+          ],
+          [
+            "aa678055c54692a0b9335fd2ba374d274a42fca63ed3c84d528991375cb9fae8",
+            100
+          ],
+          [
+            "3813307f27d656f894d763c17ee438c6610d1025e542a681e9a29a18b692eae0",
+            100
+          ],
+          [
+            "d83091e26c691eccf618c1a91963747922cf83609e61ffa60c05824dc5340416",
+            100
+          ],
+          [
+            "98922de65bbffcfa03fdebcfff50975a53987601aa14092df28dcbd24c5be4e2",
+            100
+          ],
+          [
+            "97b23430b46cb1f59caa84b141cef5b6b3c3bc17f00d9020e37351bf5b0a6719",
+            100
+          ],
+          [
+            "5cea29d51af20be16911f9de3ca85fc49256a4ff7de4c98fa7667107856bdeab",
+            100
+          ],
+          [
+            "308ee0a40a98bd25d7e996644fc14d23ca14f81747a391a1f26ae092df939b70",
+            100
+          ],
+          [
+            "10efc2f47fd2dd04708c5f8ae4e010d1063968f65e5c6d0ea129f484bb0c15cb",
+            100
+          ],
+          [
+            "e2d8f54e4ce2525c0150a5a19e4a3dd690be52364348b4597628e572ca8ba9a8",
+            100
+          ],
+          [
+            "290b81e37a2a7c1531a572ba5ffbc67313dcf49b28382e0fbe44cd1102b31319",
+            100
+          ],
+          [
+            "06f951be588fc40a696c7b3f640def48037594c15f35123d82b7e467cff3702b",
+            100
+          ],
+          [
+            "618c1609733f4876014cf966258ec76ba6d2a65f946f01c05963a17ab56d785d",
+            100
+          ],
+          [
+            "a2fdfc2c4b380e9df09854d0c9646dd31d63eeada1a5541f2c2deeada5913096",
+            100
+          ],
+          [
+            "50a2f14cf28483c42ec96f80e8fca9f5fd947ade339168448822a8a031f61d51",
+            100
+          ],
+          [
+            "9d022d439d142a609d70f0defb8e79e3dca95b06685d8e99b03270174e348946",
+            100
+          ],
+          [
+            "92e42102b79d2cf41f8f2c448a23843e8e7dc5cfa07efabcb29d7bd0f6449600",
+            100
+          ],
+          [
+            "014e426efb3229f75788a21de3c778d4341ac07131964e8e87510a14f852edc9",
+            100
+          ],
+          [
+            "a67543e796464d3cb6e4e2bed2e4eaa5ec9f7710202df1d5579bcce316024a38",
+            100
+          ],
+          [
+            "ea17e9788dbc2799b2139a320414faafdbc46d3bcb897b4a4316fd825fc8704a",
+            100
+          ],
+          [
+            "c4a1fb81afdb35970f2dca34dc4f1cb3f336c459b793dc0a0f7cb9871f6fd0cf",
+            100
+          ],
+          [
+            "831c692d65d6cb16e655d089725caa974d5d007d3b82f49c1556a1d6517dddae",
+            100
+          ],
+          [
+            "f973b77a59a9afb3897c69a85b0903b9ec99866e197143b43b18b54b1c44d785",
+            100
+          ],
+          [
+            "d21890fdf40517f2c062e06cb85030fb020a378f650467512f5d667122621ad4",
+            100
+          ],
+          [
+            "403d009ab66328c2ed9cc28bb9c4899922595f1425342ddee296d94a430b5a14",
+            100
+          ],
+          [
+            "97376257fdc682ce0b898c9bcfa131e42f95e8ad5ee6ecf4ea0b705dc0d64ace",
+            100
+          ],
+          [
+            "dc9d0c0e8b2a50469230f2cf9666d43ddd58a0bbe06bfe7691f9cd1b852cf857",
+            100
+          ],
+          [
+            "a91be399464e2be7da638b93d2f70cde130db9ef690513dad2cf98ff3f5d02bb",
+            100
+          ],
+          [
+            "c07d68dfa443c1d1364ae5ed491269cd065cc44b36bde8572134006d71d90dc9",
+            100
+          ],
+          [
+            "864322d66a93099e52ab7b7ee28a385a6c69430111e2d83220d6d4f106d5b389",
+            100
+          ],
+          [
+            "6e00f9a35b6d008b91df139d1444e8af5ba098e8a12b155c44cda2fffab0f26f",
+            100
+          ],
+          [
+            "2280be80df2edc152193afcd2ad6ccedbb7ff07212bf0015a6e8a783a1de41ef",
+            100
+          ],
+          [
+            "6ab2411a0e89b7e8af36cad0dd789d50084ebed8ec8b68831fd14499ecf6c863",
+            100
+          ],
+          [
+            "93f8a879f2872ba91771ef6f1a393c4400067aa83923688a74fa54e80cae327d",
+            100
+          ]
+        ],
+        "duration_ms": 3600,
+        "source_paths": [
+          "assets/doro-motion/frames/8d3d36a27b75511baea20dd9f01d9182d877a8bda27d97597d21d5b4867ab8b5.png",
+          "assets/doro-motion/frames/6194b0abd31b0e1d142c750076149caa42f94ec947bf7b3986baa256cfb8b096.png",
+          "assets/doro-motion/frames/0858b154d4a3d59d90779887ac3c36eeaafa957dff0e4c3ebe2818e61288267d.png",
+          "assets/doro-motion/frames/aa678055c54692a0b9335fd2ba374d274a42fca63ed3c84d528991375cb9fae8.png",
+          "assets/doro-motion/frames/3813307f27d656f894d763c17ee438c6610d1025e542a681e9a29a18b692eae0.png",
+          "assets/doro-motion/frames/d83091e26c691eccf618c1a91963747922cf83609e61ffa60c05824dc5340416.png",
+          "assets/doro-motion/frames/98922de65bbffcfa03fdebcfff50975a53987601aa14092df28dcbd24c5be4e2.png",
+          "assets/doro-motion/frames/97b23430b46cb1f59caa84b141cef5b6b3c3bc17f00d9020e37351bf5b0a6719.png",
+          "assets/doro-motion/frames/5cea29d51af20be16911f9de3ca85fc49256a4ff7de4c98fa7667107856bdeab.png",
+          "assets/doro-motion/frames/308ee0a40a98bd25d7e996644fc14d23ca14f81747a391a1f26ae092df939b70.png",
+          "assets/doro-motion/frames/10efc2f47fd2dd04708c5f8ae4e010d1063968f65e5c6d0ea129f484bb0c15cb.png",
+          "assets/doro-motion/frames/e2d8f54e4ce2525c0150a5a19e4a3dd690be52364348b4597628e572ca8ba9a8.png",
+          "assets/doro-motion/frames/290b81e37a2a7c1531a572ba5ffbc67313dcf49b28382e0fbe44cd1102b31319.png",
+          "assets/doro-motion/frames/06f951be588fc40a696c7b3f640def48037594c15f35123d82b7e467cff3702b.png",
+          "assets/doro-motion/frames/618c1609733f4876014cf966258ec76ba6d2a65f946f01c05963a17ab56d785d.png",
+          "assets/doro-motion/frames/a2fdfc2c4b380e9df09854d0c9646dd31d63eeada1a5541f2c2deeada5913096.png",
+          "assets/doro-motion/frames/50a2f14cf28483c42ec96f80e8fca9f5fd947ade339168448822a8a031f61d51.png",
+          "assets/doro-motion/frames/9d022d439d142a609d70f0defb8e79e3dca95b06685d8e99b03270174e348946.png",
+          "assets/doro-motion/frames/92e42102b79d2cf41f8f2c448a23843e8e7dc5cfa07efabcb29d7bd0f6449600.png",
+          "assets/doro-motion/frames/014e426efb3229f75788a21de3c778d4341ac07131964e8e87510a14f852edc9.png",
+          "assets/doro-motion/frames/a67543e796464d3cb6e4e2bed2e4eaa5ec9f7710202df1d5579bcce316024a38.png",
+          "assets/doro-motion/frames/ea17e9788dbc2799b2139a320414faafdbc46d3bcb897b4a4316fd825fc8704a.png",
+          "assets/doro-motion/frames/c4a1fb81afdb35970f2dca34dc4f1cb3f336c459b793dc0a0f7cb9871f6fd0cf.png",
+          "assets/doro-motion/frames/831c692d65d6cb16e655d089725caa974d5d007d3b82f49c1556a1d6517dddae.png",
+          "assets/doro-motion/frames/f973b77a59a9afb3897c69a85b0903b9ec99866e197143b43b18b54b1c44d785.png",
+          "assets/doro-motion/frames/d21890fdf40517f2c062e06cb85030fb020a378f650467512f5d667122621ad4.png",
+          "assets/doro-motion/frames/403d009ab66328c2ed9cc28bb9c4899922595f1425342ddee296d94a430b5a14.png",
+          "assets/doro-motion/frames/97376257fdc682ce0b898c9bcfa131e42f95e8ad5ee6ecf4ea0b705dc0d64ace.png",
+          "assets/doro-motion/frames/dc9d0c0e8b2a50469230f2cf9666d43ddd58a0bbe06bfe7691f9cd1b852cf857.png",
+          "assets/doro-motion/frames/a91be399464e2be7da638b93d2f70cde130db9ef690513dad2cf98ff3f5d02bb.png",
+          "assets/doro-motion/frames/c07d68dfa443c1d1364ae5ed491269cd065cc44b36bde8572134006d71d90dc9.png",
+          "assets/doro-motion/frames/864322d66a93099e52ab7b7ee28a385a6c69430111e2d83220d6d4f106d5b389.png",
+          "assets/doro-motion/frames/6e00f9a35b6d008b91df139d1444e8af5ba098e8a12b155c44cda2fffab0f26f.png",
+          "assets/doro-motion/frames/2280be80df2edc152193afcd2ad6ccedbb7ff07212bf0015a6e8a783a1de41ef.png",
+          "assets/doro-motion/frames/6ab2411a0e89b7e8af36cad0dd789d50084ebed8ec8b68831fd14499ecf6c863.png",
+          "assets/doro-motion/frames/93f8a879f2872ba91771ef6f1a393c4400067aa83923688a74fa54e80cae327d.png"
+        ]
+      },
+      "line-phone-end": {
+        "frames": [
+          [
+            "76032d335bf36dedade757cd39be9b9980a3ec9f2359d514c74d0537699b7936",
+            90
+          ],
+          [
+            "96b494e09f7a41b377970ca6a69301ac2551960b67701ec5f12016fa5d0d2a9d",
+            80
+          ],
+          [
+            "8ed4aae6b4eca4cc323f5bb967db06bc2577a3aa39d951be79deba0a62764f60",
+            80
+          ],
+          [
+            "b04ef09b312a7029cd7c5717291609aac92109989c0c752e2ee92413177c8016",
+            90
+          ],
+          [
+            "8e18b70890fb73746fc817b549b62ab5e29a043e87e2b7e53803fefabbabeef7",
+            110
+          ]
+        ],
+        "duration_ms": 450,
+        "source_paths": [
+          "assets/doro-motion/frames/76032d335bf36dedade757cd39be9b9980a3ec9f2359d514c74d0537699b7936.png",
+          "assets/doro-motion/frames/96b494e09f7a41b377970ca6a69301ac2551960b67701ec5f12016fa5d0d2a9d.png",
+          "assets/doro-motion/frames/8ed4aae6b4eca4cc323f5bb967db06bc2577a3aa39d951be79deba0a62764f60.png",
+          "assets/doro-motion/frames/b04ef09b312a7029cd7c5717291609aac92109989c0c752e2ee92413177c8016.png",
+          "assets/doro-motion/frames/8e18b70890fb73746fc817b549b62ab5e29a043e87e2b7e53803fefabbabeef7.png"
+        ]
+      },
+      "line-think-start": {
+        "frames": [
+          [
+            "02b43367e7d837d7d60d05f932b6103f3ce680a71e1559303a71e50947812f41",
+            110
+          ],
+          [
+            "deada90c256e8960d911c4d252a889272507c966d7184bd52400dab9a0996bd5",
+            110
+          ]
+        ],
+        "duration_ms": 220,
+        "source_paths": [
+          "assets/doro-motion/frames/02b43367e7d837d7d60d05f932b6103f3ce680a71e1559303a71e50947812f41.png",
+          "assets/doro-motion/frames/deada90c256e8960d911c4d252a889272507c966d7184bd52400dab9a0996bd5.png"
+        ]
+      },
+      "line-think-loop": {
+        "frames": [
+          [
+            "c0da9966267ba73c45ebb6e80ade65e04705b533f71434d8fb892323e3320643",
+            50
+          ],
+          [
+            "6f230a00fcc5f83227cf6b6c9a3d3f388c6c3bad070bd9a17be4c67dc5492e0f",
+            50
+          ],
+          [
+            "eea10b7df8476bd72145e3a27fece4a27b293fd189c6d1826f73fc72d42ae388",
+            100
+          ],
+          [
+            "a08f58fef7e72c7c68b8281fbf3a925d8b11289a3ca67b13855604caf419c22b",
+            50
+          ],
+          [
+            "322698bec67819eb9b7ae14a712a39a0b7d17915405040b444d8f7f616497cc9",
+            50
+          ],
+          [
+            "6945210534aea5186fe8d5a0c4dee5e12a3a815d65767de53cd84999840baaef",
+            50
+          ],
+          [
+            "29f6a6700a04d1854c30c1400c056bf4239c7e30e60cbe051efa9d22245fbd76",
+            50
+          ],
+          [
+            "fbb79a47c11b126754ab2a96b11ba09809d4f60674ccbfe9c3123f0c8bbdce1d",
+            100
+          ]
+        ],
+        "duration_ms": 500,
+        "source_paths": [
+          "assets/doro-motion/frames/c0da9966267ba73c45ebb6e80ade65e04705b533f71434d8fb892323e3320643.png",
+          "assets/doro-motion/frames/6f230a00fcc5f83227cf6b6c9a3d3f388c6c3bad070bd9a17be4c67dc5492e0f.png",
+          "assets/doro-motion/frames/eea10b7df8476bd72145e3a27fece4a27b293fd189c6d1826f73fc72d42ae388.png",
+          "assets/doro-motion/frames/a08f58fef7e72c7c68b8281fbf3a925d8b11289a3ca67b13855604caf419c22b.png",
+          "assets/doro-motion/frames/322698bec67819eb9b7ae14a712a39a0b7d17915405040b444d8f7f616497cc9.png",
+          "assets/doro-motion/frames/6945210534aea5186fe8d5a0c4dee5e12a3a815d65767de53cd84999840baaef.png",
+          "assets/doro-motion/frames/29f6a6700a04d1854c30c1400c056bf4239c7e30e60cbe051efa9d22245fbd76.png",
+          "assets/doro-motion/frames/fbb79a47c11b126754ab2a96b11ba09809d4f60674ccbfe9c3123f0c8bbdce1d.png"
+        ]
+      },
+      "line-think-end": {
+        "frames": [
+          [
+            "deada90c256e8960d911c4d252a889272507c966d7184bd52400dab9a0996bd5",
+            110
+          ],
+          [
+            "02b43367e7d837d7d60d05f932b6103f3ce680a71e1559303a71e50947812f41",
+            110
+          ]
+        ],
+        "duration_ms": 220,
+        "source_paths": [
+          "assets/doro-motion/frames/deada90c256e8960d911c4d252a889272507c966d7184bd52400dab9a0996bd5.png",
+          "assets/doro-motion/frames/02b43367e7d837d7d60d05f932b6103f3ce680a71e1559303a71e50947812f41.png"
+        ]
+      },
+      "28447-doropingintensify-29e97564": {
+        "frames": [
+          [
+            "1475ee76b12e8c716544c47576e3ea801454faf722c01a203003faad4344e8a9",
+            50
+          ],
+          [
+            "ea3c8b2f7f0418e86f48977d8abc3e1c748b695d80be9a51719582cf557a3b17",
+            50
+          ],
+          [
+            "eb37297a0ff36798c034c9e50bd05885a62dc04807453f3b70dc9476394e2978",
+            50
+          ],
+          [
+            "98b9ce1010c9154a3b1207a6150ac5235ecc6ef03b687a64650921c2fd323e71",
+            50
+          ],
+          [
+            "1d036914aa3c6dc25cfadabf107d75fa9ca4f72bf511595a6d1d0b5787bb598e",
+            50
+          ],
+          [
+            "78cbba55e50a2bcef15c16193893faf66975b7eb38300d03dd0304baedcf9667",
+            50
+          ],
+          [
+            "220c922a28ba2ef55badc2c4850567cd87bbafe15485ecaaf1a0439fb9cf603c",
+            50
+          ],
+          [
+            "444998f144ba118e994947082457ac496232bfc2028c842f052283dae800192f",
+            50
+          ]
+        ],
+        "duration_ms": 400,
+        "source_paths": [
+          "assets/doro-motion/frames/1475ee76b12e8c716544c47576e3ea801454faf722c01a203003faad4344e8a9.png",
+          "assets/doro-motion/frames/ea3c8b2f7f0418e86f48977d8abc3e1c748b695d80be9a51719582cf557a3b17.png",
+          "assets/doro-motion/frames/eb37297a0ff36798c034c9e50bd05885a62dc04807453f3b70dc9476394e2978.png",
+          "assets/doro-motion/frames/98b9ce1010c9154a3b1207a6150ac5235ecc6ef03b687a64650921c2fd323e71.png",
+          "assets/doro-motion/frames/1d036914aa3c6dc25cfadabf107d75fa9ca4f72bf511595a6d1d0b5787bb598e.png",
+          "assets/doro-motion/frames/78cbba55e50a2bcef15c16193893faf66975b7eb38300d03dd0304baedcf9667.png",
+          "assets/doro-motion/frames/220c922a28ba2ef55badc2c4850567cd87bbafe15485ecaaf1a0439fb9cf603c.png",
+          "assets/doro-motion/frames/444998f144ba118e994947082457ac496232bfc2028c842f052283dae800192f.png"
+        ]
+      },
+      "28738-doropleading-2255b2a9": {
+        "frames": [
+          [
+            "9aaa1cd2a631924ad4a4df99459d7b5aaa50f66d80bd89a6ab27841e6ca8cc63",
+            1200
+          ]
+        ],
+        "duration_ms": 1200,
+        "source_paths": [
+          "assets/doro-motion/frames/9aaa1cd2a631924ad4a4df99459d7b5aaa50f66d80bd89a6ab27841e6ca8cc63.png"
+        ]
+      },
+      "line-success": {
+        "frames": [
+          [
+            "02b43367e7d837d7d60d05f932b6103f3ce680a71e1559303a71e50947812f41",
+            110
+          ],
+          [
+            "deada90c256e8960d911c4d252a889272507c966d7184bd52400dab9a0996bd5",
+            110
+          ],
+          [
+            "2cde9bb2b2b2ff601b7b483c978300457264bdf5e0ef4f5d95e181e79ad41a52",
+            100
+          ],
+          [
+            "43fd9e91c3963ab66890620362cc8b7786f7433bef67c84545ad7c643c211d92",
+            50
+          ],
+          [
+            "5cb0986a3e45ae923310e212fb8cbe7c5790b881bdf648f338c04de66571eb9f",
+            100
+          ],
+          [
+            "03ac2986675a1171015e06d13b1efb970a02db5d7385fd848e678733bb24773d",
+            50
+          ],
+          [
+            "9c91c68fa97a39b198efc0288a0cfa832317dfdd22db25bd230ee76db196928c",
+            100
+          ],
+          [
+            "82631afa7f8543f7132ff502d1b27b18ccef64e0b74c9270bac1dfecc17b0062",
+            50
+          ],
+          [
+            "3a6368cd823e5c1d9377c99c91ee554f6d739cbcb2ace3299ecdc2d0e8918505",
+            550
+          ],
+          [
+            "2cde9bb2b2b2ff601b7b483c978300457264bdf5e0ef4f5d95e181e79ad41a52",
+            100
+          ],
+          [
+            "43fd9e91c3963ab66890620362cc8b7786f7433bef67c84545ad7c643c211d92",
+            50
+          ],
+          [
+            "5cb0986a3e45ae923310e212fb8cbe7c5790b881bdf648f338c04de66571eb9f",
+            100
+          ],
+          [
+            "03ac2986675a1171015e06d13b1efb970a02db5d7385fd848e678733bb24773d",
+            50
+          ],
+          [
+            "9c91c68fa97a39b198efc0288a0cfa832317dfdd22db25bd230ee76db196928c",
+            100
+          ],
+          [
+            "82631afa7f8543f7132ff502d1b27b18ccef64e0b74c9270bac1dfecc17b0062",
+            50
+          ],
+          [
+            "3a6368cd823e5c1d9377c99c91ee554f6d739cbcb2ace3299ecdc2d0e8918505",
+            550
+          ],
+          [
+            "1e60bac47f4de63d6807c0a7e48b938c347ca3169e80c9c854644361cff19da3",
+            130
+          ],
+          [
+            "d7e06d24bbabcb106db4e04046582481e0491a01ba6ceac1ccbb47b9581fcd74",
+            160
+          ]
+        ],
+        "duration_ms": 2510,
+        "source_paths": [
+          "assets/doro-motion/frames/02b43367e7d837d7d60d05f932b6103f3ce680a71e1559303a71e50947812f41.png",
+          "assets/doro-motion/frames/deada90c256e8960d911c4d252a889272507c966d7184bd52400dab9a0996bd5.png",
+          "assets/doro-motion/frames/2cde9bb2b2b2ff601b7b483c978300457264bdf5e0ef4f5d95e181e79ad41a52.png",
+          "assets/doro-motion/frames/43fd9e91c3963ab66890620362cc8b7786f7433bef67c84545ad7c643c211d92.png",
+          "assets/doro-motion/frames/5cb0986a3e45ae923310e212fb8cbe7c5790b881bdf648f338c04de66571eb9f.png",
+          "assets/doro-motion/frames/03ac2986675a1171015e06d13b1efb970a02db5d7385fd848e678733bb24773d.png",
+          "assets/doro-motion/frames/9c91c68fa97a39b198efc0288a0cfa832317dfdd22db25bd230ee76db196928c.png",
+          "assets/doro-motion/frames/82631afa7f8543f7132ff502d1b27b18ccef64e0b74c9270bac1dfecc17b0062.png",
+          "assets/doro-motion/frames/3a6368cd823e5c1d9377c99c91ee554f6d739cbcb2ace3299ecdc2d0e8918505.png",
+          "assets/doro-motion/frames/2cde9bb2b2b2ff601b7b483c978300457264bdf5e0ef4f5d95e181e79ad41a52.png",
+          "assets/doro-motion/frames/43fd9e91c3963ab66890620362cc8b7786f7433bef67c84545ad7c643c211d92.png",
+          "assets/doro-motion/frames/5cb0986a3e45ae923310e212fb8cbe7c5790b881bdf648f338c04de66571eb9f.png",
+          "assets/doro-motion/frames/03ac2986675a1171015e06d13b1efb970a02db5d7385fd848e678733bb24773d.png",
+          "assets/doro-motion/frames/9c91c68fa97a39b198efc0288a0cfa832317dfdd22db25bd230ee76db196928c.png",
+          "assets/doro-motion/frames/82631afa7f8543f7132ff502d1b27b18ccef64e0b74c9270bac1dfecc17b0062.png",
+          "assets/doro-motion/frames/3a6368cd823e5c1d9377c99c91ee554f6d739cbcb2ace3299ecdc2d0e8918505.png",
+          "assets/doro-motion/frames/1e60bac47f4de63d6807c0a7e48b938c347ca3169e80c9c854644361cff19da3.png",
+          "assets/doro-motion/frames/d7e06d24bbabcb106db4e04046582481e0491a01ba6ceac1ccbb47b9581fcd74.png"
+        ]
+      }
+    },
+    "source_pngs": 253,
+    "generated_drawings": 11,
+    "generation_calls": 12,
+    "original_bytes_and_timing_preserved": true,
+    "plead_motion": {
+      "source_sha256": "9aaa1cd2a631924ad4a4df99459d7b5aaa50f66d80bd89a6ab27841e6ca8cc63",
+      "cycle_ms": 4000,
+      "eye_rois": [
+        [
+          72,
+          132,
+          95,
+          156
+        ],
+        [
+          106,
+          138,
+          128,
+          161
+        ]
+      ],
+      "edits": {
+        "half": {
+          "raw_sha256": "ee45d60146bfdb88ec016daec488b3928de5f9084892980e1b3fb5be2d760670",
+          "output_sha256": "b90823ecf2545b8edd5669ff7487814144207e7d91132c43e469bbba6243418b",
+          "changed_pixels": 1025
+        },
+        "closed": {
+          "raw_sha256": "061f33cca2c15462b8b2274c7d7222c63cc95a3c4ac42e6c37450759aa985573",
+          "output_sha256": "89f7e32522a75eec8f5b1755fec74c6fb7e1810ddf27260a3c5ee43653ff2841",
+          "changed_pixels": 1033
+        },
+        "glint": {
+          "raw_sha256": "a89dcb0c951313095ebdc38cabbd8c4c1e9b0681cff60bb937c71462c2071bee",
+          "output_sha256": "1bb01455ead9b6d874c6c38ebd52a45d2f9e32f2ca5bb3b50518cf2aec179a71",
+          "changed_pixels": 1010
+        }
+      },
+      "original_pixels_outside_eyes_preserved": true,
+      "alpha_unchanged": true,
+      "prompts": "pet-sources/authoring/doro-approval-trial/run-04/inputs/plead-motion/prompts.json",
+      "generation_calls": 3
+    },
+    "notes": [
+      "Only an HTML motion study: no pack, runtime, preferences or live installation changed.",
+      "Proposed approval path finishes outgoing artwork immediately, without waiting for a work loop. Native urgent attention currently skips that exit.",
+      "Approval holds indefinitely until an explicit local response. Resume respects the selected latest activity in the preview only.",
+      "tool_end is not turn_finished; the preview shows the two routes separately and omits the native activity hold timer.",
+      "Success reuses the existing single once-sequence including its authored reaction and recovery.",
+      "The selected thinking entry/exit are the existing interim success connectors; they need separate review.",
+      "New poses have cleaner outlines and a rose bun; the old cropped portraits have different framing/anatomy. Endpoint style changes remain a draft.",
+      "Runs/artwork exist only on this machine; LINE-derived mixed artwork is for local personal use, not gallery publication."
+    ]
+  },
+  "completion_1_1_3": {
+    "version": "1.1.3",
+    "pet": "doro-motion",
+    "accepted_preview": "doro-completion-transitions-preview-v5.html",
+    "source_catalog_sha256": "970c480fc6401b74b5300c777c4c9a8033d8e0e9d92aa9ded8a6ee64f9ce3a91",
+    "preview_data_sha256": "55291d7c14de0cae3cf8c3eaf9a08930de0dcae6e305ab99f020f5fbe079504c",
+    "states": {
+      "cue_nap": [
+        "completion-nap-entry",
+        "completion-nap-loop",
+        "completion-nap-end"
+      ],
+      "cue_inactive": [
+        "completion-nap-entry",
+        "completion-nap-loop",
+        "completion-nap-end"
+      ],
+      "cue_sleep_1": [
+        "completion-nap-once"
+      ],
+      "cue_start": [
+        "completion-start"
+      ],
+      "cue_reminder_done_1": [
+        "completion-thumbs"
+      ],
+      "cue_long_turn_1": [
+        "completion-dance"
+      ],
+      "cue_may20_3": [
+        "completion-dance"
+      ],
+      "cue_birthday_2": [
+        "completion-wine"
+      ]
+    },
+    "sequences": {
+      "completion-nap-entry": {
+        "state": "cue_nap",
+        "frames": 8,
+        "duration_ms": 635
+      },
+      "completion-nap-loop": {
+        "state": "cue_nap",
+        "frames": 20,
+        "duration_ms": 2000
+      },
+      "completion-nap-end": {
+        "state": "cue_nap",
+        "frames": 8,
+        "duration_ms": 605
+      },
+      "completion-start": {
+        "state": "cue_start",
+        "frames": 16,
+        "duration_ms": 1415
+      },
+      "completion-thumbs": {
+        "state": "cue_reminder_done_1",
+        "frames": 20,
+        "duration_ms": 1675
+      },
+      "completion-dance": {
+        "state": "cue_long_turn_1",
+        "frames": 41,
+        "duration_ms": 3060
+      },
+      "completion-wine": {
+        "state": "cue_birthday_2",
+        "frames": 48,
+        "duration_ms": 2780
+      },
+      "completion-nap-once": {
+        "state": "cue_sleep_1",
+        "frames": 56,
+        "duration_ms": 5240
+      }
+    },
+    "removed_variants": {
+      "cue_nap": [
+        {
+          "sequences": [
+            "15496-dororest-e0a79101",
+            "15496-dororest-e0a79101",
+            "15496-dororest-e0a79101"
+          ],
+          "weight": 1
+        }
+      ],
+      "cue_start": [
+        {
+          "sequences": [
+            "43658-dorospiderb-dd285004"
+          ],
+          "weight": 1
+        },
+        {
+          "sequences": [
+            "78938-dorospiderc-9cb75e3a"
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    "original_sequences_preserved": 109,
+    "original_pngs_preserved": 1341,
+    "total_sequences": 117,
+    "total_pngs": 1429,
+    "new_frame_keys": 91,
+    "browser_checks": {
+      "status": "passed",
+      "routes": 6,
+      "pixel_checks": 592,
+      "nap_wake_cases": 20,
+      "checks": "all route frame pixels, exact base endpoints, one-shot completion, 60-second nap hold, response at every nap frame with exact current-pose preservation, seeking, stepping, phase jumps, connector strip, report download, reduced motion, playback/pause, backgrounds, sizes, mobile/desktop, offline",
+      "errors": [],
+      "network": []
+    },
+    "notes": [
+      "Nap 805182028 uses the accepted six-pose body roll: 635 ms entry, original 2000 ms loop, 605 ms recovery.",
+      "Nap/inactive use native phased playback. A normal request during entrance finishes the 635 ms entry before recovery; loop responses start recovery immediately.",
+      "The native nap exit uses its fixed original endpoint as the first recovery frame; the HTML current-frame bridge is preview control logic, not new runtime behavior.",
+      "Start uses the door performance and no longer randomly chooses the two old spider start variants. Turn-start choices are unchanged.",
+      "Thumbs keeps the original eight repaired frames and native 800 ms source timing, with the accepted entry/recovery.",
+      "Dance replaces the existing long-turn and may20 dance assignments; other movement-break/friday/leave-work choices are unchanged.",
+      "Wine replaces the existing wine artwork at cue_birthday_2. Existing birthday pool, weights and main party/cake choice are unchanged; no new birthday event or candidate is enabled.",
+      "Sleep reminder choice cue_sleep_1 uses the finite nap performance; inactive and nap use its sustained phases.",
+      "Approval, work variants, handling, landing, movement, moods, bedtime, input geometry and scheduling are unchanged.",
+      "This mixed-source/LINE-derived pack is local and personal-use only; no gallery or public release upload."
+    ],
+    "runtime_changed": false,
+    "live_installation_changed": false
+  },
+  "completion_1_1_3_artwork": {
+    "source_catalog_sha256": "970c480fc6401b74b5300c777c4c9a8033d8e0e9d92aa9ded8a6ee64f9ce3a91",
+    "sources": {
+      "805182028": {
+        "source": "pet-sources/authoring/doro-completion-plan/run-20261101/originals/32367107/805182028.png",
+        "source_sha256": "f440d20e9fc259a0341ca098b6715f00a1df0eae2d689d9ea06b9f4b0f3f0711",
+        "size": [
+          278,
+          225
+        ],
+        "scale": 0.6906474820143885,
+        "offset": [
+          0,
+          18
+        ],
+        "frames": [
+          [
+            "3db1b189d3dff2cd6ead55c488296da51cfe3f1c98c7920b5e3196faf1cd6a2a",
+            100
+          ],
+          [
+            "95b30891e807ab8a2f60ef26972fa60c45847f8f0d2e57b29afdd9e9218d1733",
+            100
+          ],
+          [
+            "62fcdfd25871ad909c332548640e4fbd98d36bd59230b0b612a7cd793d42e2ad",
+            100
+          ],
+          [
+            "3e92c034926e202b732a717be518e2e4ce96cf6c8e8d8227a0b5bc5e390afce9",
+            100
+          ],
+          [
+            "7999139b5f60f6eeb43726e92b55d758c3a122f47cfd28ad982e2ca56f915e18",
+            100
+          ],
+          [
+            "7a1d096633a37de2588a0eb2ce897e89e1439b0d4fba5c5c6e6180322fbd75b5",
+            100
+          ],
+          [
+            "729b0583ad7165706804d99463c9c73cf9dc4d8a058733b6ab9c8c62e5f53984",
+            100
+          ],
+          [
+            "415bf0bd7f5ccac2f24ec2a963f0e98422cd61bae1a4dfaf6a49be5bc85b29e9",
+            100
+          ],
+          [
+            "58b6fc7f2b3c7b11f8242703eb76b0707c2b678a92c5838c98f1055118f4ac30",
+            100
+          ],
+          [
+            "b6fecc8c025491d13448ea2d20e83a8e7b7ddfdaecdb2d977010b6b8e4d1d89d",
+            100
+          ],
+          [
+            "251b8867c8e940850cc1ae843c50580d93890d6c3f1171c5356a053a330828d0",
+            100
+          ],
+          [
+            "2736a584d9d5da2bc6a9501fb342da68bdceb225a1b47af2e84c1ac1ae86c53c",
+            100
+          ],
+          [
+            "b50cf9365713e46ba66d2f0cc405673d24ed448108687d9111e6b64a48a626d8",
+            100
+          ],
+          [
+            "5985ca6708182433019274e22aa4de10180953a4f3525d47674ff7305bde0808",
+            100
+          ],
+          [
+            "2327a07ce13ca323fbbe23a6059aee698f0495dec5317d939403645734d83a6f",
+            100
+          ],
+          [
+            "5dcfbc7200ef71664e28342a1fadf5504531634702a1a7c7d52117beaf09f4ed",
+            100
+          ],
+          [
+            "0e3425f14b1f9e989593c3a4e2b81b8575f352f5c45c39d46a672023e252c57b",
+            100
+          ],
+          [
+            "c769029dffe42f493412eda5024a1ddafe73edfd4dd1f3809f9af9f9b59edc38",
+            100
+          ],
+          [
+            "f03fc0c0eb507c155a7fd3508c54d086c149d4a6fd82b6a07ba8fd06ee9d8e16",
+            100
+          ],
+          [
+            "6e0a6e7afd9d841b82687d578a89a3abea81abee22c8db2d789aed14e75749e2",
+            100
+          ]
+        ],
+        "duration_ms": 2000
+      },
+      "915179510": {
+        "source": "pet-sources/authoring/doro-completion-plan/run-20261101/originals/37304940/915179510.png",
+        "source_sha256": "6c69e6fe306f5ef8cd9d3fb40bf0aed11914d18bd00d62bb2460cfb561925ad7",
+        "size": [
+          240,
+          225
+        ],
+        "scale": 0.8,
+        "offset": [
+          0,
+          6
+        ],
+        "frames": [
+          [
+            "53a108677bb5b1e21211bba96e189e1319a93f415e44b4238f33d6ee10e933d1",
+            100
+          ],
+          [
+            "eb72842a3539c82f25aaf63d82ffcbf5d5855e6843e0baeea1b30c2d8b5e180d",
+            50
+          ],
+          [
+            "09ce723d2dd2af5d63362adeefe74f944a5929e4de9adba61f4a61f5b09393c2",
+            100
+          ],
+          [
+            "d63779846932878c845d40730a9cbfd8debd1e6cabdecc3dbfe6210fe30deb77",
+            50
+          ],
+          [
+            "6b73e8a5a3350b5a1d9d712a5534eee67d4dea4b3004747a5de6925732d6a66b",
+            50
+          ],
+          [
+            "183f4267134d6ce48ecc0d5e4c23b2a302260e1384ad0488e14d0df03bfe1c21",
+            400
+          ]
+        ],
+        "duration_ms": 750
+      },
+      "915179511": {
+        "source": "pet-sources/authoring/doro-completion-plan/run-20261101/originals/37304940/915179511.png",
+        "source_sha256": "fd32546781795983f9685fa303965621872abb3d70ac7b11fd0d00aeda82fcba",
+        "size": [
+          240,
+          225
+        ],
+        "scale": 0.8,
+        "offset": [
+          0,
+          6
+        ],
+        "frames": [
+          [
+            "ac28b490a48980c2db60257be24f68ad801ac2d920cbe298b1ee56e65c9c711b",
+            100
+          ],
+          [
+            "34275cf5cb1e96e13259ad03462a3e8180043fb348db17bda9a0235207782e79",
+            50
+          ],
+          [
+            "95f842ddb0e46f81533ca1df9fe19e6d1f42345ddd39bd3e7caced59c28cbbb6",
+            100
+          ],
+          [
+            "77d697f6aabdf5f7cd9c4c5ab5bd9aae527017c9d8d4507de94cac36568d3f6e",
+            50
+          ],
+          [
+            "3cb009494f05af05d4f675fe9169bb1fc4692ff68940dc28686bed7cc5fd77fb",
+            100
+          ],
+          [
+            "2691b886d2a808a22e7d482308807551916c2d2cab6f5e28aa934752e21b5586",
+            50
+          ],
+          [
+            "1d197cd596f4fd388208c36ea8c1bc9db43292248e9416c3154ad97cd15a4748",
+            100
+          ],
+          [
+            "22036f8de0e66fa792811bbf220cabdbc01e546487b49d8e5c4f8eeaa0496a81",
+            50
+          ],
+          [
+            "f297f4462ba8fe52cd17242cc124839880acd0d055f90ab0fc6eeaaf2cdedb65",
+            100
+          ],
+          [
+            "09dd8c2d36385b11bdfb9b3b48e94a0f58f8a367b2822e5ba5fbb336957c073c",
+            50
+          ]
+        ],
+        "duration_ms": 750
+      },
+      "915179507": {
+        "source": "pet-sources/authoring/doro-completion-plan/run-20261101/originals/37304940/915179507.png",
+        "source_sha256": "865004355aae61bc009aa25ae55a7213cd3ecc5a2edcaf884177139ed3ef50ce",
+        "size": [
+          240,
+          225
+        ],
+        "scale": 0.8,
+        "offset": [
+          0,
+          6
+        ],
+        "frames": [
+          [
+            "ab9aeb9197385a5d21522c363ec98c098c92c15c8b531bfc1402e646c5163392",
+            50
+          ],
+          [
+            "3456ac2d253a6df65410fddf2f593486a67feef845c487400e4078792dd4fd8d",
+            50
+          ],
+          [
+            "d0e6827069bef8abeb18b55a3efc6cdcfc90a0f2235f1fc9b0472d89252ccade",
+            50
+          ],
+          [
+            "a05a9307df2ad448dce91adece1b0b122168a2deeae30e7675fdd2191e97e391",
+            50
+          ],
+          [
+            "a974ffad6c6ac1b5ecc1a167b7cf4a535301f67ea5991172fd1925301bbf1f2f",
+            50
+          ],
+          [
+            "c13d6634edf1b2332ddc35190401c52395db97db0770597b5fc0c99ce25d441d",
+            50
+          ],
+          [
+            "7097e2961b578ecb16076aa4f03d8b0abca6d0ae7738a5136d1fffad9b75a362",
+            50
+          ],
+          [
+            "84519447a3883e068f8f9f57f703eb5249f19f06c7a41cb2692e8531aeba1901",
+            50
+          ],
+          [
+            "c71cdadb46f0b56b0397f8b4668c8ab1e2790ffdfca6616c4c089e65bf6c5067",
+            50
+          ],
+          [
+            "2140283f602d0085e8ec34dc5adfc7325cafde3146d4216ac74096adf2473fb1",
+            50
+          ],
+          [
+            "442d2f2ae0c7d625b2cbc597f7e8113e3b1117a7b8d90f67e99ca1e8858707d8",
+            50
+          ],
+          [
+            "8adc95a13627ef3e6d142e48bedc0b9e1c9603b56b5edf9e72292c296ed8a12b",
+            50
+          ],
+          [
+            "590ac8b7a451225a4c37f8ff719a793bf1b070465947badabc720f174d94a625",
+            50
+          ],
+          [
+            "dc1dffbab1a3e2259eb4017539d9e72b58f86c656593c4fc3a2487296c5d5c73",
+            50
+          ],
+          [
+            "d5550658e2ff8188802758bc84a6f7eef78b068d4344cc8d0e7a65dd0851de55",
+            50
+          ],
+          [
+            "cc48a33de5ed8a8cda5f69aad94e67dc707407bce8f28bd64961101bcc992e66",
+            50
+          ],
+          [
+            "c6be7029e7d6e7946c84ff62aa7b090e6e42a030b4dbeb05242e65c6d7d66ba0",
+            50
+          ],
+          [
+            "f285b3a2aff2754d445965976cfa9a79465c2f8eeeeca962c24b79ac0c41ce70",
+            50
+          ],
+          [
+            "42b9f730e5fe190d8a456e746fab40c6189a862f097032bda21e7e45db614dca",
+            100
+          ]
+        ],
+        "duration_ms": 1000
+      },
+      "thumbs": {
+        "frames": [
+          [
+            "0beff853716a66b23a03a5beac567333bee924ac4fdb5c65ed42d31aef2f6088",
+            100
+          ],
+          [
+            "eb14f084ecc849c6b735852782ef7e8473ffb96301fbf65c2fdcdd166f589f43",
+            100
+          ],
+          [
+            "7628a52338da56d61e9a9f624c59fa6cc5a98fbeef5d2d4b2bc37b5ea0e6200f",
+            100
+          ],
+          [
+            "f78344d4e7368643e11179795cb3ae901f9a67ab74e2cb0cfe6ec2c24048be1c",
+            100
+          ],
+          [
+            "175adcc9dfcafb8eec26a1e928c27aab22c2fe67cd9247a0a27e279c756809d7",
+            100
+          ],
+          [
+            "1aa1e8337c1f368e05456df15f7ad58d0361fa7367060adfef2281dfb8513bd9",
+            100
+          ],
+          [
+            "6edfd1f4d53d9b591f63ec45eabd6bac3c5932cb907f58148f6616e6596c74dc",
+            100
+          ],
+          [
+            "667a6ad648fcf2a45258f3f24e20b506dc3da3003e4368069636788f4b1c1ff5",
+            100
+          ]
+        ],
+        "duration_ms": 800,
+        "source": "pet-sources/authoring/doro-spritegen-trial/run-11/thumbs",
+        "source_frames": [
+          {
+            "path": "protected-frame-000.png",
+            "sha256": "6934555559636caf484da6c8fa18eba0ca904b132f331a5b144ce3db105cba67"
+          },
+          {
+            "path": "protected-frame-001.png",
+            "sha256": "5885f8ea3ba99a55b8303d80edf6e9e023b2ceefa8ca220f4a263e0ecd8f8e62"
+          },
+          {
+            "path": "protected-frame-002.png",
+            "sha256": "a389c955b1c7e3b3b3a3630a5dd702343b13fe0562ae582245b544b8c5758e6e"
+          },
+          {
+            "path": "protected-frame-003.png",
+            "sha256": "091d2c3645ebd17a1a5005fd644f624f3e67c3a0b19e59f8b0901824ebeb1db6"
+          },
+          {
+            "path": "protected-frame-004.png",
+            "sha256": "598ed1d7b5a1ad9323a59b149ee0a6f246a55cd715aed4f4562f710862ddac66"
+          },
+          {
+            "path": "protected-frame-005.png",
+            "sha256": "3a3e97d943dce5ef2c2b4906f828a43b676496c363c2eacdc51ff3ca75bcd097"
+          },
+          {
+            "path": "protected-frame-006.png",
+            "sha256": "503949ed94a02c4132f477a3d9ecb0a099aff82f2332a85b751e1795046ed8b4"
+          },
+          {
+            "path": "protected-frame-007.png",
+            "sha256": "2a23da8af47ecbefd26ca5a5b2dde91507840a12ef46818dbe1085e9d23319ff"
+          }
+        ],
+        "offset": [
+          32,
+          48
+        ],
+        "scale": 1
+      }
+    },
+    "fits": {
+      "nap-1": {
+        "raw_sha256": "52ea06e7538aedd9652bbfff4aee1cef2867cf8204fcf1deea4c9705ea318583",
+        "scale": 0.16920943134535368,
+        "offset": [
+          -17,
+          35
+        ],
+        "target_hair_width": 122,
+        "target_hair_centre": 98,
+        "top": null,
+        "ground": 175,
+        "clip": null,
+        "output_bounds": [
+          35,
+          74,
+          187,
+          175
+        ]
+      },
+      "nap-2": {
+        "raw_sha256": "0245d38f6e483287d7163d34be540c043305b1567c06fa9c82232692590f9425",
+        "scale": 0.1484480431848853,
+        "offset": [
+          1,
+          10
+        ],
+        "target_hair_width": 110,
+        "target_hair_centre": 112,
+        "top": 49,
+        "ground": null,
+        "clip": null,
+        "output_bounds": [
+          55,
+          48,
+          180,
+          132
+        ]
+      },
+      "nap-3": {
+        "raw_sha256": "25c2a0117589146560a2a2d64e9d1f70f091732dca589d33051a9bec3672fe16",
+        "scale": 0.17593984962406015,
+        "offset": [
+          -21,
+          23
+        ],
+        "target_hair_width": 117,
+        "target_hair_centre": 104,
+        "top": null,
+        "ground": 171,
+        "clip": null,
+        "output_bounds": [
+          44,
+          64,
+          175,
+          172
+        ]
+      },
+      "nap-props": {
+        "raw_sha256": "7d5c79aab9d950a83a888e6c80fd5ccf791e29244480e599b7b168366efd3420",
+        "scale": 0.14198071866783524,
+        "offset": [
+          4,
+          1
+        ],
+        "restored_source_regions": [
+          [
+            11,
+            113,
+            42,
+            129
+          ],
+          [
+            0,
+            159,
+            192,
+            176
+          ]
+        ],
+        "restored_visible_yellow": true
+      },
+      "door-props": {
+        "raw_sha256": "0edfdbd4bdbb517fc389057abc5b47e03212dc9199fc96e4cd532fb25095d8ed",
+        "scale": 0.14187643020594964,
+        "offset": [
+          2,
+          0
+        ],
+        "target_box": [
+          37,
+          17,
+          161,
+          174
+        ],
+        "restored_source_outside": [
+          40,
+          73,
+          142,
+          171
+        ]
+      },
+      "door-1": {
+        "raw_sha256": "55b0c6862b65fae65fb9784b06741a775c56ce63e5065e1df921b6d31073837d",
+        "scale": 0.12698412698412698,
+        "offset": [
+          12,
+          39
+        ],
+        "target_hair_width": 96,
+        "target_hair_centre": 92,
+        "top": null,
+        "ground": 175,
+        "clip": null,
+        "output_bounds": [
+          42,
+          88,
+          148,
+          175
+        ]
+      },
+      "door-2": {
+        "raw_sha256": "3054c072209016ad5413ac26e368452f6a42f90aa36ae1ee6ac9431adb551903",
+        "scale": 0.1472972972972973,
+        "offset": [
+          5,
+          27
+        ],
+        "target_hair_width": 109,
+        "target_hair_centre": 94,
+        "top": null,
+        "ground": 177,
+        "clip": null,
+        "output_bounds": [
+          37,
+          79,
+          159,
+          178
+        ]
+      },
+      "door-3": {
+        "raw_sha256": "65997837ef4ecf172e90d3688801d020e75d4f870a03adb2780170f939943e36",
+        "scale": 0.16895604395604397,
+        "offset": [
+          -9,
+          -5
+        ],
+        "target_hair_width": 123,
+        "target_hair_centre": 92,
+        "top": null,
+        "ground": 176,
+        "clip": null,
+        "output_bounds": [
+          29,
+          83,
+          165,
+          176
+        ]
+      },
+      "thumbs-1": {
+        "raw_sha256": "e32031e1ecf499badd7f1955a11dfa1a168ea0b5db9ee7c69029f0dd9971d19a",
+        "scale": 0.15730337078651685,
+        "offset": [
+          -11,
+          -3
+        ],
+        "target_hair_width": 126,
+        "target_hair_centre": 94,
+        "top": null,
+        "ground": 176,
+        "clip": null,
+        "output_bounds": [
+          19,
+          51,
+          159,
+          176
+        ]
+      },
+      "thumbs-2": {
+        "raw_sha256": "bc8ac36c2cdec1b1d33e293a81d2edc6fe4def85185b7eba1172d8509d430945",
+        "scale": 0.14105058365758755,
+        "offset": [
+          31,
+          2
+        ],
+        "target_hair_width": 145,
+        "target_hair_centre": 125,
+        "top": 38,
+        "ground": null,
+        "clip": null,
+        "output_bounds": [
+          39,
+          36,
+          192,
+          163
+        ]
+      },
+      "thumbs-3": {
+        "raw_sha256": "ad973bfa2172139ac2d14157d545f5b5aa570b7185585cb27ddaf6be563135b8",
+        "scale": 0.1606313834726091,
+        "offset": [
+          60,
+          -20
+        ],
+        "target_hair_width": 173,
+        "target_hair_centre": 168,
+        "top": 15,
+        "ground": null,
+        "clip": [
+          32,
+          48,
+          160,
+          176
+        ],
+        "output_bounds": [
+          68,
+          48,
+          160,
+          150
+        ]
+      },
+      "thumbs-4": {
+        "raw_sha256": "66d02b5c12987856f81fa479179bd273bd0ef2bc25db1767a24d1ef8ca0b63b3",
+        "scale": 0.2028368794326241,
+        "offset": [
+          -23,
+          -30
+        ],
+        "target_hair_width": 143,
+        "target_hair_centre": 115,
+        "top": null,
+        "ground": 176,
+        "clip": null,
+        "output_bounds": [
+          41,
+          19,
+          189,
+          176
+        ]
+      },
+      "thumbs-5": {
+        "raw_sha256": "327d669ea8b3c0ebdf05d93e1aed6df665fb11a6ceabd422b73308b762c62c73",
+        "scale": 0.16198979591836735,
+        "offset": [
+          -18,
+          26
+        ],
+        "target_hair_width": 127,
+        "target_hair_centre": 93,
+        "top": null,
+        "ground": 176,
+        "clip": null,
+        "output_bounds": [
+          28,
+          71,
+          169,
+          177
+        ]
+      },
+      "dance-1": {
+        "raw_sha256": "05852b9a13ba5836009b4b903ab355960f7abed149c202d9ff3558fbe1fbeeef",
+        "scale": 0.14797687861271677,
+        "offset": [
+          -1,
+          8
+        ],
+        "target_hair_width": 128,
+        "target_hair_centre": 92,
+        "top": 46,
+        "ground": null,
+        "clip": null,
+        "output_bounds": [
+          26,
+          45,
+          158,
+          176
+        ]
+      },
+      "dance-2": {
+        "raw_sha256": "87c7ef490904fd47d5ab56ed51ee2b53676f97791b0e417df5f59b42a57d7dcd",
+        "scale": 0.19427710843373494,
+        "offset": [
+          -41,
+          -30
+        ],
+        "target_hair_width": 129,
+        "target_hair_centre": 92,
+        "top": 30,
+        "ground": null,
+        "clip": null,
+        "output_bounds": [
+          25,
+          28,
+          159,
+          178
+        ]
+      },
+      "dance-3": {
+        "raw_sha256": "40f70f733f365f5afe227b16b815dcd38daf2075b33e42a6e20d76f713dab422",
+        "scale": 0.17735334242837653,
+        "offset": [
+          -20,
+          -22
+        ],
+        "target_hair_width": 130,
+        "target_hair_centre": 92,
+        "top": 19,
+        "ground": null,
+        "clip": null,
+        "output_bounds": [
+          23,
+          17,
+          161,
+          168
+        ]
+      },
+      "wine-1": {
+        "raw_sha256": "bf5e33aebb7d0c1c4f1684a5cb7279d9944162ef66ba389b26ead2d96918f3fc",
+        "scale": 0.15130830489192265,
+        "offset": [
+          -3,
+          12
+        ],
+        "target_hair_width": 133,
+        "target_hair_centre": 93,
+        "top": 49,
+        "ground": null,
+        "clip": null,
+        "output_bounds": [
+          24,
+          47,
+          162,
+          188
+        ]
+      },
+      "wine-2": {
+        "raw_sha256": "722bb36746bb115be273d65e5f73dcbfe2a22bfcbe54eb75536b52965892836a",
+        "scale": 0.1615819209039548,
+        "offset": [
+          -10,
+          -3
+        ],
+        "target_hair_width": 143,
+        "target_hair_centre": 94,
+        "top": 38,
+        "ground": null,
+        "clip": null,
+        "output_bounds": [
+          20,
+          36,
+          169,
+          176
+        ]
+      },
+      "wine-3": {
+        "raw_sha256": "72718ba5d53db7445b09307e5c57753485354970604193d4edafc792a72d39ce",
+        "scale": 0.15745568300312826,
+        "offset": [
+          -8,
+          0
+        ],
+        "target_hair_width": 151,
+        "target_hair_centre": 95,
+        "top": 30,
+        "ground": null,
+        "clip": null,
+        "output_bounds": [
+          17,
+          28,
+          173,
+          175
+        ]
+      },
+      "wine-4": {
+        "raw_sha256": "f2a67d17e807aad24e10276001dc5e78ebba202c818916d1935346daa71cd7db",
+        "scale": 0.17354368932038836,
+        "offset": [
+          -28,
+          1
+        ],
+        "target_hair_width": 143,
+        "target_hair_centre": 94,
+        "top": 37,
+        "ground": null,
+        "clip": null,
+        "output_bounds": [
+          17,
+          36,
+          167,
+          175
+        ]
+      },
+      "wine-5": {
+        "raw_sha256": "35ce56b6c8106c6bbaa9af7bdfd2ce988401e07b485df3f809f9f69724f78a19",
+        "scale": 0.14906103286384975,
+        "offset": [
+          1,
+          14
+        ],
+        "target_hair_width": 127,
+        "target_hair_centre": 93,
+        "top": null,
+        "ground": 176,
+        "clip": null,
+        "output_bounds": [
+          28,
+          63,
+          160,
+          176
+        ]
+      },
+      "reused-crouch": {
+        "source_sha256": "4b7eaba52488e6e52746f95c4105d91d3f2872856ad5ec211e5b0a01e76a8c9e",
+        "source_size": [
+          240,
+          240
+        ],
+        "scale": 0.8,
+        "source_path": "assets/doro-motion/frames/4b7eaba52488e6e52746f95c4105d91d3f2872856ad5ec211e5b0a01e76a8c9e.png"
+      },
+      "nap-roll-12-v2": {
+        "raw_sha256": "3453322ebded75ca05e4c4130472a4b02f06b71c9d5e75bd5ab4853f26d5c48a",
+        "scale": 0.16147186147186146,
+        "offset": [
+          5,
+          -1
+        ],
+        "hair_width": 124.33333333333333,
+        "hair_centre": 94.96666666666667,
+        "hair_top": 55.8,
+        "source_hair_bounds": [
+          172,
+          353,
+          942,
+          883
+        ],
+        "entry_prop_offset": [
+          110,
+          20
+        ],
+        "storyboard_target_degrees": 12,
+        "angle_note": "Nominal storyboard target, not a measured rigid-image rotation angle."
+      },
+      "nap-roll-25-v2": {
+        "raw_sha256": "2897e2fa8faa0d265624178b3f62814a423d14baab9f43b9e10fa189de8fc597",
+        "scale": 0.15450947130336443,
+        "offset": [
+          1,
+          11
+        ],
+        "hair_width": 121.44444444444444,
+        "hair_centre": 98.72222222222223,
+        "hair_top": 54.5,
+        "source_hair_bounds": [
+          238,
+          284,
+          1024,
+          836
+        ],
+        "entry_prop_offset": [
+          70,
+          12
+        ],
+        "storyboard_target_degrees": 25,
+        "angle_note": "Nominal storyboard target, not a measured rigid-image rotation angle."
+      },
+      "nap-roll-40-v2": {
+        "raw_sha256": "fd88aaffa259f4047793537a342f6b6bdef9d55115b109f65279937bf619e779",
+        "scale": 0.15065192743764172,
+        "offset": [
+          -13,
+          7
+        ],
+        "hair_width": 118.11111111111111,
+        "hair_centre": 103.05555555555556,
+        "hair_top": 53.0,
+        "source_hair_bounds": [
+          380,
+          304,
+          1164,
+          857
+        ],
+        "entry_prop_offset": [
+          30,
+          5
+        ],
+        "storyboard_target_degrees": 40,
+        "angle_note": "Nominal storyboard target, not a measured rigid-image rotation angle."
+      },
+      "nap-roll-55": {
+        "raw_sha256": "41588c7e46503b3464b95996a806d542bd54c6d7351824cdea988126350bafae",
+        "scale": 0.1462137296532201,
+        "offset": [
+          -8,
+          14
+        ],
+        "hair_width": 114.77777777777777,
+        "hair_centre": 107.38888888888889,
+        "hair_top": 51.5,
+        "source_hair_bounds": [
+          396,
+          255,
+          1181,
+          816
+        ],
+        "entry_prop_offset": [
+          0,
+          0
+        ],
+        "storyboard_target_degrees": 55,
+        "angle_note": "Nominal storyboard target, not a measured rigid-image rotation angle."
+      },
+      "nap-roll-70": {
+        "raw_sha256": "a562e11f8d678cdbafd3c3754fe46f8848f9957b1d3cdbce9acbcf450b1374f2",
+        "scale": 0.15266362252663623,
+        "offset": [
+          -13,
+          -1
+        ],
+        "hair_width": 111.44444444444444,
+        "hair_centre": 111.72222222222223,
+        "hair_top": 50.0,
+        "source_hair_bounds": [
+          452,
+          337,
+          1182,
+          885
+        ],
+        "entry_prop_offset": [
+          0,
+          0
+        ],
+        "storyboard_target_degrees": 70,
+        "angle_note": "Nominal storyboard target, not a measured rigid-image rotation angle."
+      },
+      "nap-roll-82": {
+        "raw_sha256": "c45ae059ea04942cb12ab030c4cfb0f3f430f3a5105251565badc7f4304bf9bd",
+        "scale": 0.14484391182127532,
+        "offset": [
+          -6,
+          8
+        ],
+        "hair_width": 108.77777777777777,
+        "hair_centre": 115.1888888888889,
+        "hair_top": 48.8,
+        "source_hair_bounds": [
+          459,
+          282,
+          1210,
+          845
+        ],
+        "entry_prop_offset": [
+          0,
+          0
+        ],
+        "storyboard_target_degrees": 82,
+        "angle_note": "Nominal storyboard target, not a measured rigid-image rotation angle."
+      }
+    },
+    "raw_drawings": {
+      "dance-1": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/dance-1.png",
+        "sha256": "05852b9a13ba5836009b4b903ab355960f7abed149c202d9ff3558fbe1fbeeef",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/dance-1.prompt.txt"
+      },
+      "dance-2": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/dance-2.png",
+        "sha256": "87c7ef490904fd47d5ab56ed51ee2b53676f97791b0e417df5f59b42a57d7dcd",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/dance-2.prompt.txt"
+      },
+      "dance-3": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/dance-3.png",
+        "sha256": "40f70f733f365f5afe227b16b815dcd38daf2075b33e42a6e20d76f713dab422",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/dance-3.prompt.txt"
+      },
+      "door-1": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/door-1.png",
+        "sha256": "55b0c6862b65fae65fb9784b06741a775c56ce63e5065e1df921b6d31073837d",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/door-1.prompt.txt"
+      },
+      "door-2": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/door-2.png",
+        "sha256": "3054c072209016ad5413ac26e368452f6a42f90aa36ae1ee6ac9431adb551903",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/door-2.prompt.txt"
+      },
+      "door-3": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/door-3.png",
+        "sha256": "65997837ef4ecf172e90d3688801d020e75d4f870a03adb2780170f939943e36",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/door-3.prompt.txt"
+      },
+      "door-props": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/door-props.png",
+        "sha256": "0edfdbd4bdbb517fc389057abc5b47e03212dc9199fc96e4cd532fb25095d8ed",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/door-props.prompt.txt"
+      },
+      "nap-1": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/nap-1.png",
+        "sha256": "52ea06e7538aedd9652bbfff4aee1cef2867cf8204fcf1deea4c9705ea318583",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/nap-1.prompt.txt"
+      },
+      "nap-2": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/nap-2.png",
+        "sha256": "0245d38f6e483287d7163d34be540c043305b1567c06fa9c82232692590f9425",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/nap-2.prompt.txt"
+      },
+      "nap-3": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/nap-3.png",
+        "sha256": "25c2a0117589146560a2a2d64e9d1f70f091732dca589d33051a9bec3672fe16",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/nap-3.prompt.txt"
+      },
+      "nap-props": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/nap-props.png",
+        "sha256": "7d5c79aab9d950a83a888e6c80fd5ccf791e29244480e599b7b168366efd3420",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/nap-props.prompt.txt"
+      },
+      "thumbs-1": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/thumbs-1.png",
+        "sha256": "e32031e1ecf499badd7f1955a11dfa1a168ea0b5db9ee7c69029f0dd9971d19a",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/thumbs-1.prompt.txt"
+      },
+      "thumbs-2": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/thumbs-2.png",
+        "sha256": "bc8ac36c2cdec1b1d33e293a81d2edc6fe4def85185b7eba1172d8509d430945",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/thumbs-2.prompt.txt"
+      },
+      "thumbs-3": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/thumbs-3.png",
+        "sha256": "ad973bfa2172139ac2d14157d545f5b5aa570b7185585cb27ddaf6be563135b8",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/thumbs-3.prompt.txt"
+      },
+      "thumbs-4": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/thumbs-4.png",
+        "sha256": "66d02b5c12987856f81fa479179bd273bd0ef2bc25db1767a24d1ef8ca0b63b3",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/thumbs-4.prompt.txt"
+      },
+      "thumbs-5": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/thumbs-5.png",
+        "sha256": "327d669ea8b3c0ebdf05d93e1aed6df665fb11a6ceabd422b73308b762c62c73",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/thumbs-5.prompt.txt"
+      },
+      "wine-1": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/wine-1.png",
+        "sha256": "bf5e33aebb7d0c1c4f1684a5cb7279d9944162ef66ba389b26ead2d96918f3fc",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/wine-1.prompt.txt"
+      },
+      "wine-2": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/wine-2.png",
+        "sha256": "722bb36746bb115be273d65e5f73dcbfe2a22bfcbe54eb75536b52965892836a",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/wine-2.prompt.txt"
+      },
+      "wine-3": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/wine-3.png",
+        "sha256": "72718ba5d53db7445b09307e5c57753485354970604193d4edafc792a72d39ce",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/wine-3.prompt.txt"
+      },
+      "wine-4": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/wine-4.png",
+        "sha256": "f2a67d17e807aad24e10276001dc5e78ebba202c818916d1935346daa71cd7db",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/wine-4.prompt.txt"
+      },
+      "wine-5": {
+        "path": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/raw/wine-5.png",
+        "sha256": "35ce56b6c8106c6bbaa9af7bdfd2ce988401e07b485df3f809f9f69724f78a19",
+        "prompt": "pet-sources/authoring/doro-completion-transitions/run-01/inputs/wine-5.prompt.txt"
+      },
+      "nap-roll-12-v2": {
+        "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-12-v2.png",
+        "sha256": "3453322ebded75ca05e4c4130472a4b02f06b71c9d5e75bd5ab4853f26d5c48a",
+        "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-12-v2.prompt.txt"
+      },
+      "nap-roll-25-v2": {
+        "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-25-v2.png",
+        "sha256": "2897e2fa8faa0d265624178b3f62814a423d14baab9f43b9e10fa189de8fc597",
+        "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-25-v2.prompt.txt"
+      },
+      "nap-roll-40-v2": {
+        "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-40-v2.png",
+        "sha256": "fd88aaffa259f4047793537a342f6b6bdef9d55115b109f65279937bf619e779",
+        "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-40-v2.prompt.txt"
+      },
+      "nap-roll-55": {
+        "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-55.png",
+        "sha256": "41588c7e46503b3464b95996a806d542bd54c6d7351824cdea988126350bafae",
+        "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-55.prompt.txt"
+      },
+      "nap-roll-70": {
+        "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-70.png",
+        "sha256": "a562e11f8d678cdbafd3c3754fe46f8848f9957b1d3cdbce9acbcf450b1374f2",
+        "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-70.prompt.txt"
+      },
+      "nap-roll-82": {
+        "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-82.png",
+        "sha256": "c45ae059ea04942cb12ab030c4cfb0f3f430f3a5105251565badc7f4304bf9bd",
+        "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-82.prompt.txt"
+      }
+    },
+    "generator": "built-in image_gen",
+    "generated_drawings": 27,
+    "aliases": {
+      "base": "2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83",
+      "transparent": "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+      "805182028-00": "3db1b189d3dff2cd6ead55c488296da51cfe3f1c98c7920b5e3196faf1cd6a2a",
+      "805182028-01": "95b30891e807ab8a2f60ef26972fa60c45847f8f0d2e57b29afdd9e9218d1733",
+      "805182028-02": "62fcdfd25871ad909c332548640e4fbd98d36bd59230b0b612a7cd793d42e2ad",
+      "805182028-03": "3e92c034926e202b732a717be518e2e4ce96cf6c8e8d8227a0b5bc5e390afce9",
+      "805182028-04": "7999139b5f60f6eeb43726e92b55d758c3a122f47cfd28ad982e2ca56f915e18",
+      "805182028-05": "7a1d096633a37de2588a0eb2ce897e89e1439b0d4fba5c5c6e6180322fbd75b5",
+      "805182028-06": "729b0583ad7165706804d99463c9c73cf9dc4d8a058733b6ab9c8c62e5f53984",
+      "805182028-07": "415bf0bd7f5ccac2f24ec2a963f0e98422cd61bae1a4dfaf6a49be5bc85b29e9",
+      "805182028-08": "58b6fc7f2b3c7b11f8242703eb76b0707c2b678a92c5838c98f1055118f4ac30",
+      "805182028-09": "b6fecc8c025491d13448ea2d20e83a8e7b7ddfdaecdb2d977010b6b8e4d1d89d",
+      "805182028-10": "251b8867c8e940850cc1ae843c50580d93890d6c3f1171c5356a053a330828d0",
+      "805182028-11": "2736a584d9d5da2bc6a9501fb342da68bdceb225a1b47af2e84c1ac1ae86c53c",
+      "805182028-12": "b50cf9365713e46ba66d2f0cc405673d24ed448108687d9111e6b64a48a626d8",
+      "805182028-13": "5985ca6708182433019274e22aa4de10180953a4f3525d47674ff7305bde0808",
+      "805182028-14": "2327a07ce13ca323fbbe23a6059aee698f0495dec5317d939403645734d83a6f",
+      "805182028-15": "5dcfbc7200ef71664e28342a1fadf5504531634702a1a7c7d52117beaf09f4ed",
+      "805182028-16": "0e3425f14b1f9e989593c3a4e2b81b8575f352f5c45c39d46a672023e252c57b",
+      "805182028-17": "c769029dffe42f493412eda5024a1ddafe73edfd4dd1f3809f9af9f9b59edc38",
+      "805182028-18": "f03fc0c0eb507c155a7fd3508c54d086c149d4a6fd82b6a07ba8fd06ee9d8e16",
+      "805182028-19": "6e0a6e7afd9d841b82687d578a89a3abea81abee22c8db2d789aed14e75749e2",
+      "915179510-00": "53a108677bb5b1e21211bba96e189e1319a93f415e44b4238f33d6ee10e933d1",
+      "915179510-01": "eb72842a3539c82f25aaf63d82ffcbf5d5855e6843e0baeea1b30c2d8b5e180d",
+      "915179510-02": "09ce723d2dd2af5d63362adeefe74f944a5929e4de9adba61f4a61f5b09393c2",
+      "915179510-03": "d63779846932878c845d40730a9cbfd8debd1e6cabdecc3dbfe6210fe30deb77",
+      "915179510-04": "6b73e8a5a3350b5a1d9d712a5534eee67d4dea4b3004747a5de6925732d6a66b",
+      "915179510-05": "183f4267134d6ce48ecc0d5e4c23b2a302260e1384ad0488e14d0df03bfe1c21",
+      "915179511-00": "ac28b490a48980c2db60257be24f68ad801ac2d920cbe298b1ee56e65c9c711b",
+      "915179511-01": "34275cf5cb1e96e13259ad03462a3e8180043fb348db17bda9a0235207782e79",
+      "915179511-02": "95f842ddb0e46f81533ca1df9fe19e6d1f42345ddd39bd3e7caced59c28cbbb6",
+      "915179511-03": "77d697f6aabdf5f7cd9c4c5ab5bd9aae527017c9d8d4507de94cac36568d3f6e",
+      "915179511-04": "3cb009494f05af05d4f675fe9169bb1fc4692ff68940dc28686bed7cc5fd77fb",
+      "915179511-05": "2691b886d2a808a22e7d482308807551916c2d2cab6f5e28aa934752e21b5586",
+      "915179511-06": "1d197cd596f4fd388208c36ea8c1bc9db43292248e9416c3154ad97cd15a4748",
+      "915179511-07": "22036f8de0e66fa792811bbf220cabdbc01e546487b49d8e5c4f8eeaa0496a81",
+      "915179511-08": "f297f4462ba8fe52cd17242cc124839880acd0d055f90ab0fc6eeaaf2cdedb65",
+      "915179511-09": "09dd8c2d36385b11bdfb9b3b48e94a0f58f8a367b2822e5ba5fbb336957c073c",
+      "915179507-00": "ab9aeb9197385a5d21522c363ec98c098c92c15c8b531bfc1402e646c5163392",
+      "915179507-01": "3456ac2d253a6df65410fddf2f593486a67feef845c487400e4078792dd4fd8d",
+      "915179507-02": "d0e6827069bef8abeb18b55a3efc6cdcfc90a0f2235f1fc9b0472d89252ccade",
+      "915179507-03": "a05a9307df2ad448dce91adece1b0b122168a2deeae30e7675fdd2191e97e391",
+      "915179507-04": "a974ffad6c6ac1b5ecc1a167b7cf4a535301f67ea5991172fd1925301bbf1f2f",
+      "915179507-05": "c13d6634edf1b2332ddc35190401c52395db97db0770597b5fc0c99ce25d441d",
+      "915179507-06": "7097e2961b578ecb16076aa4f03d8b0abca6d0ae7738a5136d1fffad9b75a362",
+      "915179507-07": "84519447a3883e068f8f9f57f703eb5249f19f06c7a41cb2692e8531aeba1901",
+      "915179507-08": "c71cdadb46f0b56b0397f8b4668c8ab1e2790ffdfca6616c4c089e65bf6c5067",
+      "915179507-09": "2140283f602d0085e8ec34dc5adfc7325cafde3146d4216ac74096adf2473fb1",
+      "915179507-10": "442d2f2ae0c7d625b2cbc597f7e8113e3b1117a7b8d90f67e99ca1e8858707d8",
+      "915179507-11": "8adc95a13627ef3e6d142e48bedc0b9e1c9603b56b5edf9e72292c296ed8a12b",
+      "915179507-12": "590ac8b7a451225a4c37f8ff719a793bf1b070465947badabc720f174d94a625",
+      "915179507-13": "dc1dffbab1a3e2259eb4017539d9e72b58f86c656593c4fc3a2487296c5d5c73",
+      "915179507-14": "d5550658e2ff8188802758bc84a6f7eef78b068d4344cc8d0e7a65dd0851de55",
+      "915179507-15": "cc48a33de5ed8a8cda5f69aad94e67dc707407bce8f28bd64961101bcc992e66",
+      "915179507-16": "c6be7029e7d6e7946c84ff62aa7b090e6e42a030b4dbeb05242e65c6d7d66ba0",
+      "915179507-17": "f285b3a2aff2754d445965976cfa9a79465c2f8eeeeca962c24b79ac0c41ce70",
+      "915179507-18": "42b9f730e5fe190d8a456e746fab40c6189a862f097032bda21e7e45db614dca",
+      "thumbs-00": "0beff853716a66b23a03a5beac567333bee924ac4fdb5c65ed42d31aef2f6088",
+      "thumbs-01": "eb14f084ecc849c6b735852782ef7e8473ffb96301fbf65c2fdcdd166f589f43",
+      "thumbs-02": "7628a52338da56d61e9a9f624c59fa6cc5a98fbeef5d2d4b2bc37b5ea0e6200f",
+      "thumbs-03": "f78344d4e7368643e11179795cb3ae901f9a67ab74e2cb0cfe6ec2c24048be1c",
+      "thumbs-04": "175adcc9dfcafb8eec26a1e928c27aab22c2fe67cd9247a0a27e279c756809d7",
+      "thumbs-05": "1aa1e8337c1f368e05456df15f7ad58d0361fa7367060adfef2281dfb8513bd9",
+      "thumbs-06": "6edfd1f4d53d9b591f63ec45eabd6bac3c5932cb907f58148f6616e6596c74dc",
+      "thumbs-07": "667a6ad648fcf2a45258f3f24e20b506dc3da3003e4368069636788f4b1c1ff5",
+      "nap-1": "8dcccf33d4143e1ac5902b35b1921ca9141b0bb42657ef7ae01e86f4341a7bbd",
+      "nap-2": "8c4471dc1f03d3baa04e2ed489f66dd16f90ec2fd2f72ad97c3b8c6e84c5908b",
+      "nap-3": "8aec4147bbeee39911fd42c8e5eb3783767968df23e66e8088d4a531e7771289",
+      "door-1": "6306009508910dba2e1b28446e14227d3c813c5c420d35be187779d73596d29e",
+      "door-2": "8ed2f35fa2d0c38e9d050e87230304de3670d7eed0e751f6ae6ea710931f1ec8",
+      "door-3": "357d7978bc9661320e84d237cd8a610af9f2ac15a0be58754de3135eb8b05a7d",
+      "thumbs-1": "fd985b37afc8d7701ca98bf095117111f24233160177e6de487ec3d5500bb77e",
+      "thumbs-2": "3bafb9e284df11ee9563535ec89f952a63687e6e9fc55216f5d648e31e8bfd3d",
+      "thumbs-3": "fe52038cd78a8c9397feaba7fbe61148979c40aa2b24a59e74db824db9f3daf4",
+      "thumbs-4": "7adebe9aa3942409136d5282014c5998da776764438063046fc4b9a5166e673c",
+      "thumbs-5": "e208f2524100912724bdf9a324639dd693c9bacac8c778c2ffba4ecb9b0ab6a8",
+      "dance-1": "b01d0c5316cf9ad6ad02c16a4e12befb552641870e5b1abb5a02d9e76ba96da1",
+      "dance-2": "930cb9781bc23a739b752680d4cfb0977e428f99e3ceb582258721f1085d08b6",
+      "dance-3": "2871fa47d49c4073a75a89b87f6061e771d1a9272cd702f404a832ad3abd868c",
+      "wine-1": "cb7a934cdf7f55cbca91f0495e58a14728963ae92ab82b015b00352760c71112",
+      "wine-2": "ff084104ca1598d6355c19c523876123f44fd790b8ebec9c044cbef94b416726",
+      "wine-3": "ff6d3b10b2544bf1110970a60c69ddf2488a6fc071086e012ea470693a10a1ad",
+      "wine-4": "1f02bbf4c3c9e94200fe479ed0bf2b30bef8ca5ee87d8f7602c7c274259a1b70",
+      "wine-5": "37db7f9adb496caec8ea24a6a23194638b95a6070bce934319fe774cf9b615e6",
+      "moon": "f86e7d1d88618a491aaadf21a8eeb3272907e84927027ffb1641934d91ffce8b",
+      "open-door": "ad48132945d64c643f5e17ebee1a98b7e3c6ffe31f8a03b1fe986e9d33ff12c0",
+      "reused-crouch": "e48e84b2d7763343d53b5fd7efa94112117a7ed6aac1cbbfa2722762317127e0",
+      "nap-in-1": "523d8fc3edb88136ed6a3762cb63a8c9b4c754e844e5cc3fcee2d3c251413e1b",
+      "nap-in-2": "0ce94a529be18f99a9d8f573120fc8934d3bba86b0bc7b262065474a97e2c6f6",
+      "nap-in-3": "7d519751894c26d501eea09fb8e0dc2d7df73038bf2bbf3d0f751aadae0b3fa2",
+      "nap-out-1": "917441448c4988704c38849d6578bb87a11807ae870b21cc239fdb9440940f5f",
+      "nap-out-2": "d983d581311a948c90980c7349ae8cb0cd7414c38d0b13a3f71189a1060acd5a",
+      "nap-out-3": "de73d5f9771b3d109ad22d479c00e4a0af26c80dcce443dfee7fc5fe19bba995",
+      "door-in-0": "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+      "door-in-1": "1d437bd2a8de7e30900a4b2f75ecda01ba47faf4f4b2e2b713dbe4239035d963",
+      "door-in-2": "c8ea9caaf602d92eecebbd19b3b7b54aee89688adcc2eacd6ed8f22cba16d040",
+      "door-in-3": "78c0d9194d12f70db0820b7318e53b771243b172c248b55c96813b937d8bc0e8",
+      "door-in-4": "53a108677bb5b1e21211bba96e189e1319a93f415e44b4238f33d6ee10e933d1",
+      "door-out-1": "a4bb4a10dd05163b75a431b41290155d2007976747d804bc4f01c74ae606bc51",
+      "door-out-2": "643ac259d473b0845fc1de235972c085ab1c6034eeb12a0cb56a1177e81ae49e",
+      "door-out-3": "fc70aa26bf07b4ad931e7bdda04404b4b8064e250bb6ef43022fd4de41c2332e",
+      "nap-roll-12-v2-character": "5c7ba670ddef34ebc1c8caef5680cc09439415d51a94c4fc21d546df54aeb7c7",
+      "nap-roll-12-v2-entry": "f56f6f99887d1e1e125912188060e02e70b2f1a942335b8a62e9d3359c1b6049",
+      "nap-roll-12-v2-exit": "f56f6f99887d1e1e125912188060e02e70b2f1a942335b8a62e9d3359c1b6049",
+      "nap-roll-25-v2-character": "5caffcdad73872b1013fd630a8ad40bfea3654640cc271547b39e62ab3a53915",
+      "nap-roll-25-v2-entry": "093e9c5cb704db2414123f5d08c87092c64589f93827d0e1ab396913b036a2c5",
+      "nap-roll-25-v2-exit": "093e9c5cb704db2414123f5d08c87092c64589f93827d0e1ab396913b036a2c5",
+      "nap-roll-40-v2-character": "759e32b6694f14b0b0de2bfcf6630c5212a9a7426b3e586a4ff882d01fbce74f",
+      "nap-roll-40-v2-entry": "27e6b92cbcc08dba3cdfa9dadde6c77e629e96ee6c39490f39d93bc790aba45b",
+      "nap-roll-40-v2-exit": "27e6b92cbcc08dba3cdfa9dadde6c77e629e96ee6c39490f39d93bc790aba45b",
+      "nap-roll-55-character": "62fad5f6afdde0c42a7821f870dafb2bf9c5341aef94caaa2c364d52810db406",
+      "nap-roll-55-entry": "0fa56c89eb11573d1aeb186fc05139fe5e822e5ccbeb85d39708318225c5143f",
+      "nap-roll-55-exit": "0fa56c89eb11573d1aeb186fc05139fe5e822e5ccbeb85d39708318225c5143f",
+      "nap-roll-70-character": "22cdcdc37a07c71bd88bcd95af22afb8e0a929fe3ad790af39d0c88c34c5fdf5",
+      "nap-roll-70-entry": "f804da41e9413d3c19b3170ceee3a0a0b8a2ccb43e60fec0eb7c499925bac4ad",
+      "nap-roll-70-exit": "f804da41e9413d3c19b3170ceee3a0a0b8a2ccb43e60fec0eb7c499925bac4ad",
+      "nap-roll-82-character": "5b730b1de1e9dcf5a14e9ef12bc98acbc637843cf78ef808b78dadce04c092d0",
+      "nap-roll-82-entry": "c12f5313419c5a9bb7ab6bd232e7df135d6fd2dac2fa396fc63f537b8c27057e",
+      "nap-roll-82-exit": "c12f5313419c5a9bb7ab6bd232e7df135d6fd2dac2fa396fc63f537b8c27057e"
+    },
+    "nap_refinement": {
+      "previous_data": "pet-sources/authoring/doro-completion-transitions/run-01/export-v4/data.json",
+      "previous_data_sha256": "c4522902c57d0b91f01234f9b31bd11c2ed78c3f4a9dbea769f7803238944f6a",
+      "used_drawings": {
+        "nap-roll-12-v2": {
+          "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-12-v2.png",
+          "sha256": "3453322ebded75ca05e4c4130472a4b02f06b71c9d5e75bd5ab4853f26d5c48a",
+          "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-12-v2.prompt.txt"
+        },
+        "nap-roll-25-v2": {
+          "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-25-v2.png",
+          "sha256": "2897e2fa8faa0d265624178b3f62814a423d14baab9f43b9e10fa189de8fc597",
+          "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-25-v2.prompt.txt"
+        },
+        "nap-roll-40-v2": {
+          "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-40-v2.png",
+          "sha256": "fd88aaffa259f4047793537a342f6b6bdef9d55115b109f65279937bf619e779",
+          "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-40-v2.prompt.txt"
+        },
+        "nap-roll-55": {
+          "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-55.png",
+          "sha256": "41588c7e46503b3464b95996a806d542bd54c6d7351824cdea988126350bafae",
+          "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-55.prompt.txt"
+        },
+        "nap-roll-70": {
+          "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-70.png",
+          "sha256": "a562e11f8d678cdbafd3c3754fe46f8848f9957b1d3cdbce9acbcf450b1374f2",
+          "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-70.prompt.txt"
+        },
+        "nap-roll-82": {
+          "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-82.png",
+          "sha256": "c45ae059ea04942cb12ab030c4cfb0f3f430f3a5105251565badc7f4304bf9bd",
+          "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-82.prompt.txt"
+        }
+      },
+      "rejected_drawings": {
+        "nap-roll-12": {
+          "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-12.png",
+          "sha256": "148a931b937c13366fece79d5cfb9e3b8569ddfa8e848b6920bf656cd83b9b3d",
+          "reason": "Hip moved left too early; excluded from final motion.",
+          "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-12.prompt.txt"
+        },
+        "nap-roll-25": {
+          "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-25.png",
+          "sha256": "574a28b02008cb48b2b4bda5a530a887d63e970be94916e6bd0bb89a1bbd79c1",
+          "reason": "Hip moved left too early; excluded from final motion.",
+          "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-25.prompt.txt"
+        },
+        "nap-roll-40": {
+          "path": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/raw/nap-roll-40.png",
+          "sha256": "dbb3a13bc87f430b36f2003e1f51ff6b042986e94ea312aa5d26b0b53162c92f",
+          "reason": "Hip moved left too early; excluded from final motion.",
+          "prompt": "pet-sources/authoring/doro-nap-refinement/run-01/inputs/nap-roll-40.prompt.txt"
+        }
+      },
+      "generation_calls": 9,
+      "generator": "built-in image_gen",
+      "poses": [
+        {
+          "name": "nap-roll-12-v2",
+          "label": "Hạ hông, thân còn phía phải",
+          "storyboard_target": 12,
+          "character": "5c7ba670ddef34ebc1c8caef5680cc09439415d51a94c4fc21d546df54aeb7c7",
+          "entry": "f56f6f99887d1e1e125912188060e02e70b2f1a942335b8a62e9d3359c1b6049",
+          "exit": "f56f6f99887d1e1e125912188060e02e70b2f1a942335b8a62e9d3359c1b6049"
+        },
+        {
+          "name": "nap-roll-25-v2",
+          "label": "Hông xuống gần dưới đầu",
+          "storyboard_target": 25,
+          "character": "5caffcdad73872b1013fd630a8ad40bfea3654640cc271547b39e62ab3a53915",
+          "entry": "093e9c5cb704db2414123f5d08c87092c64589f93827d0e1ab396913b036a2c5",
+          "exit": "093e9c5cb704db2414123f5d08c87092c64589f93827d0e1ab396913b036a2c5"
+        },
+        {
+          "name": "nap-roll-40-v2",
+          "label": "Ngồi lệch, bắt đầu nghiêng",
+          "storyboard_target": 40,
+          "character": "759e32b6694f14b0b0de2bfcf6630c5212a9a7426b3e586a4ff882d01fbce74f",
+          "entry": "27e6b92cbcc08dba3cdfa9dadde6c77e629e96ee6c39490f39d93bc790aba45b",
+          "exit": "27e6b92cbcc08dba3cdfa9dadde6c77e629e96ee6c39490f39d93bc790aba45b"
+        },
+        {
+          "name": "nap-roll-55",
+          "label": "Chuyển sang nằm nghiêng",
+          "storyboard_target": 55,
+          "character": "62fad5f6afdde0c42a7821f870dafb2bf9c5341aef94caaa2c364d52810db406",
+          "entry": "0fa56c89eb11573d1aeb186fc05139fe5e822e5ccbeb85d39708318225c5143f",
+          "exit": "0fa56c89eb11573d1aeb186fc05139fe5e822e5ccbeb85d39708318225c5143f"
+        },
+        {
+          "name": "nap-roll-70",
+          "label": "Thu chân, chuyển trọng lượng",
+          "storyboard_target": 70,
+          "character": "22cdcdc37a07c71bd88bcd95af22afb8e0a929fe3ad790af39d0c88c34c5fdf5",
+          "entry": "f804da41e9413d3c19b3170ceee3a0a0b8a2ccb43e60fec0eb7c499925bac4ad",
+          "exit": "f804da41e9413d3c19b3170ceee3a0a0b8a2ccb43e60fec0eb7c499925bac4ad"
+        },
+        {
+          "name": "nap-roll-82",
+          "label": "Hạ nốt thân vào tư thế tựa",
+          "storyboard_target": 82,
+          "character": "5b730b1de1e9dcf5a14e9ef12bc98acbc637843cf78ef808b78dadce04c092d0",
+          "entry": "c12f5313419c5a9bb7ab6bd232e7df135d6fd2dac2fa396fc63f537b8c27057e",
+          "exit": "c12f5313419c5a9bb7ab6bd232e7df135d6fd2dac2fa396fc63f537b8c27057e"
+        }
+      ],
+      "note": "Six anatomically different drawings. No rigid rotation, crossfade or frame interpolation. Other four routes and all original loop frames are unchanged."
+    }
+  }
+}

@@ -12,6 +12,7 @@ Older builds still reserve these pet ids in their artwork index and reject their
 | Kuro | CC0-1.0, Agent Pet contributors | Included; drawing source in scripts/draw_kuro.py |
 | Yun | CC0-1.0, Agent Pet contributors | Included; drawing source in scripts/draw_yun.py |
 | Doro + Doro Events | Menyou uploads on emoji.gg; Basic License captured on one sample page, original artists unverified | Local reviewed sources and packs prepared; redistribution terms need review before publication |
+| Doro Motion | Mixed emoji.gg / official NIKKE LINE artwork and locally generated connecting poses; original artists unverified | Included notices retain personal-use restrictions and grant no additional artwork rights |
 | Whale Girl | CC-BY-NC-SA-4.0, 上善无形 / ZipZipPipe; animation by Multimodal-AI-Companion | Noncommercial distribution only; full attribution and upstream notices retained |
 | Bocchi | No source or redistributable terms present in the app repository | Not included; authors can use Agent Pet's workshop converter with their own local art and terms |
 
@@ -91,3 +92,25 @@ The `break-buddy` rules join the pet's built-in response pool, as required by th
 current event-rule format; they do not replace its movement-break fallback.
 `index.json` contains release URLs prepared for that tag, not a claim that those
 URLs are already published. Import the two local `.agentpet` files for testing.
+
+## Doro Motion 1.1.3
+
+Doro Motion is a separate pet (`doro-motion`), installed alongside the original
+Doro. Requires **Agent Pet 0.18.9 or newer** for authored entrances, loop exits
+and consistent variants after handling. The pack includes refined nap entry and
+recovery, door startup, thumbs-up, dance and wine transitions, plus the existing
+approval, work, drag/fall/landing, moods and bedtime artwork.
+
+Use Settings → Pet → Browse pack sources, refresh the gallery, and install
+Doro Motion. Restart to select it after installation. The optional Doro Events
+plugin still targets the original `doro` pet.
+
+`assets/doro-motion` contains the reachable production catalog and PNG frames.
+`sources/doro-motion` preserves the reviewed local pack's provenance, retired
+artwork, gallery preparation report and native playback results. Removing unused
+sequences and correcting their owner labels leaves runtime mappings, active PNGs
+and frame timings unchanged. All four original artwork/authoring notices are
+retained in `licenses/DORO-MOTION-TERMS.md` and included in the archive.
+
+The code licence does not cover this artwork. Review the included terms before
+using or sharing it; this release grants no additional rights.

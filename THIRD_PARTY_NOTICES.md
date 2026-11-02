@@ -12,3 +12,12 @@ The PNG frames in `assets/whale-girl/` come from [Multimodal-AI-Companion-Assets
 
 The PNG frames in `assets/kuro/` and `assets/yun/` are original Agent Pet artwork, not third-party material. They are drawn from vector shapes by `scripts/draw_kuro.py` and `scripts/draw_yun.py` (with `scripts/pet_art.py`) and dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/); see [Kuro's terms](licenses/KURO-ARTWORK-TERMS.md) and [Yun's terms](licenses/YUN-ARTWORK-TERMS.md). Both pets are distributed as separate `.agentpet` packs.
 
+
+## Doro Motion
+
+Doro Motion combines the reviewed emoji.gg collection uploaded by Menyou,
+official NIKKE LINE sticker packages 37304940 and 32367107, and locally generated
+connecting poses. Original artists and redistribution permissions have not been
+independently verified. The artwork remains separate from the gallery code
+licence. See [the retained terms and provenance](licenses/DORO-MOTION-TERMS.md)
+and `sources/doro-motion/` for the source manifest and preparation report.

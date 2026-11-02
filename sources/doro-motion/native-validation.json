@@ -1,0 +1,5 @@
+{
+  "completion": "PASS: 1742 native frame pixel/duration checks, 16 entry responses, 40 loop wake points, 60-second holds for nap/inactive, 6 once routes, exact base endpoints, latest target, urgent attention and drag",
+  "approval": "PASS: 12 approval entry response points, 17 loop response points, 60 s holds for both variants, exact base endpoints, latest target, urgent cuts, drag, 6 completion routes",
+  "landing": "PASS: 68 airborne release points, original die, exact idle, pending activity, both work variants, re-grab"
+}
