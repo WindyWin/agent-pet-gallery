@@ -160,5 +160,3 @@ LINE-derived and mixed-source artwork stays local for personal use; do not publi
 - Sleep reminder choice cue_sleep_1 uses the finite nap performance; inactive and nap use its sustained phases.
 - Approval, work variants, handling, landing, movement, moods, bedtime, input geometry and scheduling are unchanged.
 - This mixed-source/LINE-derived pack is local and personal-use only; no gallery or public release upload.
-
-
