@@ -3690,5 +3690,1970 @@
       ],
       "note": "Six anatomically different drawings. No rigid rotation, crossfade or frame interpolation. Other four routes and all original loop frames are unchanged."
     }
+  },
+  "quit_1_1_4": {
+    "version": "1.1.4",
+    "pet": "doro-motion",
+    "accepted_preview": "doro-quit-variants-preview-v6.html",
+    "source_catalog_sha256": "0c8bc9459e1cbe8e610a32a08612170677b02e96f550efa7e2f126a354e6c629",
+    "preview_data_sha256": "db48124339e2971a3db1721284b597305cee463d771ed3e62052caa6f1e03358",
+    "sequences": {
+      "flop": "quit-flop-transition-v4",
+      "beg": "quit-beg-transition-v6",
+      "die": "quit-die-transition-v4",
+      "slap": "quit-slap-transition-v4"
+    },
+    "routes": {
+      "flop": {
+        "cue": "quit",
+        "state": "cue_quit",
+        "choice": 0,
+        "sequence": "quit-flop-transition-v4",
+        "duration_ms": 1280,
+        "frames": [
+          [
+            "ebe44cd60b57a816e73c36c4cd0e0e4f91cd13d5190392474860ea67e1c5d208",
+            90
+          ],
+          [
+            "b7193da056ec769045f08ed28c2114e6fd0724b800a84cad77f611fab4fe1367",
+            90
+          ],
+          [
+            "edbc8ff3ded87d3dbad6a96bf0884e3b9ef84b605f8fcd77aa805bfafe9d1b09",
+            90
+          ],
+          [
+            "d429e2aa110c938353c879bba8973895f60a893c5ee4d9067acbc3ee30f86159",
+            90
+          ],
+          [
+            "e0d692806fe4f66881457b7779706233d68ad1d3099c5769b365b8ca14c708df",
+            60
+          ],
+          [
+            "e0d692806fe4f66881457b7779706233d68ad1d3099c5769b365b8ca14c708df",
+            20
+          ],
+          [
+            "787bff7fbebe77ec4e79cea111093da5a3d9b33cd39fc133f887b1466a7cdbb3",
+            20
+          ],
+          [
+            "35de8572a2fe30376fc8d350e643b8732712b48a9d54718fb337ba74d4157d9a",
+            20
+          ],
+          [
+            "bf4923cf863ced30daaceffff6885add81c90653137992cb2a6b0a91f5ccf95f",
+            20
+          ],
+          [
+            "af6608fb24c1cbac75a3e3d87bd84445a87515ccfc7b1257d9d328aae7b1b503",
+            20
+          ],
+          [
+            "b39e9fa9680ccd1679eac28c04779218892c941eaa588c0b2c9b882570e9fe33",
+            20
+          ],
+          [
+            "efb103dcb5947802c388427b01a7949cf5742e43e5ba24c3b5fc65c9b4b161eb",
+            20
+          ],
+          [
+            "07b0a20da93ea194c35528cc6f0c32e4acf4b9a46be73369ef60f38190bd9927",
+            20
+          ],
+          [
+            "1f8ee9ad4b969007cd161945a054cc94167fbc95121d396a80844c2eb8113302",
+            20
+          ],
+          [
+            "a4851418ef26a1390b5427855f9a4962a8cdac7011dc03d51daf0a414dd4b7e2",
+            20
+          ],
+          [
+            "4163fdb7afbb75af6bcc277d1514cfd96e35578b5dca72f2eab30b5228ffb075",
+            20
+          ],
+          [
+            "4feb18700a820ef6c41037eafc964285082aeb80376e1a5cb13c2410d2c2e2cd",
+            20
+          ],
+          [
+            "666c5f61b8ef97e72caed2751c0c355b58f39b07aeed8b0a62239e388ae1f0b7",
+            20
+          ],
+          [
+            "0785d6df805790835d24b755edf9a32905a5bee39d88edad32228ceb373be494",
+            20
+          ],
+          [
+            "dcbeeba77399ec2179d52faffddd55664a9247a96a3194d26269a45ddd18f836",
+            20
+          ],
+          [
+            "dbb253db940518629551718c6a239466e74654bad42be6965de8fad99ddff17c",
+            45
+          ],
+          [
+            "9550aa9e6c6961031039ed9d8400d7614d48571bdb8c994fa39d7b9c3dd10e9c",
+            45
+          ],
+          [
+            "d31ec11475540ca4b7f1f823317116dd9c7858dfaf27edb4416420cd3548b5e9",
+            45
+          ],
+          [
+            "c363a1d319201d2718157c66d9ad98e64027d86ae35e0a4be498d69a07dbc5b2",
+            45
+          ],
+          [
+            "4e67699fd571ffa259ae549af7bf0576051bccfb7166a2642803841900e538af",
+            45
+          ],
+          [
+            "620b58aedff4207858feb17d5a9d5a5e5b11ece5e5dae5a757533a9fe759ce3d",
+            45
+          ],
+          [
+            "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+            45
+          ],
+          [
+            "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+            45
+          ],
+          [
+            "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+            200
+          ]
+        ]
+      },
+      "beg": {
+        "cue": "quit",
+        "state": "cue_quit",
+        "choice": 1,
+        "sequence": "quit-beg-transition-v6",
+        "duration_ms": 2840,
+        "frames": [
+          [
+            "1e123c91804b0830580fe8ec38f920cc5d20e112e6f6df3d577d04f07485b218",
+            100
+          ],
+          [
+            "6e27b19f531207cf268729809871b0527d69f7db309708ac7dfc5c7be55f3c80",
+            100
+          ],
+          [
+            "dedaaa2539280e02f40e1164b48f8fccb3de7cfba39c0d0143ee28598ed68086",
+            100
+          ],
+          [
+            "b4f3093cf5250d905a2d9d1899dab6227943f2379cc1a8138a955be64cebb10d",
+            100
+          ],
+          [
+            "017b6e5b01ff4f392d7a32e28bc50b48b23ca6a9359f904f923b2ea075c80092",
+            90
+          ],
+          [
+            "017b6e5b01ff4f392d7a32e28bc50b48b23ca6a9359f904f923b2ea075c80092",
+            180
+          ],
+          [
+            "24940f5a41b1a86013e4e7ab30fa824ec35847157ebe43a611d42cfbe40e5a8c",
+            90
+          ],
+          [
+            "017b6e5b01ff4f392d7a32e28bc50b48b23ca6a9359f904f923b2ea075c80092",
+            160
+          ],
+          [
+            "e8ca7391cbb3f2bc76dd98d9eeef8e569d7fbd0b84b29963637c8e1b6d20c6bf",
+            220
+          ],
+          [
+            "4374b2c343a0a16faf11d8bf6aba435202f73d3334fe1d357b546a3c17245c9a",
+            250
+          ],
+          [
+            "a7cdca06a7191a6607c925a6d8e74e2bdcc10b4fb4fe12c61fe2a3be38d80d30",
+            300
+          ],
+          [
+            "905e05fa3ff4b7ff54782a2d4b7a9462c6fa1107157348bd96b7fd7613d0efae",
+            120
+          ],
+          [
+            "f93b8a242a9228159468c4e5d5ff6f193ed80887e0b4049158afa62ca47e2db5",
+            110
+          ],
+          [
+            "fbb87ac14bf829b210c0d95be9f1b09981d957fe2c35c39c0bdd118a53e08113",
+            110
+          ],
+          [
+            "a738f18daa0ccd46828cff91a50f65cf20b3ce3eff250543210dd7ceb121d937",
+            100
+          ],
+          [
+            "e774408b3585589f7df24de8fb8c76f089f54a48755dc98332caad5f98c73c1d",
+            100
+          ],
+          [
+            "3b20decf232d526385413d1fc00bd958c5f942a29621a3c1eaae45406e5d8361",
+            100
+          ],
+          [
+            "eb0c09ebec01e9de0ce8c5faf2b3e13f48ba00078b5774e2962f4626e7ab9f0c",
+            90
+          ],
+          [
+            "bb4b5c82be916eeb9423cadd9413e9af04ca97351669bffb507b67c239beaa47",
+            80
+          ],
+          [
+            "11298675db0a07695f76de5065500e2c35e1e56cc6c486f2384962a89e7cc89c",
+            80
+          ],
+          [
+            "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+            60
+          ],
+          [
+            "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+            200
+          ]
+        ]
+      },
+      "die": {
+        "cue": "quit-angry",
+        "state": "cue_quit_angry",
+        "choice": 0,
+        "sequence": "quit-die-transition-v4",
+        "duration_ms": 2555,
+        "frames": [
+          [
+            "ce3abfd91cc076808c996a05b5f7b5b7cd32b944da978bd2d821dd8baf46c787",
+            70
+          ],
+          [
+            "90037d69bdad01e8fdf91fda4cd5bedb6b0f0fe5c59389b8672d8d933554ecb5",
+            90
+          ],
+          [
+            "9d49acfe29a29c008e8f4e827916b68c18212e4ac359474e10c56c0d48bea00b",
+            80
+          ],
+          [
+            "06890d2ee587f511c6ef31c0fdf3bc2bc63452c48d5f4441451ee26e7185fc22",
+            90
+          ],
+          [
+            "b771df9a5b144c0ec69316314df5bfbf06477661457ac55a0b8bf9f5917a63b1",
+            90
+          ],
+          [
+            "083bb59fbbeebfd9a7afd43043facc7c2c25d5b5ed1db1323030d3a01bf27ccb",
+            90
+          ],
+          [
+            "2553e8347a6967c9fbfa04e128951f633bcb75c778d65ee163250639fac577dd",
+            75
+          ],
+          [
+            "2553e8347a6967c9fbfa04e128951f633bcb75c778d65ee163250639fac577dd",
+            1200
+          ],
+          [
+            "552fa14073596a5ff258e9bb7a4b6d9449645b1f65f1e65c7fac16c6c4d99621",
+            130
+          ],
+          [
+            "2eefd62f4beba0210abf87f668908a353a66e0335746e8816b77fd231be061a1",
+            150
+          ],
+          [
+            "69d25ff782fea4b196854f291e08739cc45be3bfe2fa448ff1bc08b0cd55357c",
+            150
+          ],
+          [
+            "27c53273e268bceeeab24d762a2c0eefe2677970fac266c6cf1d034f914effdd",
+            140
+          ],
+          [
+            "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+            200
+          ]
+        ]
+      },
+      "slap": {
+        "cue": "quit-angry",
+        "state": "cue_quit_angry",
+        "choice": 1,
+        "sequence": "quit-slap-transition-v4",
+        "duration_ms": 1540,
+        "frames": [
+          [
+            "c013ffc6231c5b8e91b5839b8808499d15c86c3b56ee425fbf56cac70a3d0235",
+            100
+          ],
+          [
+            "40518a012d84f1257177968673eafc65faf2d6df94e7617694b5c626496d216e",
+            100
+          ],
+          [
+            "575941c500bbb9a458c90529fd66e090a9ac5d2f79a2095d64d4e4dfe100689b",
+            100
+          ],
+          [
+            "b2d9bb67f3edb10d29fdb35c71ee9b83d38b0f6cbe8d7d7863dc4c035cb41d77",
+            80
+          ],
+          [
+            "b2d9bb67f3edb10d29fdb35c71ee9b83d38b0f6cbe8d7d7863dc4c035cb41d77",
+            60
+          ],
+          [
+            "090b48c2d58adb5896772c77baee16f47bdafd7e829934c694997accb6cea861",
+            30
+          ],
+          [
+            "d574df1fc42e2803c4aec257fd5563006766d6770812be0bc3500c08ec16e433",
+            60
+          ],
+          [
+            "70f3e8360400af8a8070f90de966fb5875b02f21ed0bf8c56e730b75b9e32969",
+            60
+          ],
+          [
+            "6d69191514af209912695e2300433de96fb53022af15becd0afd565ed0b537bc",
+            30
+          ],
+          [
+            "2545f7c962c8c19d47b7d05ee36c7f549586d7288d86930bf2c5d7c72c60d81f",
+            60
+          ],
+          [
+            "e5b54ae9c36cae72dd5bcc39a5b42ab773bc8300354ae7f7c901a26be2393241",
+            60
+          ],
+          [
+            "9ec2c97a9f36e72f683d325f10723f0dfc7ebcfb45219d148ca17086001ed47e",
+            30
+          ],
+          [
+            "9195cfe35c162c075021cab5a06a9b56a08d018e0c34ba7ffc907b7d80a20839",
+            60
+          ],
+          [
+            "eb339a39f3aa139c551b54a03749eb2a09b79aef27385e1c32e1b3d7e8fdb430",
+            70
+          ],
+          [
+            "a5d0505998d23114671a4f65d8cf92fcfb3ef19326c4a623287962ada64f7050",
+            30
+          ],
+          [
+            "2b02ad85b74869d66e15d7a687eea55ccc7432a5cd7f3311acb088892a8b245d",
+            60
+          ],
+          [
+            "2184c586f8a0af3700777932226f747645a5c76cafd250e82894ea00524ec86b",
+            30
+          ],
+          [
+            "bf731930b1d0387353989b2572790a4eb394be31258410fa49802d85e84180de",
+            60
+          ],
+          [
+            "a30454d7919e3dcf2efaf2f3f5e422b5dc15abfc64a128d60dc4a210ae57a6d9",
+            60
+          ],
+          [
+            "6d96216fa83168cc9a7d7b3773c6a14ad8b4b283c827545cf82f326d0c38ba56",
+            30
+          ],
+          [
+            "754be077db5d00eba5c17e4c3890fdfc83be93ffb7278c5c086d7c977fe0a020",
+            60
+          ],
+          [
+            "85561674dc29ad9f88ecff8aabc5f1037a4f1bbb559996caef0036a3fa20e892",
+            60
+          ],
+          [
+            "85561674dc29ad9f88ecff8aabc5f1037a4f1bbb559996caef0036a3fa20e892",
+            50
+          ],
+          [
+            "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+            200
+          ]
+        ]
+      }
+    },
+    "removed_quit_choice": [
+      "92580-dorolurk-d249a21f"
+    ],
+    "original_sequences_preserved": 117,
+    "original_pngs_preserved": 1429,
+    "total_sequences": 121,
+    "total_pngs": 1468,
+    "used_frame_keys": 76,
+    "browser_checks": {
+      "status": "passed",
+      "routes": 4,
+      "pixel_checks": 92,
+      "cutout": {
+        "white": 3481,
+        "black": 4269,
+        "pink": 2205,
+        "tears": 92,
+        "transparent": 24406
+      },
+      "checks": "all retained quit/quit-angry choices, lurk excluded, original beg animation, airborne belly-up roll, liquid melting, native source frames/timing, foreground preservation, stop/transparent endpoint/no replay, seeking, stepping, phase jumps, offline, report, reduced motion, responsive layouts/controls",
+      "errors": [],
+      "network": []
+    },
+    "asset_checks": {
+      "status": "passed",
+      "unchanged_v4_routes": [
+        "die",
+        "slap",
+        "flop"
+      ],
+      "die_apng_byte_identical": true,
+      "pngs_verified": 138,
+      "complete_body_margin_and_rear_limbs": true,
+      "distinct_rear_leg_articulation": true,
+      "corrected_anatomy_cels_used": 7,
+      "anatomy_visual_review": "no tail, distinct feet or digit lines in active hug poses; checked against baseline",
+      "source_duration_ms": 1200,
+      "full_hug_apng_ms": 2840,
+      "candidate_references_resolve": true,
+      "installed_catalog_unchanged": true
+    },
+    "runtime_changed": false,
+    "live_installation_changed": false
+  },
+  "quit_1_1_4_artwork": {
+    "preview_only": true,
+    "mode": "once",
+    "after": "stop",
+    "generator": "built-in image_gen",
+    "generated_images": 38,
+    "source_catalog_sha256": "0c8bc9459e1cbe8e610a32a08612170677b02e96f550efa7e2f126a354e6c629",
+    "choice_inventory": {
+      "flop": {
+        "cue": "quit",
+        "state": "cue_quit",
+        "choice": 0,
+        "sequences": [
+          "56490-doroflop1-2096936a"
+        ],
+        "frames": [
+          [
+            "e0d692806fe4f66881457b7779706233d68ad1d3099c5769b365b8ca14c708df",
+            20
+          ],
+          [
+            "787bff7fbebe77ec4e79cea111093da5a3d9b33cd39fc133f887b1466a7cdbb3",
+            20
+          ],
+          [
+            "35de8572a2fe30376fc8d350e643b8732712b48a9d54718fb337ba74d4157d9a",
+            20
+          ],
+          [
+            "bf4923cf863ced30daaceffff6885add81c90653137992cb2a6b0a91f5ccf95f",
+            20
+          ],
+          [
+            "af6608fb24c1cbac75a3e3d87bd84445a87515ccfc7b1257d9d328aae7b1b503",
+            20
+          ],
+          [
+            "b39e9fa9680ccd1679eac28c04779218892c941eaa588c0b2c9b882570e9fe33",
+            20
+          ],
+          [
+            "efb103dcb5947802c388427b01a7949cf5742e43e5ba24c3b5fc65c9b4b161eb",
+            20
+          ],
+          [
+            "07b0a20da93ea194c35528cc6f0c32e4acf4b9a46be73369ef60f38190bd9927",
+            20
+          ],
+          [
+            "1f8ee9ad4b969007cd161945a054cc94167fbc95121d396a80844c2eb8113302",
+            20
+          ],
+          [
+            "a4851418ef26a1390b5427855f9a4962a8cdac7011dc03d51daf0a414dd4b7e2",
+            20
+          ],
+          [
+            "4163fdb7afbb75af6bcc277d1514cfd96e35578b5dca72f2eab30b5228ffb075",
+            20
+          ],
+          [
+            "4feb18700a820ef6c41037eafc964285082aeb80376e1a5cb13c2410d2c2e2cd",
+            20
+          ],
+          [
+            "666c5f61b8ef97e72caed2751c0c355b58f39b07aeed8b0a62239e388ae1f0b7",
+            20
+          ],
+          [
+            "0785d6df805790835d24b755edf9a32905a5bee39d88edad32228ceb373be494",
+            20
+          ],
+          [
+            "dcbeeba77399ec2179d52faffddd55664a9247a96a3194d26269a45ddd18f836",
+            20
+          ]
+        ]
+      },
+      "beg": {
+        "cue": "quit",
+        "state": "cue_quit",
+        "choice": 1,
+        "sequences": [
+          "72024-dorobeg-7511b53d"
+        ],
+        "frames": [
+          [
+            "b0b894b36216adea674f215691953bf3743b0eb7fdd3f109f7c290391535dbbb",
+            1200
+          ]
+        ]
+      },
+      "die": {
+        "cue": "quit-angry",
+        "state": "cue_quit_angry",
+        "choice": 0,
+        "sequences": [
+          "1965-deaddoro-8a8d4bd2"
+        ],
+        "frames": [
+          [
+            "2553e8347a6967c9fbfa04e128951f633bcb75c778d65ee163250639fac577dd",
+            1200
+          ]
+        ]
+      },
+      "slap": {
+        "cue": "quit-angry",
+        "state": "cue_quit_angry",
+        "choice": 1,
+        "sequences": [
+          "23355-doroslap-6ada1f83"
+        ],
+        "frames": [
+          [
+            "b2d9bb67f3edb10d29fdb35c71ee9b83d38b0f6cbe8d7d7863dc4c035cb41d77",
+            60
+          ],
+          [
+            "090b48c2d58adb5896772c77baee16f47bdafd7e829934c694997accb6cea861",
+            30
+          ],
+          [
+            "d574df1fc42e2803c4aec257fd5563006766d6770812be0bc3500c08ec16e433",
+            60
+          ],
+          [
+            "70f3e8360400af8a8070f90de966fb5875b02f21ed0bf8c56e730b75b9e32969",
+            60
+          ],
+          [
+            "6d69191514af209912695e2300433de96fb53022af15becd0afd565ed0b537bc",
+            30
+          ],
+          [
+            "2545f7c962c8c19d47b7d05ee36c7f549586d7288d86930bf2c5d7c72c60d81f",
+            60
+          ],
+          [
+            "e5b54ae9c36cae72dd5bcc39a5b42ab773bc8300354ae7f7c901a26be2393241",
+            60
+          ],
+          [
+            "9ec2c97a9f36e72f683d325f10723f0dfc7ebcfb45219d148ca17086001ed47e",
+            30
+          ],
+          [
+            "9195cfe35c162c075021cab5a06a9b56a08d018e0c34ba7ffc907b7d80a20839",
+            60
+          ],
+          [
+            "eb339a39f3aa139c551b54a03749eb2a09b79aef27385e1c32e1b3d7e8fdb430",
+            70
+          ],
+          [
+            "a5d0505998d23114671a4f65d8cf92fcfb3ef19326c4a623287962ada64f7050",
+            30
+          ],
+          [
+            "2b02ad85b74869d66e15d7a687eea55ccc7432a5cd7f3311acb088892a8b245d",
+            60
+          ],
+          [
+            "2184c586f8a0af3700777932226f747645a5c76cafd250e82894ea00524ec86b",
+            30
+          ],
+          [
+            "bf731930b1d0387353989b2572790a4eb394be31258410fa49802d85e84180de",
+            60
+          ],
+          [
+            "a30454d7919e3dcf2efaf2f3f5e422b5dc15abfc64a128d60dc4a210ae57a6d9",
+            60
+          ],
+          [
+            "6d96216fa83168cc9a7d7b3773c6a14ad8b4b283c827545cf82f326d0c38ba56",
+            30
+          ],
+          [
+            "754be077db5d00eba5c17e4c3890fdfc83be93ffb7278c5c086d7c977fe0a020",
+            60
+          ],
+          [
+            "85561674dc29ad9f88ecff8aabc5f1037a4f1bbb559996caef0036a3fa20e892",
+            60
+          ]
+        ]
+      }
+    },
+    "excluded_choices": {
+      "lurk": {
+        "cue": "quit",
+        "state": "cue_quit",
+        "choice": 2,
+        "sequences": [
+          "92580-dorolurk-d249a21f"
+        ],
+        "frames": [
+          [
+            "87df81f3e3e22feae19c80ba2c3ddc54f69f993e3c69304723b563e8ed0639e7",
+            1200
+          ]
+        ]
+      }
+    },
+    "candidate_sequences": {
+      "flop": "quit-flop-transition-v4",
+      "beg": "quit-beg-transition-v6",
+      "die": "quit-die-transition-v4",
+      "slap": "quit-slap-transition-v4"
+    },
+    "sources": {
+      "base-spider-base": {
+        "frames": [
+          [
+            "2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83",
+            100
+          ],
+          [
+            "4069d1f4bb48e8265ef1c1adf3e6dd3598c8eec92a45d0b7579e66244e38f74f",
+            100
+          ],
+          [
+            "5e0e2b57667932ee787c0d40740b5a07d756a8095936c1a5bc1d213836e6b209",
+            100
+          ],
+          [
+            "179d2bb42c18f441e4bcf1c1db4d300ead11deaf71555ff34b9da452f390200e",
+            100
+          ],
+          [
+            "d8a7a0877817525193f84b82c77ec66f5a5bef0e573cb4008c390250fc74d17a",
+            100
+          ],
+          [
+            "e5f79d8713c139612df166fb0a6b9dd32a1092bebc9255c1c974f6db642085a0",
+            100
+          ],
+          [
+            "64f0f20615aa68e6353703646474bd328e0650ac89df9aaec121e17fdaf94a38",
+            100
+          ],
+          [
+            "c3bb08a150521f58186f6be4ab2701d5fe45d742db6d2bc9b73d31bdcfa33fc8",
+            100
+          ],
+          [
+            "835c204307cd2f8bf701e2c2e9cf05d910faf7d2578edcd3df6267e6cc6734b2",
+            100
+          ],
+          [
+            "57f7b32442710bfa81f4b9ba117aeb2ca1ec0f11a707ded16f0227f4830caac9",
+            100
+          ],
+          [
+            "78934d877e1b74c39b17c4d67ea7a29f92a5ba604cb569c945fb807360c64128",
+            100
+          ],
+          [
+            "fd6f5181c00e30a3356c2ac772242767c5b876b7529728cd3745b5f9c7ce461a",
+            100
+          ],
+          [
+            "36807bcf3634f33eda42c5c97b47ccb0a25032dc7d9294c719ff6401372ec783",
+            100
+          ],
+          [
+            "618da84ef213ec3a92f082e9bdcedaf108067dbd0187024f8383ab4976f5ac97",
+            100
+          ],
+          [
+            "269f5d85e759a8e057a6e66cb0e5b7ebe89fcd40cffc608e58df1951d7df2499",
+            100
+          ],
+          [
+            "d421098bd2df87c1059ccf0ef281242a5f7c50ad8916eddb27a0550ba99c47b0",
+            100
+          ],
+          [
+            "8f1b744732ec4f1b4039914215610325eef78fb0d2cca805c7f28fa8305e93d9",
+            100
+          ],
+          [
+            "276180f8bde27b429ad82f4ca53b735018bb16877bc18d47e31c5f9413f39420",
+            100
+          ],
+          [
+            "56ffe95a2fa81ae383a89a48dddba52707bd8c2830144f3b8420a8ce3b311e93",
+            100
+          ],
+          [
+            "48a2efe9027a026fdb8de6ca96c1470b2db6306e253e65aaa4cf0e213ffc57e7",
+            100
+          ],
+          [
+            "05c3b24f7e70588b90916d84b204543cf9a6156afa60066c145b83d4988af1d3",
+            100
+          ],
+          [
+            "a61f9bfed2d1c888c6a34a2588ccec5dd9852a1841add0581984e41c2905ec18",
+            100
+          ],
+          [
+            "3874f72adb196531e03c3285ca51db0be1c41ffa8b8b6c378300143d195c6fbb",
+            100
+          ],
+          [
+            "e5e522f157e9838456a8d7175677dd670a2e0efe721775c3509546494c51246d",
+            100
+          ],
+          [
+            "743aaff83609b544111187ed602f4530281bfb0f238a277c5fb888994db3ddb0",
+            100
+          ],
+          [
+            "a99349cfa7ff0c0e8efc823f4fd674c4b243fb7f8c68ce29742ff2f169f1a7f5",
+            100
+          ],
+          [
+            "2e97ae41c107857a94bb9086016603e7d1202bc12c4de87294a8c413fa0f1277",
+            100
+          ],
+          [
+            "21d676f56a17b1f6928c7066fa6fe345e1d48d641525380e2a2a37d6ced2776d",
+            100
+          ],
+          [
+            "486fe3772f81af32f94c2ed5b507be4c2a0c7156f89d72370cc061582990456d",
+            100
+          ],
+          [
+            "ef281594b4bc31fe95fa4fbc0a0d0a9924a90fe64cf9e59feb4634c3dae4c0e1",
+            100
+          ],
+          [
+            "563e540105ad511eb1f4b0542f2b28d9ef226a5b96d116a46808bfd73007dc92",
+            100
+          ],
+          [
+            "e638842c6ca290c0aea00a434b0094c0710eb112962118a5407435065c6fcf44",
+            100
+          ],
+          [
+            "1185852f1e7564826ab531f55733ce0388697da4231f8c63a0e38a9377a4bced",
+            100
+          ],
+          [
+            "979a6ad3e37adda5895fe51348b4869aa80625b87da57193821b9b410f610898",
+            100
+          ],
+          [
+            "40f03ef2d71ab5e27eebe46b364023cdd3b5a10859c71126a93d7e6170705f7a",
+            100
+          ],
+          [
+            "1c2394e45553f53ce1b8b354a2b160b99fffa3da89911ffc8145647eb511d8cf",
+            100
+          ],
+          [
+            "2288634c429394feba87fb951b1b76ac95781da070d46ca3a6dbefccb688f61c",
+            100
+          ],
+          [
+            "2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83",
+            100
+          ]
+        ],
+        "duration_ms": 3800,
+        "verbatim": true
+      },
+      "56490-doroflop1-2096936a": {
+        "frames": [
+          [
+            "e0d692806fe4f66881457b7779706233d68ad1d3099c5769b365b8ca14c708df",
+            20
+          ],
+          [
+            "787bff7fbebe77ec4e79cea111093da5a3d9b33cd39fc133f887b1466a7cdbb3",
+            20
+          ],
+          [
+            "35de8572a2fe30376fc8d350e643b8732712b48a9d54718fb337ba74d4157d9a",
+            20
+          ],
+          [
+            "bf4923cf863ced30daaceffff6885add81c90653137992cb2a6b0a91f5ccf95f",
+            20
+          ],
+          [
+            "af6608fb24c1cbac75a3e3d87bd84445a87515ccfc7b1257d9d328aae7b1b503",
+            20
+          ],
+          [
+            "b39e9fa9680ccd1679eac28c04779218892c941eaa588c0b2c9b882570e9fe33",
+            20
+          ],
+          [
+            "efb103dcb5947802c388427b01a7949cf5742e43e5ba24c3b5fc65c9b4b161eb",
+            20
+          ],
+          [
+            "07b0a20da93ea194c35528cc6f0c32e4acf4b9a46be73369ef60f38190bd9927",
+            20
+          ],
+          [
+            "1f8ee9ad4b969007cd161945a054cc94167fbc95121d396a80844c2eb8113302",
+            20
+          ],
+          [
+            "a4851418ef26a1390b5427855f9a4962a8cdac7011dc03d51daf0a414dd4b7e2",
+            20
+          ],
+          [
+            "4163fdb7afbb75af6bcc277d1514cfd96e35578b5dca72f2eab30b5228ffb075",
+            20
+          ],
+          [
+            "4feb18700a820ef6c41037eafc964285082aeb80376e1a5cb13c2410d2c2e2cd",
+            20
+          ],
+          [
+            "666c5f61b8ef97e72caed2751c0c355b58f39b07aeed8b0a62239e388ae1f0b7",
+            20
+          ],
+          [
+            "0785d6df805790835d24b755edf9a32905a5bee39d88edad32228ceb373be494",
+            20
+          ],
+          [
+            "dcbeeba77399ec2179d52faffddd55664a9247a96a3194d26269a45ddd18f836",
+            20
+          ]
+        ],
+        "duration_ms": 300,
+        "verbatim": true
+      },
+      "72024-dorobeg-7511b53d": {
+        "frames": [
+          [
+            "b0b894b36216adea674f215691953bf3743b0eb7fdd3f109f7c290391535dbbb",
+            1200
+          ]
+        ],
+        "duration_ms": 1200,
+        "verbatim": true
+      },
+      "92580-dorolurk-d249a21f": {
+        "frames": [
+          [
+            "87df81f3e3e22feae19c80ba2c3ddc54f69f993e3c69304723b563e8ed0639e7",
+            1200
+          ]
+        ],
+        "duration_ms": 1200,
+        "verbatim": true
+      },
+      "1965-deaddoro-8a8d4bd2": {
+        "frames": [
+          [
+            "2553e8347a6967c9fbfa04e128951f633bcb75c778d65ee163250639fac577dd",
+            1200
+          ]
+        ],
+        "duration_ms": 1200,
+        "verbatim": true
+      },
+      "23355-doroslap-6ada1f83": {
+        "frames": [
+          [
+            "b2d9bb67f3edb10d29fdb35c71ee9b83d38b0f6cbe8d7d7863dc4c035cb41d77",
+            60
+          ],
+          [
+            "090b48c2d58adb5896772c77baee16f47bdafd7e829934c694997accb6cea861",
+            30
+          ],
+          [
+            "d574df1fc42e2803c4aec257fd5563006766d6770812be0bc3500c08ec16e433",
+            60
+          ],
+          [
+            "70f3e8360400af8a8070f90de966fb5875b02f21ed0bf8c56e730b75b9e32969",
+            60
+          ],
+          [
+            "6d69191514af209912695e2300433de96fb53022af15becd0afd565ed0b537bc",
+            30
+          ],
+          [
+            "2545f7c962c8c19d47b7d05ee36c7f549586d7288d86930bf2c5d7c72c60d81f",
+            60
+          ],
+          [
+            "e5b54ae9c36cae72dd5bcc39a5b42ab773bc8300354ae7f7c901a26be2393241",
+            60
+          ],
+          [
+            "9ec2c97a9f36e72f683d325f10723f0dfc7ebcfb45219d148ca17086001ed47e",
+            30
+          ],
+          [
+            "9195cfe35c162c075021cab5a06a9b56a08d018e0c34ba7ffc907b7d80a20839",
+            60
+          ],
+          [
+            "eb339a39f3aa139c551b54a03749eb2a09b79aef27385e1c32e1b3d7e8fdb430",
+            70
+          ],
+          [
+            "a5d0505998d23114671a4f65d8cf92fcfb3ef19326c4a623287962ada64f7050",
+            30
+          ],
+          [
+            "2b02ad85b74869d66e15d7a687eea55ccc7432a5cd7f3311acb088892a8b245d",
+            60
+          ],
+          [
+            "2184c586f8a0af3700777932226f747645a5c76cafd250e82894ea00524ec86b",
+            30
+          ],
+          [
+            "bf731930b1d0387353989b2572790a4eb394be31258410fa49802d85e84180de",
+            60
+          ],
+          [
+            "a30454d7919e3dcf2efaf2f3f5e422b5dc15abfc64a128d60dc4a210ae57a6d9",
+            60
+          ],
+          [
+            "6d96216fa83168cc9a7d7b3773c6a14ad8b4b283c827545cf82f326d0c38ba56",
+            30
+          ],
+          [
+            "754be077db5d00eba5c17e4c3890fdfc83be93ffb7278c5c086d7c977fe0a020",
+            60
+          ],
+          [
+            "85561674dc29ad9f88ecff8aabc5f1037a4f1bbb559996caef0036a3fa20e892",
+            60
+          ]
+        ],
+        "duration_ms": 910,
+        "verbatim": true
+      },
+      "die-landing-recover": {
+        "frames": [
+          [
+            "afcd4c4c6325236360543eec5a4fce33caee0661dae377cdb20a1f3c551e7e3d",
+            45
+          ],
+          [
+            "2553e8347a6967c9fbfa04e128951f633bcb75c778d65ee163250639fac577dd",
+            420
+          ],
+          [
+            "834f968d6bbd8f71d9da6d8a6e3839b815c732128215e5eeeedee539488e2282",
+            90
+          ],
+          [
+            "90037d69bdad01e8fdf91fda4cd5bedb6b0f0fe5c59389b8672d8d933554ecb5",
+            100
+          ],
+          [
+            "ce3abfd91cc076808c996a05b5f7b5b7cd32b944da978bd2d821dd8baf46c787",
+            90
+          ],
+          [
+            "2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83",
+            100
+          ]
+        ],
+        "duration_ms": 845,
+        "verbatim": true
+      }
+    },
+    "fits": {
+      "beg-clean": {
+        "canvas_size": [
+          192,
+          192
+        ],
+        "method": "uniform full-canvas resize, head-top alignment, original crop",
+        "offset": [
+          0,
+          6
+        ],
+        "clip": [
+          32,
+          48,
+          160,
+          176
+        ],
+        "raw_sha256": "3c6feadeb633e243e5bf5f6c67be7969c342c114663a802cd7d01aae3a53bded"
+      },
+      "flop-1": {
+        "scale": 0.1819672131147541,
+        "offset": [
+          -18,
+          -14
+        ],
+        "head_width": 111.00000000000001,
+        "head_top": 65.0,
+        "bounds": [
+          34,
+          60,
+          154,
+          175
+        ],
+        "crop": null,
+        "target_head": [
+          71,
+          97,
+          118,
+          134
+        ],
+        "raw_sha256": "74874328a67cf37704da6011fe8f549754f9fad14a3a8078e69f906d0747c820"
+      },
+      "flop-2": {
+        "scale": 0.14074074074074075,
+        "offset": [
+          6,
+          18
+        ],
+        "head_width": 95.0,
+        "head_top": 73.0,
+        "bounds": [
+          43,
+          67,
+          144,
+          174
+        ],
+        "crop": null,
+        "target_head": [
+          71,
+          97,
+          118,
+          134
+        ],
+        "raw_sha256": "9e6891f681e29018ba558a46d53e894420e3dbc99280082aef7b6115c8a54ba7"
+      },
+      "flop-3": {
+        "scale": 0.14285714285714285,
+        "offset": [
+          6,
+          17
+        ],
+        "head_width": 79.0,
+        "head_top": 81.0,
+        "bounds": [
+          52,
+          74,
+          139,
+          172
+        ],
+        "crop": null,
+        "target_head": [
+          71,
+          97,
+          118,
+          134
+        ],
+        "raw_sha256": "60334c7daf8c9e9854687991b41ef4de7ebbcc313c463f8fb1df9c8dee480416"
+      },
+      "flop-4": {
+        "scale": 0.09278350515463918,
+        "offset": [
+          36,
+          67
+        ],
+        "head_width": 63.0,
+        "head_top": 89.0,
+        "bounds": [
+          60,
+          99,
+          129,
+          171
+        ],
+        "crop": null,
+        "target_head": [
+          71,
+          97,
+          118,
+          134
+        ],
+        "raw_sha256": "092f80c791dc63634c400bdea218719c4c05b6216e72c3284185f1989ab545bb"
+      },
+      "beg-1": {
+        "scale": 0.17554744525547444,
+        "offset": [
+          -44,
+          -10
+        ],
+        "head_width": 120.25,
+        "head_top": 57.0,
+        "bounds": [
+          0,
+          65,
+          149,
+          174
+        ],
+        "crop": null,
+        "target_head": [
+          6,
+          57,
+          106,
+          142
+        ],
+        "raw_sha256": "a7033be1285a352325300dd511e6d46d9edba3ec4e4d3ae159734635572f18ad"
+      },
+      "beg-2-upright": {
+        "scale": 0.12486248624862487,
+        "offset": [
+          7,
+          20
+        ],
+        "head_width": 113.5,
+        "head_top": 57.0,
+        "bounds": [
+          14,
+          65,
+          136,
+          173
+        ],
+        "crop": null,
+        "target_head": [
+          6,
+          57,
+          106,
+          142
+        ],
+        "raw_sha256": "899d385464724762a2890f23c2118c8b2e074184c6d988b6a04286a657ce2651"
+      },
+      "beg-3-upright": {
+        "scale": 0.10506889763779527,
+        "offset": [
+          -6,
+          56
+        ],
+        "head_width": 106.75,
+        "head_top": 57.0,
+        "bounds": [
+          32,
+          73,
+          120,
+          171
+        ],
+        "crop": [
+          32,
+          48,
+          160,
+          176
+        ],
+        "target_head": [
+          6,
+          57,
+          106,
+          142
+        ],
+        "raw_sha256": "1cb4b7464526a0cdeb404cddf08280bf2f773b64e69e5f6ba0e9d1b497adbb9d"
+      },
+      "beg-anim-blink": {
+        "scale": 0.15040650406504066,
+        "offset": [
+          1,
+          7
+        ],
+        "edited_rectangles": [
+          [
+            34,
+            95,
+            104,
+            132
+          ]
+        ],
+        "base": "6dadff4edb30cea156d1e958e63fe1eb530c2d8759ae935b93896099d302368e",
+        "raw_sha256": "68251afa11566763955a41ce45c7c56e7c49c70ca7ed35d7449f2b23915d022a"
+      },
+      "beg-anim-tug": {
+        "scale": 0.14770459081836326,
+        "offset": [
+          2,
+          8
+        ],
+        "edited_rectangles": [
+          [
+            32,
+            122,
+            110,
+            176
+          ],
+          [
+            106,
+            132,
+            126,
+            155
+          ]
+        ],
+        "base": "6dadff4edb30cea156d1e958e63fe1eb530c2d8759ae935b93896099d302368e",
+        "raw_sha256": "93da75972dc43de39beac1984bf18c77307020d9f40b702af84b1aba22de447e"
+      },
+      "beg-anim-tears": {
+        "scale": 0.15010141987829614,
+        "offset": [
+          1,
+          7
+        ],
+        "edited_rectangles": [
+          [
+            33,
+            101,
+            104,
+            153
+          ]
+        ],
+        "base": "6dadff4edb30cea156d1e958e63fe1eb530c2d8759ae935b93896099d302368e",
+        "raw_sha256": "3382631dbab22e5dd9b199f8c7799d139b6383fe64cba34aea38f4b2634c4166"
+      },
+      "die-takeoff": {
+        "scale": 0.14818880351262348,
+        "offset": [
+          -10,
+          2
+        ],
+        "bounds": [
+          28,
+          27,
+          164,
+          160
+        ],
+        "ground": 160,
+        "raw_sha256": "8e8b10a71d1a732f0184dbbadd3ef9595338caab36f7b92e136014859c355d0e"
+      },
+      "die-roll-45": {
+        "scale": 0.13036380597014927,
+        "offset": [
+          12,
+          -2
+        ],
+        "bounds": [
+          27,
+          39,
+          166,
+          140
+        ],
+        "ground": 140,
+        "raw_sha256": "61fb3d309dfcb6282b02158a18046fccdab69d599ba2fb38a89b4fbdf4d9a419"
+      },
+      "die-roll-90-bunfix": {
+        "scale": 0.1443024494142705,
+        "offset": [
+          -3,
+          -22
+        ],
+        "bounds": [
+          28,
+          17,
+          164,
+          132
+        ],
+        "ground": 132,
+        "raw_sha256": "70dd9a5c783d22cebd69a9e2c5c0f6c511e05a9ab24cce86cc943b3d101a58f9"
+      },
+      "die-roll-135": {
+        "scale": 0.13257575757575757,
+        "offset": [
+          9,
+          10
+        ],
+        "bounds": [
+          31,
+          52,
+          162,
+          158
+        ],
+        "ground": 158,
+        "raw_sha256": "c1690d55fc01a8c27937a010ad532ff9ea73b546ce87cbce63de737b889c5aa1"
+      },
+      "die-melt-1": {
+        "scale": 0.12037037037037036,
+        "offset": [
+          15,
+          43
+        ],
+        "bounds": [
+          31,
+          86,
+          161,
+          175
+        ],
+        "ground": 175,
+        "raw_sha256": "65af6d8ef8f27bc5f3f97265d532f203a8625bdeb03e63b7998c8cb146540414"
+      },
+      "die-melt-2": {
+        "scale": 0.11714770797962648,
+        "offset": [
+          22,
+          62
+        ],
+        "bounds": [
+          26,
+          122,
+          165,
+          175
+        ],
+        "ground": 175,
+        "raw_sha256": "3bf3352d5bffbd77ed323d093b7a21de3f157ac866b84a20ed15698a3d75ace8"
+      },
+      "die-melt-3": {
+        "scale": 0.05905511811023622,
+        "offset": [
+          32,
+          140
+        ],
+        "bounds": [
+          36,
+          159,
+          156,
+          175
+        ],
+        "ground": 175,
+        "raw_sha256": "e4f24c4756f6914efd126c1f816947fd9e0bd874eb4a84d2990b121209f096bf"
+      },
+      "die-melt-4": {
+        "scale": 0.07907742998352553,
+        "offset": [
+          50,
+          105
+        ],
+        "bounds": [
+          72,
+          163,
+          120,
+          175
+        ],
+        "ground": 175,
+        "raw_sha256": "ceb4926fa837f9b214962b61cddeb6106ea329ff906d05df68695b120cb8e4be"
+      },
+      "slap-1": {
+        "scale": 0.14637146371463713,
+        "offset": [
+          2,
+          21
+        ],
+        "head_width": 119.0,
+        "head_top": 59.75,
+        "bounds": [
+          34,
+          59,
+          161,
+          184
+        ],
+        "crop": null,
+        "target_head": [
+          60,
+          68,
+          155,
+          158
+        ],
+        "raw_sha256": "cfc259a369e271e44fb2a2e543bbc33b52481a43d689aae834fb99f9e33e24a6"
+      },
+      "slap-2": {
+        "scale": 0.10335195530726257,
+        "offset": [
+          25,
+          36
+        ],
+        "head_width": 111.0,
+        "head_top": 62.5,
+        "bounds": [
+          32,
+          60,
+          147,
+          149
+        ],
+        "crop": null,
+        "target_head": [
+          60,
+          68,
+          155,
+          158
+        ],
+        "raw_sha256": "6e13c784b99403e15cd6399c1887aeed4451f687b14a142c8fa9bad9ac6f2fe9"
+      },
+      "slap-3": {
+        "scale": 0.11704545454545455,
+        "offset": [
+          18,
+          34
+        ],
+        "head_width": 103.0,
+        "head_top": 65.25,
+        "bounds": [
+          32,
+          63,
+          159,
+          166
+        ],
+        "crop": [
+          32,
+          48,
+          160,
+          176
+        ],
+        "target_head": [
+          60,
+          68,
+          155,
+          158
+        ],
+        "raw_sha256": "0100a589dceae02767ea6de3c81a9658f2dacbc25edd54f2c1f0ce66a894aa4a"
+      },
+      "beg-fullbody": {
+        "method": "shared full-canvas resize and ground offset",
+        "canvas": [
+          192,
+          192
+        ],
+        "offset": [
+          0,
+          15
+        ],
+        "bounds": [
+          6,
+          47,
+          188,
+          176
+        ],
+        "raw_sha256": "e2ca8260b484ba3b62b8c1f3909d5562c13d0ab56244e7cd42ad983c9e6e6b94",
+        "raw_path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-fullbody-anatomy.png"
+      },
+      "beg-full-blink": {
+        "method": "shared full-canvas resize and ground offset",
+        "canvas": [
+          192,
+          192
+        ],
+        "offset": [
+          0,
+          15
+        ],
+        "bounds": [
+          7,
+          47,
+          187,
+          175
+        ],
+        "raw_sha256": "61e37847e54d73eb2f8bf40ce063bb3a9144d59eb8fce5ceb05bdb598aca7ed6",
+        "raw_path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-full-blink-anatomy.png"
+      },
+      "beg-full-grasp": {
+        "method": "shared full-canvas resize and ground offset",
+        "canvas": [
+          192,
+          192
+        ],
+        "offset": [
+          0,
+          15
+        ],
+        "bounds": [
+          12,
+          49,
+          187,
+          175
+        ],
+        "raw_sha256": "80896d3cb02b76d2548c163e124c4067f8357e877adbbb641ba062a24cd6ca8d",
+        "raw_path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-full-grasp-anatomy.png"
+      },
+      "beg-drag-stretch": {
+        "method": "shared full-canvas resize and ground offset",
+        "canvas": [
+          192,
+          192
+        ],
+        "offset": [
+          0,
+          15
+        ],
+        "bounds": [
+          14,
+          49,
+          190,
+          175
+        ],
+        "raw_sha256": "5ff969443699164001993ecd04fc0ac457e5f11c57f61497189eff24310e6911",
+        "raw_path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-drag-stretch-anatomy.png"
+      },
+      "beg-drag-scrabble": {
+        "method": "shared full-canvas resize and ground offset",
+        "canvas": [
+          192,
+          192
+        ],
+        "offset": [
+          0,
+          15
+        ],
+        "bounds": [
+          5,
+          48,
+          188,
+          175
+        ],
+        "raw_sha256": "a4571b11409f881a7d7a8ed1b78e3a889069a19dcfbabefd70652f6579bb5915",
+        "raw_path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-drag-scrabble-anatomy.png"
+      },
+      "beg-drag-flatten": {
+        "method": "shared full-canvas resize and ground offset",
+        "canvas": [
+          192,
+          192
+        ],
+        "offset": [
+          0,
+          15
+        ],
+        "bounds": [
+          8,
+          48,
+          188,
+          176
+        ],
+        "raw_sha256": "47a188781e3de116724c2967b00184f69bdd9c3d788701453e9f91d29354f2a1",
+        "raw_path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-drag-flatten-anatomy.png"
+      },
+      "beg-full-leg": {
+        "method": "shared full-canvas resize and ground offset",
+        "canvas": [
+          192,
+          192
+        ],
+        "offset": [
+          0,
+          15
+        ],
+        "bounds": [
+          144,
+          48,
+          187,
+          175
+        ],
+        "raw_sha256": "9ec4d873b24b20b2e09abbec97fd955af11b7626fcc641277cebb487448a8f6d",
+        "raw_path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-full-leg.png"
+      },
+      "beg-full-enter-1": {
+        "raw": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-1-anatomy.png",
+        "scale": 0.17068713450292397,
+        "offset": [
+          -27,
+          -3
+        ],
+        "prop_dx": 55
+      },
+      "beg-full-enter-2": {
+        "raw": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-2-upright.png",
+        "scale": 0.11716171617161716,
+        "offset": [
+          38,
+          32
+        ],
+        "prop_dx": 20
+      },
+      "beg-full-enter-3": {
+        "raw": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-3-upright.png",
+        "scale": 0.09473425196850394,
+        "offset": [
+          41,
+          72
+        ],
+        "prop_dx": 0
+      }
+    },
+    "raw_drawings": {
+      "beg-1": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-1.png",
+        "sha256": "a7033be1285a352325300dd511e6d46d9edba3ec4e4d3ae159734635572f18ad",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-1.prompt.txt"
+      },
+      "beg-2-upright": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-2-upright.png",
+        "sha256": "899d385464724762a2890f23c2118c8b2e074184c6d988b6a04286a657ce2651",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-2-upright.prompt.txt"
+      },
+      "beg-2": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-2.png",
+        "sha256": "f02798f9f4c84e497f9976d9fcda640383778be838e49f6753065da70861b684",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-2.prompt.txt"
+      },
+      "beg-3-upright": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-3-upright.png",
+        "sha256": "1cb4b7464526a0cdeb404cddf08280bf2f773b64e69e5f6ba0e9d1b497adbb9d",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-3-upright.prompt.txt"
+      },
+      "beg-3": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-3.png",
+        "sha256": "aa5e0cbe068a6a000a1affe134a409d256c011a309ab3d6c9e8884fa1717eade",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-3.prompt.txt"
+      },
+      "beg-anim-blink": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-anim-blink.png",
+        "sha256": "68251afa11566763955a41ce45c7c56e7c49c70ca7ed35d7449f2b23915d022a",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-anim-blink.prompt.txt"
+      },
+      "beg-anim-tears": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-anim-tears.png",
+        "sha256": "3382631dbab22e5dd9b199f8c7799d139b6383fe64cba34aea38f4b2634c4166",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-anim-tears.prompt.txt"
+      },
+      "beg-anim-tug": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-anim-tug.png",
+        "sha256": "93da75972dc43de39beac1984bf18c77307020d9f40b702af84b1aba22de447e",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-anim-tug.prompt.txt"
+      },
+      "beg-clean": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-clean.png",
+        "sha256": "3c6feadeb633e243e5bf5f6c67be7969c342c114663a802cd7d01aae3a53bded",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-clean.prompt.txt"
+      },
+      "beg-leg": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-leg.png",
+        "sha256": "8165ff17a10672cffd957bc4802c621a91344f98ad1240d2314d28e99548e4c0",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-leg.prompt.txt"
+      },
+      "die-melt-1": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/die-melt-1.png",
+        "sha256": "65af6d8ef8f27bc5f3f97265d532f203a8625bdeb03e63b7998c8cb146540414",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/die-melt-1.prompt.txt"
+      },
+      "die-melt-2": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/die-melt-2.png",
+        "sha256": "3bf3352d5bffbd77ed323d093b7a21de3f157ac866b84a20ed15698a3d75ace8",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/die-melt-2.prompt.txt"
+      },
+      "die-melt-3": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/die-melt-3.png",
+        "sha256": "e4f24c4756f6914efd126c1f816947fd9e0bd874eb4a84d2990b121209f096bf",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/die-melt-3.prompt.txt"
+      },
+      "die-melt-4": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/die-melt-4.png",
+        "sha256": "ceb4926fa837f9b214962b61cddeb6106ea329ff906d05df68695b120cb8e4be",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/die-melt-4.prompt.txt"
+      },
+      "die-roll-135": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/die-roll-135.png",
+        "sha256": "c1690d55fc01a8c27937a010ad532ff9ea73b546ce87cbce63de737b889c5aa1",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/die-roll-135.prompt.txt"
+      },
+      "die-roll-45": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/die-roll-45.png",
+        "sha256": "61fb3d309dfcb6282b02158a18046fccdab69d599ba2fb38a89b4fbdf4d9a419",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/die-roll-45.prompt.txt"
+      },
+      "die-roll-90-bunfix": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/die-roll-90-bunfix.png",
+        "sha256": "70dd9a5c783d22cebd69a9e2c5c0f6c511e05a9ab24cce86cc943b3d101a58f9",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/die-roll-90-bunfix.prompt.txt"
+      },
+      "die-roll-90": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/die-roll-90.png",
+        "sha256": "c27fc20caf7e79d25d44c21cde584dfaea4d48fa9fda0e28e3703912a45d829a",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/die-roll-90.prompt.txt"
+      },
+      "die-takeoff": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/die-takeoff.png",
+        "sha256": "8e8b10a71d1a732f0184dbbadd3ef9595338caab36f7b92e136014859c355d0e",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/die-takeoff.prompt.txt"
+      },
+      "flop-1": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/flop-1.png",
+        "sha256": "74874328a67cf37704da6011fe8f549754f9fad14a3a8078e69f906d0747c820",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/flop-1.prompt.txt"
+      },
+      "flop-2": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/flop-2.png",
+        "sha256": "9e6891f681e29018ba558a46d53e894420e3dbc99280082aef7b6115c8a54ba7",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/flop-2.prompt.txt"
+      },
+      "flop-3": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/flop-3.png",
+        "sha256": "60334c7daf8c9e9854687991b41ef4de7ebbcc313c463f8fb1df9c8dee480416",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/flop-3.prompt.txt"
+      },
+      "flop-4": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/flop-4.png",
+        "sha256": "092f80c791dc63634c400bdea218719c4c05b6216e72c3284185f1989ab545bb",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/flop-4.prompt.txt"
+      },
+      "lurk-1": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/lurk-1.png",
+        "sha256": "8c7fad940e25cda3c30416ce918331cd172e3a20e801a09d21f741f7c1ad8d2a",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/lurk-1.prompt.txt"
+      },
+      "lurk-2": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/lurk-2.png",
+        "sha256": "9cd7a05ee3160f3757a1fcf40762993823e9bab3644363e8367760f6d0fac045",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/lurk-2.prompt.txt"
+      },
+      "lurk-3": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/lurk-3.png",
+        "sha256": "dbe67391ca4b84384cf4e5eba40683cc33fe759b8518b989c045b4fa4bbe95b8",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/lurk-3.prompt.txt"
+      },
+      "lurk-closed": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/lurk-closed.png",
+        "sha256": "47a966d5b856095bfd3ae7e79de983cd4055895523562204ccb39bd7c97b3a9e",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/lurk-closed.prompt.txt"
+      },
+      "slap-1": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/slap-1.png",
+        "sha256": "cfc259a369e271e44fb2a2e543bbc33b52481a43d689aae834fb99f9e33e24a6",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/slap-1.prompt.txt"
+      },
+      "slap-2": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/slap-2.png",
+        "sha256": "6e13c784b99403e15cd6399c1887aeed4451f687b14a142c8fa9bad9ac6f2fe9",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/slap-2.prompt.txt"
+      },
+      "slap-3": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/slap-3.png",
+        "sha256": "0100a589dceae02767ea6de3c81a9658f2dacbc25edd54f2c1f0ce66a894aa4a",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/slap-3.prompt.txt"
+      },
+      "beg-fullbody-anatomy": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-fullbody-anatomy.png",
+        "sha256": "e2ca8260b484ba3b62b8c1f3909d5562c13d0ab56244e7cd42ad983c9e6e6b94",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-fullbody-anatomy.prompt.txt"
+      },
+      "beg-full-blink-anatomy": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-full-blink-anatomy.png",
+        "sha256": "61e37847e54d73eb2f8bf40ce063bb3a9144d59eb8fce5ceb05bdb598aca7ed6",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-full-blink-anatomy.prompt.txt"
+      },
+      "beg-full-grasp-anatomy": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-full-grasp-anatomy.png",
+        "sha256": "80896d3cb02b76d2548c163e124c4067f8357e877adbbb641ba062a24cd6ca8d",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-full-grasp-anatomy.prompt.txt"
+      },
+      "beg-drag-stretch-anatomy": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-drag-stretch-anatomy.png",
+        "sha256": "5ff969443699164001993ecd04fc0ac457e5f11c57f61497189eff24310e6911",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-drag-stretch-anatomy.prompt.txt"
+      },
+      "beg-drag-scrabble-anatomy": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-drag-scrabble-anatomy.png",
+        "sha256": "a4571b11409f881a7d7a8ed1b78e3a889069a19dcfbabefd70652f6579bb5915",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-drag-scrabble-anatomy.prompt.txt"
+      },
+      "beg-drag-flatten-anatomy": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-drag-flatten-anatomy.png",
+        "sha256": "47a188781e3de116724c2967b00184f69bdd9c3d788701453e9f91d29354f2a1",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-drag-flatten-anatomy.prompt.txt"
+      },
+      "beg-full-leg": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-full-leg.png",
+        "sha256": "9ec4d873b24b20b2e09abbec97fd955af11b7626fcc641277cebb487448a8f6d",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-full-leg.prompt.txt"
+      },
+      "beg-1-anatomy": {
+        "path": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/raw/beg-1-anatomy.png",
+        "sha256": "f642a917753e44f4d8f6a8b85946660e250392695ffdd09b23086d41b8085965",
+        "prompt": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/beg-1-anatomy.prompt.txt"
+      }
+    },
+    "aliases": {
+      "transparent": "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+      "beg-clean": "017b6e5b01ff4f392d7a32e28bc50b48b23ca6a9359f904f923b2ea075c80092",
+      "beg-leg": "febda93fb600f162545a3831e8b863ff4588dad185344317497ce63493f1fd6b",
+      "flop-1": "ebe44cd60b57a816e73c36c4cd0e0e4f91cd13d5190392474860ea67e1c5d208",
+      "flop-2": "b7193da056ec769045f08ed28c2114e6fd0724b800a84cad77f611fab4fe1367",
+      "flop-3": "edbc8ff3ded87d3dbad6a96bf0884e3b9ef84b605f8fcd77aa805bfafe9d1b09",
+      "flop-4": "d429e2aa110c938353c879bba8973895f60a893c5ee4d9067acbc3ee30f86159",
+      "flop-leave-0": "dbb253db940518629551718c6a239466e74654bad42be6965de8fad99ddff17c",
+      "flop-leave-1": "9550aa9e6c6961031039ed9d8400d7614d48571bdb8c994fa39d7b9c3dd10e9c",
+      "flop-leave-2": "d31ec11475540ca4b7f1f823317116dd9c7858dfaf27edb4416420cd3548b5e9",
+      "flop-leave-3": "c363a1d319201d2718157c66d9ad98e64027d86ae35e0a4be498d69a07dbc5b2",
+      "flop-leave-4": "4e67699fd571ffa259ae549af7bf0576051bccfb7166a2642803841900e538af",
+      "flop-leave-5": "620b58aedff4207858feb17d5a9d5a5e5b11ece5e5dae5a757533a9fe759ce3d",
+      "flop-leave-6": "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+      "flop-leave-7": "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+      "beg-1": "3d7237b6e7ad691a933982d87231c07ebb421ac4bedeee2c111659600a5cbf8b",
+      "beg-enter-1": "6006ca8d98e59ae285aec525bfb3efa66c8ae3ad1f64e41a9f93888a767e70a3",
+      "beg-2-upright": "c9e25a063e742d32b60c8541288868d2aec49786a1726a140d6a3a5730c86fa4",
+      "beg-enter-2": "08154cb2f2f2f5c6e0f36bc21c59933a3cdc3db4fd0ecf0087ef3d53a436d682",
+      "beg-3-upright": "bd2a2dba9d8f5108575e416f2894bfa77d122bdef2a8b7df5f29cea5a136c52f",
+      "beg-enter-3": "f1776da5b04533b8f56f18643f9bc0c069155ba7e95b6c3a073ba478c8bc2b85",
+      "beg-anim-blink": "e0bc0ae5ff5672ae651dac6c6351b4bc176e5d4c1b9919bf51c144d3d5e99ac8",
+      "beg-anim-tug": "d05dfe2073327c24561a10b59f9a42f1424680d6fe190259e13aa032ed352c0c",
+      "beg-anim-tears": "3f75cbf8dc30a622ba83fe88de1954131957f2ed447f18cb3b5339eebd9f2eba",
+      "beg-leave-0": "7609bc77cbf8b697e5e843cced2476deb5c19f9d947b5d3d5f49ea8213b0549d",
+      "beg-leave-1": "01c374f7c44a032b553f62e4d31732d676a67caf546038ccc9fecf66f4a6173d",
+      "beg-leave-2": "f80f18933edb29cf1fa28c874637fa4c3e89dfc593ed916644ec78bc56c1914c",
+      "beg-leave-3": "476d5f0a2e2a88033a1613cc61df5d1f90447d52bf33e025624646360274d619",
+      "beg-leave-4": "153ace3d8875cb20a33d2267c285b0561e41d00897ccf81adfe287036fb41b19",
+      "beg-leave-5": "571eed0fb674ece10ca06d0da6b78fcadcef01417ad8ce027a423ca1438752b8",
+      "beg-leave-6": "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b",
+      "die-takeoff": "9d49acfe29a29c008e8f4e827916b68c18212e4ac359474e10c56c0d48bea00b",
+      "die-roll-45": "06890d2ee587f511c6ef31c0fdf3bc2bc63452c48d5f4441451ee26e7185fc22",
+      "die-roll-90-bunfix": "b771df9a5b144c0ec69316314df5bfbf06477661457ac55a0b8bf9f5917a63b1",
+      "die-roll-135": "083bb59fbbeebfd9a7afd43043facc7c2c25d5b5ed1db1323030d3a01bf27ccb",
+      "die-melt-1": "552fa14073596a5ff258e9bb7a4b6d9449645b1f65f1e65c7fac16c6c4d99621",
+      "die-melt-2": "2eefd62f4beba0210abf87f668908a353a66e0335746e8816b77fd231be061a1",
+      "die-melt-3": "69d25ff782fea4b196854f291e08739cc45be3bfe2fa448ff1bc08b0cd55357c",
+      "die-melt-4": "27c53273e268bceeeab24d762a2c0eefe2677970fac266c6cf1d034f914effdd",
+      "slap-1": "28a7ca99bebf979aeb7f93c1a323ddeed0512ef34bf9fb62b17b49d80f971af1",
+      "slap-enter-1": "c013ffc6231c5b8e91b5839b8808499d15c86c3b56ee425fbf56cac70a3d0235",
+      "slap-2": "5436375e5320fe6d2e52b554cd7eaa5298ff50ecdaa00b6298420c79af6feb9c",
+      "slap-enter-2": "40518a012d84f1257177968673eafc65faf2d6df94e7617694b5c626496d216e",
+      "slap-3": "8bba4214c2d7670d68df11f1719d6f6d256d348edbad1bc5739559c97fd26043",
+      "slap-enter-3": "575941c500bbb9a458c90529fd66e090a9ac5d2f79a2095d64d4e4dfe100689b",
+      "beg-fullbody": "017b6e5b01ff4f392d7a32e28bc50b48b23ca6a9359f904f923b2ea075c80092",
+      "beg-full-blink": "24940f5a41b1a86013e4e7ab30fa824ec35847157ebe43a611d42cfbe40e5a8c",
+      "beg-full-grasp": "b4f3093cf5250d905a2d9d1899dab6227943f2379cc1a8138a955be64cebb10d",
+      "beg-drag-stretch": "e8ca7391cbb3f2bc76dd98d9eeef8e569d7fbd0b84b29963637c8e1b6d20c6bf",
+      "beg-drag-scrabble": "4374b2c343a0a16faf11d8bf6aba435202f73d3334fe1d357b546a3c17245c9a",
+      "beg-drag-flatten": "a7cdca06a7191a6607c925a6d8e74e2bdcc10b4fb4fe12c61fe2a3be38d80d30",
+      "beg-full-leg": "3b92a5c1dfc3b1ba37bfa690715a71e542c1233f976e3349314c925fe43df82b",
+      "beg-full-enter-1": "1e123c91804b0830580fe8ec38f920cc5d20e112e6f6df3d577d04f07485b218",
+      "beg-full-enter-2": "6e27b19f531207cf268729809871b0527d69f7db309708ac7dfc5c7be55f3c80",
+      "beg-full-enter-3": "dedaaa2539280e02f40e1164b48f8fccb3de7cfba39c0d0143ee28598ed68086",
+      "beg-full-leave-0": "905e05fa3ff4b7ff54782a2d4b7a9462c6fa1107157348bd96b7fd7613d0efae",
+      "beg-full-leave-1": "f93b8a242a9228159468c4e5d5ff6f193ed80887e0b4049158afa62ca47e2db5",
+      "beg-full-leave-2": "fbb87ac14bf829b210c0d95be9f1b09981d957fe2c35c39c0bdd118a53e08113",
+      "beg-full-leave-3": "a738f18daa0ccd46828cff91a50f65cf20b3ce3eff250543210dd7ceb121d937",
+      "beg-full-leave-4": "e774408b3585589f7df24de8fb8c76f089f54a48755dc98332caad5f98c73c1d",
+      "beg-full-leave-5": "3b20decf232d526385413d1fc00bd958c5f942a29621a3c1eaae45406e5d8361",
+      "beg-full-leave-6": "eb0c09ebec01e9de0ce8c5faf2b3e13f48ba00078b5774e2962f4626e7ab9f0c",
+      "beg-full-leave-7": "bb4b5c82be916eeb9423cadd9413e9af04ca97351669bffb507b67c239beaa47",
+      "beg-full-leave-8": "11298675db0a07695f76de5065500e2c35e1e56cc6c486f2384962a89e7cc89c",
+      "beg-full-leave-9": "b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b"
+    },
+    "limits": [
+      "Nét pose mới sạch hơn ảnh nguồn thấp phân giải; xem kỹ điểm nối ở 160 px.",
+      "Bám chân được vẽ bù thân và chân cụt trơn theo baseline, bỏ crop trái và giữ nền trong suốt. Nét mới sạch hơn ảnh gốc.",
+      "Đã bỏ variant núp bụi theo yêu cầu. Slap giữ nền navy và flash trắng gốc.",
+      "Mỗi đường bắt đầu ở base và kết thúc trong suốt. Shutdown từ các tư thế công việc khác vẫn có thể cắt về đoạn nối base.",
+      "Preview local, không thay pack, runtime hoặc preferences đang cài."
+    ],
+    "revision": "v6: complete ankle-hug anatomy and articulated dragging; other v4 routes unchanged",
+    "anatomy_contract": {
+      "reference": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/refs/base-00-ref.png",
+      "tail": false,
+      "distinct_feet": false,
+      "digits": false,
+      "limbs": "smooth rounded white stubs, continuous with torso",
+      "generation_manifest": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/hug-v6-generation.json"
+    },
+    "hug_drag": {
+      "complete_body": true,
+      "source_duration_ms": 1200,
+      "pose_cycle": [
+        [
+          "beg-drag-stretch",
+          8,
+          120
+        ],
+        [
+          "beg-drag-scrabble",
+          18,
+          110
+        ],
+        [
+          "beg-drag-flatten",
+          30,
+          110
+        ],
+        [
+          "beg-drag-scrabble",
+          44,
+          100
+        ],
+        [
+          "beg-drag-stretch",
+          60,
+          100
+        ],
+        [
+          "beg-drag-flatten",
+          80,
+          100
+        ],
+        [
+          "beg-drag-scrabble",
+          104,
+          90
+        ],
+        [
+          "beg-drag-stretch",
+          132,
+          80
+        ],
+        [
+          "beg-drag-flatten",
+          164,
+          80
+        ],
+        [
+          "beg-drag-flatten",
+          192,
+          60
+        ]
+      ],
+      "fixed_canvas": true,
+      "ground_y": 176,
+      "generation_manifest": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/hug-v5-generation.json",
+      "prop_manifest": "pet-sources/authoring/doro-quit-transitions/run-02/inputs/hug-v5-leg-generation.json"
+    }
+  },
+  "thinking_1_1_5": {
+    "preview": "doro-thinking-assets-preview-v5.html",
+    "sequences": [
+      "thinking-v5-arrival",
+      "thinking-v5-washing",
+      "thinking-v5-early-exit",
+      "thinking-v5-wrapper-exit"
+    ],
+    "source_catalog_sha256": "cf0f76409c0708b05fd8871a986c472b87f6627f01062cbe590452993852c080",
+    "runtime_changed": false
   }
 }

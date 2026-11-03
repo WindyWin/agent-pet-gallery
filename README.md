@@ -93,13 +93,15 @@ current event-rule format; they do not replace its movement-break fallback.
 `index.json` contains release URLs prepared for that tag, not a claim that those
 URLs are already published. Import the two local `.agentpet` files for testing.
 
-## Doro Motion 1.1.3
+## Doro Motion 1.1.5
 
 Doro Motion is a separate pet (`doro-motion`), installed alongside the original
 Doro. Requires **Agent Pet 0.18.9 or newer** for authored entrances, loop exits
-and consistent variants after handling. The pack includes refined nap entry and
-recovery, door startup, thumbs-up, dance and wine transitions, plus the existing
-approval, work, drag/fall/landing, moods and bedtime artwork.
+and consistent variants after handling. The pack adds a Thinking entrance through
+chin-rest and pondering poses into the washing-machine loop, with an authored wrapper exit after the current loop. It
+also includes the reviewed flop, hug-and-drag, die/roll/melt and slap quit
+performances from 1.1.4, plus the existing nap, startup, approval, work, handling,
+moods and bedtime animations.
 
 Use Settings → Pet → Browse pack sources, refresh the gallery, and install
 Doro Motion. Restart to select it after installation. The optional Doro Events
@@ -109,7 +111,7 @@ plugin still targets the original `doro` pet.
 `sources/doro-motion` preserves the reviewed local pack's provenance, retired
 artwork, gallery preparation report and native playback results. Removing unused
 sequences and correcting their owner labels leaves runtime mappings, active PNGs
-and frame timings unchanged. All four original artwork/authoring notices are
+and frame timings unchanged. All six original artwork/authoring notices are
 retained in `licenses/DORO-MOTION-TERMS.md` and included in the archive.
 
 The code licence does not cover this artwork. Review the included terms before

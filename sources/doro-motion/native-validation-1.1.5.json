@@ -1,0 +1,18 @@
+{
+  "version": "1.1.5",
+  "sha256": "22a602d9ed61edee8ac5a6a3207dab920ae3390f93513e1d2eaaa9bd23748197",
+  "source_catalog_sha256": "cf0f76409c0708b05fd8871a986c472b87f6627f01062cbe590452993852c080",
+  "catalog_sha256": "4a2303028b4ad1d08fbdf4a4ab125595826fe915714dd4ca5f01c7586752af0e",
+  "frames": 1533,
+  "sequences": 125,
+  "scratch_import": true,
+  "zip_crc": true,
+  "native_player_check": "PASS: 324 early exits, 24 washing exits, 348 urgent interruptions, 60s holds, continuity on/off",
+  "regressions": "PASS: completion, approval (wait for thinking loop), die landing, quit",
+  "gallery_native_player_check": "PASS: 324 early exits, 24 washing exits, 348 urgent interruptions, 60s holds, continuity on/off",
+  "gallery_quit_check": "PASS: 88 native pixel/duration checks, 4 weighted quit choices, transparent stop/completion once, no replay, lurk excluded",
+  "gallery_archive_sha256": "c8d3a4a2550cd199cc7d6c2c23a48d09448b96fa1514121ffe26545c0138ac29",
+  "gallery_archive_bytes": 34980836,
+  "gallery_all_pack_imports": true,
+  "gallery_index_parser": "PASS: app parser accepts all 7 packs; Doro Motion 1.1.5 requires 0.18.9"
+}

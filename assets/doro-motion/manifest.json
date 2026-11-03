@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "file_count": 1155,
- "total_bytes": 27720687,
+ "file_count": 1258,
+ "total_bytes": 34098532,
  "files": [
   {
    "path": "assets/doro-motion/frames/00aa22b7b9dd25bcb4dabb3895687faaff836ed2299d490ba4f872c4ac00b79f.png",
@@ -27,6 +27,11 @@
    "path": "assets/doro-motion/frames/014e426efb3229f75788a21de3c778d4341ac07131964e8e87510a14f852edc9.png",
    "bytes": 51948,
    "sha256": "014e426efb3229f75788a21de3c778d4341ac07131964e8e87510a14f852edc9"
+  },
+  {
+   "path": "assets/doro-motion/frames/017b6e5b01ff4f392d7a32e28bc50b48b23ca6a9359f904f923b2ea075c80092.png",
+   "bytes": 26531,
+   "sha256": "017b6e5b01ff4f392d7a32e28bc50b48b23ca6a9359f904f923b2ea075c80092"
   },
   {
    "path": "assets/doro-motion/frames/01c933f0fad1ac290a63e68cc43d325a199e1b08de3f823afa888041307f7ac9.png",
@@ -149,6 +154,11 @@
    "sha256": "0669a1379f8e238f3801a3011b87fbf29434fd64afd79dceebc38b29f62c3283"
   },
   {
+   "path": "assets/doro-motion/frames/06890d2ee587f511c6ef31c0fdf3bc2bc63452c48d5f4441451ee26e7185fc22.png",
+   "bytes": 23247,
+   "sha256": "06890d2ee587f511c6ef31c0fdf3bc2bc63452c48d5f4441451ee26e7185fc22"
+  },
+  {
    "path": "assets/doro-motion/frames/06f951be588fc40a696c7b3f640def48037594c15f35123d82b7e467cff3702b.png",
    "bytes": 51744,
    "sha256": "06f951be588fc40a696c7b3f640def48037594c15f35123d82b7e467cff3702b"
@@ -177,6 +187,11 @@
    "path": "assets/doro-motion/frames/07dbf120ff9934251364324a47c076416846bb74cb574f0a5b5928e1f95fcf94.png",
    "bytes": 6558,
    "sha256": "07dbf120ff9934251364324a47c076416846bb74cb574f0a5b5928e1f95fcf94"
+  },
+  {
+   "path": "assets/doro-motion/frames/083bb59fbbeebfd9a7afd43043facc7c2c25d5b5ed1db1323030d3a01bf27ccb.png",
+   "bytes": 24068,
+   "sha256": "083bb59fbbeebfd9a7afd43043facc7c2c25d5b5ed1db1323030d3a01bf27ccb"
   },
   {
    "path": "assets/doro-motion/frames/0858b154d4a3d59d90779887ac3c36eeaafa957dff0e4c3ebe2818e61288267d.png",
@@ -219,6 +234,11 @@
    "sha256": "09abeb6df0219ad7cc814a165411de0eac510d1377c4b0f8c71e95453542b427"
   },
   {
+   "path": "assets/doro-motion/frames/09cddef681d218519d5e77e90b173f21d867c17d6d13a57858f6359893147d5b.png",
+   "bytes": 71561,
+   "sha256": "09cddef681d218519d5e77e90b173f21d867c17d6d13a57858f6359893147d5b"
+  },
+  {
    "path": "assets/doro-motion/frames/09ce723d2dd2af5d63362adeefe74f944a5929e4de9adba61f4a61f5b09393c2.png",
    "bytes": 17977,
    "sha256": "09ce723d2dd2af5d63362adeefe74f944a5929e4de9adba61f4a61f5b09393c2"
@@ -242,6 +262,11 @@
    "path": "assets/doro-motion/frames/0a309471476ea4bebbabbd47d8137ea997e398872bc97cb0389e67d3e57bb14f.png",
    "bytes": 11071,
    "sha256": "0a309471476ea4bebbabbd47d8137ea997e398872bc97cb0389e67d3e57bb14f"
+  },
+  {
+   "path": "assets/doro-motion/frames/0a383a51772bf0987d0109b6acccaa4554e94fd950fc2b965e8f318260b5ab19.png",
+   "bytes": 86487,
+   "sha256": "0a383a51772bf0987d0109b6acccaa4554e94fd950fc2b965e8f318260b5ab19"
   },
   {
    "path": "assets/doro-motion/frames/0a85c23ab8d57dad85cebdb62612d6c723878f3429bf83f1037c1ad5cbfe4446.png",
@@ -374,6 +399,11 @@
    "sha256": "11278248844b71f6483b09c3e204eb3ec5f7303bece9968b346c9d3b9020e18d"
   },
   {
+   "path": "assets/doro-motion/frames/11298675db0a07695f76de5065500e2c35e1e56cc6c486f2384962a89e7cc89c.png",
+   "bytes": 1344,
+   "sha256": "11298675db0a07695f76de5065500e2c35e1e56cc6c486f2384962a89e7cc89c"
+  },
+  {
    "path": "assets/doro-motion/frames/113c5688f013cc542fc07a314a1b9bd27ed7db0ecdea1ce4a12c9337255246ef.png",
    "bytes": 63428,
    "sha256": "113c5688f013cc542fc07a314a1b9bd27ed7db0ecdea1ce4a12c9337255246ef"
@@ -397,6 +427,11 @@
    "path": "assets/doro-motion/frames/11e42051fa8964c799a6d01a828f81eaacd5ec723b7578ba11464d9c93ee71b3.png",
    "bytes": 42177,
    "sha256": "11e42051fa8964c799a6d01a828f81eaacd5ec723b7578ba11464d9c93ee71b3"
+  },
+  {
+   "path": "assets/doro-motion/frames/12f7f1dc867b07864c04b916d75c05e183b0ad44cfd0e0660ded3a09b99ff25a.png",
+   "bytes": 70764,
+   "sha256": "12f7f1dc867b07864c04b916d75c05e183b0ad44cfd0e0660ded3a09b99ff25a"
   },
   {
    "path": "assets/doro-motion/frames/13255b6f35c0c8bdc8b38feb0b9605d6f995dc68afd3e10cadd951348c221c05.png",
@@ -442,6 +477,11 @@
    "path": "assets/doro-motion/frames/15417dfef173fa8484cb26d334de763528911c18ba92ac50c7cd234bb8454eff.png",
    "bytes": 20458,
    "sha256": "15417dfef173fa8484cb26d334de763528911c18ba92ac50c7cd234bb8454eff"
+  },
+  {
+   "path": "assets/doro-motion/frames/15b4ccfa3763380edbdae4399bf99e8e676914c440517728423f2d9c3e9e9a6d.png",
+   "bytes": 86644,
+   "sha256": "15b4ccfa3763380edbdae4399bf99e8e676914c440517728423f2d9c3e9e9a6d"
   },
   {
    "path": "assets/doro-motion/frames/15f30dffec66e077efb2baa8263bec3008dee703c498562bcddcd5d5e8535439.png",
@@ -492,6 +532,11 @@
    "path": "assets/doro-motion/frames/1704292c093d3f83275f05b8140cb4a6cbbe5ed506d743e8a1fdec92b21250de.png",
    "bytes": 11983,
    "sha256": "1704292c093d3f83275f05b8140cb4a6cbbe5ed506d743e8a1fdec92b21250de"
+  },
+  {
+   "path": "assets/doro-motion/frames/17169cdb8cdc01ec1b39d2d84841e2a3b1ceb88106280bf987e881a7e796071d.png",
+   "bytes": 74207,
+   "sha256": "17169cdb8cdc01ec1b39d2d84841e2a3b1ceb88106280bf987e881a7e796071d"
   },
   {
    "path": "assets/doro-motion/frames/175adcc9dfcafb8eec26a1e928c27aab22c2fe67cd9247a0a27e279c756809d7.png",
@@ -674,6 +719,11 @@
    "sha256": "1e07e1035ab7907a62d084082aa0f9d4d5f91ad666a41e43e84e67a771725144"
   },
   {
+   "path": "assets/doro-motion/frames/1e123c91804b0830580fe8ec38f920cc5d20e112e6f6df3d577d04f07485b218.png",
+   "bytes": 31317,
+   "sha256": "1e123c91804b0830580fe8ec38f920cc5d20e112e6f6df3d577d04f07485b218"
+  },
+  {
    "path": "assets/doro-motion/frames/1e415a5eb7779a5df19e656a28030d4036fc17bce1787ac8535389077dcd513f.png",
    "bytes": 19133,
    "sha256": "1e415a5eb7779a5df19e656a28030d4036fc17bce1787ac8535389077dcd513f"
@@ -819,6 +869,11 @@
    "sha256": "2456a5af967bc3164f3b36fd98b6fb8738e37ace2a13bdbe2291d2b8c2ff4c2e"
   },
   {
+   "path": "assets/doro-motion/frames/24940f5a41b1a86013e4e7ab30fa824ec35847157ebe43a611d42cfbe40e5a8c.png",
+   "bytes": 26843,
+   "sha256": "24940f5a41b1a86013e4e7ab30fa824ec35847157ebe43a611d42cfbe40e5a8c"
+  },
+  {
    "path": "assets/doro-motion/frames/24b27e08497b27669640dda109561ea1c313afd5d13cf1738a1019086328492b.png",
    "bytes": 19861,
    "sha256": "24b27e08497b27669640dda109561ea1c313afd5d13cf1738a1019086328492b"
@@ -884,6 +939,16 @@
    "sha256": "262c9766754833bc53907e50a641b03b437cfd6939343a5445e5f1695d818c8a"
   },
   {
+   "path": "assets/doro-motion/frames/2642597366c78ba883efcbada5933d4d642497b87c4fe58a5de1e02ed9d0a45f.png",
+   "bytes": 104075,
+   "sha256": "2642597366c78ba883efcbada5933d4d642497b87c4fe58a5de1e02ed9d0a45f"
+  },
+  {
+   "path": "assets/doro-motion/frames/264e3b47e4872afb866e064b98f68e6906e5f7b3ef5253a750fe9fcf79200adf.png",
+   "bytes": 103615,
+   "sha256": "264e3b47e4872afb866e064b98f68e6906e5f7b3ef5253a750fe9fcf79200adf"
+  },
+  {
    "path": "assets/doro-motion/frames/2691b886d2a808a22e7d482308807551916c2d2cab6f5e28aa934752e21b5586.png",
    "bytes": 34109,
    "sha256": "2691b886d2a808a22e7d482308807551916c2d2cab6f5e28aa934752e21b5586"
@@ -944,6 +1009,11 @@
    "sha256": "27bb8d22a2d78162223487407e2d4fd9340739631a3a07119edfb0dec9952f6b"
   },
   {
+   "path": "assets/doro-motion/frames/27c53273e268bceeeab24d762a2c0eefe2677970fac266c6cf1d034f914effdd.png",
+   "bytes": 1847,
+   "sha256": "27c53273e268bceeeab24d762a2c0eefe2677970fac266c6cf1d034f914effdd"
+  },
+  {
    "path": "assets/doro-motion/frames/27dc14e2f62bf548bcbd65f5433416e6cd58721aa79363de17437ffd21a8713a.png",
    "bytes": 13267,
    "sha256": "27dc14e2f62bf548bcbd65f5433416e6cd58721aa79363de17437ffd21a8713a"
@@ -957,6 +1027,11 @@
    "path": "assets/doro-motion/frames/2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83.png",
    "bytes": 29403,
    "sha256": "2847d2b0770afc36f3df62a235f91ca31d9e8054599e95756cee5ac5d2c87b83"
+  },
+  {
+   "path": "assets/doro-motion/frames/2854a15ac9bdeca9365f9eb941ae302909bbb5696db0374b8ac32e3952a770b8.png",
+   "bytes": 86639,
+   "sha256": "2854a15ac9bdeca9365f9eb941ae302909bbb5696db0374b8ac32e3952a770b8"
   },
   {
    "path": "assets/doro-motion/frames/2871fa47d49c4073a75a89b87f6061e771d1a9272cd702f404a832ad3abd868c.png",
@@ -1029,6 +1104,11 @@
    "sha256": "2b85cb646d5f5ac467300a4a468ce7a595aa7f7e642dd40d29d007d77d069f7f"
   },
   {
+   "path": "assets/doro-motion/frames/2c372ede4e9b563a1eec5ea4cfa4453af9d57f45134913d008ef57dd22d68ec2.png",
+   "bytes": 104322,
+   "sha256": "2c372ede4e9b563a1eec5ea4cfa4453af9d57f45134913d008ef57dd22d68ec2"
+  },
+  {
    "path": "assets/doro-motion/frames/2c414923a2d89d2e5529e69eaa87c884b2f805a023cd3c54dd74912a70351553.png",
    "bytes": 10996,
    "sha256": "2c414923a2d89d2e5529e69eaa87c884b2f805a023cd3c54dd74912a70351553"
@@ -1069,6 +1149,11 @@
    "sha256": "2dbdc77d0b77737884bce24b95dfe2ea0ae5b5d5e5ba74753eb94b46ca98b1e5"
   },
   {
+   "path": "assets/doro-motion/frames/2dc112c048f1885207b95f14bed47023300f251b8a1eb7c1b22716f570147537.png",
+   "bytes": 104461,
+   "sha256": "2dc112c048f1885207b95f14bed47023300f251b8a1eb7c1b22716f570147537"
+  },
+  {
    "path": "assets/doro-motion/frames/2e17b70bd0382f0a270452e903e8ced7a0a9bf186d9a80d8903d5efd1d83b149.png",
    "bytes": 27317,
    "sha256": "2e17b70bd0382f0a270452e903e8ced7a0a9bf186d9a80d8903d5efd1d83b149"
@@ -1092,6 +1177,11 @@
    "path": "assets/doro-motion/frames/2eee0f10955916892ca52966976d8e2967af8ada506f0c42efbe1379ab1bb431.png",
    "bytes": 10536,
    "sha256": "2eee0f10955916892ca52966976d8e2967af8ada506f0c42efbe1379ab1bb431"
+  },
+  {
+   "path": "assets/doro-motion/frames/2eefd62f4beba0210abf87f668908a353a66e0335746e8816b77fd231be061a1.png",
+   "bytes": 14423,
+   "sha256": "2eefd62f4beba0210abf87f668908a353a66e0335746e8816b77fd231be061a1"
   },
   {
    "path": "assets/doro-motion/frames/2f07e6014ccdfa240336fba31391699fbb30bebc3005daff9df3cc63e96d8ba2.png",
@@ -1144,9 +1234,19 @@
    "sha256": "309e2b7cd1370af0a6dec61ff9c761ea7816b4bff6c22136f0ab346908032444"
   },
   {
+   "path": "assets/doro-motion/frames/30b0eadf6bdb4726de334e5f1ec970067d3b4dfa732d6d51f852d4d9a66d3015.png",
+   "bytes": 103962,
+   "sha256": "30b0eadf6bdb4726de334e5f1ec970067d3b4dfa732d6d51f852d4d9a66d3015"
+  },
+  {
    "path": "assets/doro-motion/frames/317c856961f99b0f81c29d8aea82f5be5906c67bf891a8c910eab245d9fdbb70.png",
    "bytes": 10500,
    "sha256": "317c856961f99b0f81c29d8aea82f5be5906c67bf891a8c910eab245d9fdbb70"
+  },
+  {
+   "path": "assets/doro-motion/frames/319b440091518c4befe20a5aa07fce44feee269fd46db40ec0224d2c76a5d71c.png",
+   "bytes": 87318,
+   "sha256": "319b440091518c4befe20a5aa07fce44feee269fd46db40ec0224d2c76a5d71c"
   },
   {
    "path": "assets/doro-motion/frames/31b49f1cf289ddc2ddac76183c334a661c2f0f012de9a1e4e8156c95bfc7fb71.png",
@@ -1187,6 +1287,11 @@
    "path": "assets/doro-motion/frames/330d3a4c35d973c86225e1ec55ffb6f230fc9ef80e7749eeae8179db80028063.png",
    "bytes": 40093,
    "sha256": "330d3a4c35d973c86225e1ec55ffb6f230fc9ef80e7749eeae8179db80028063"
+  },
+  {
+   "path": "assets/doro-motion/frames/331a5f2f17657934a842b6c2425a59216c0a3cf5ac2b1c072ca788a9f5f60917.png",
+   "bytes": 70015,
+   "sha256": "331a5f2f17657934a842b6c2425a59216c0a3cf5ac2b1c072ca788a9f5f60917"
   },
   {
    "path": "assets/doro-motion/frames/336207f0ace693684eb762c1c74763a473b895f927f6df16300f5996718a7da1.png",
@@ -1254,6 +1359,11 @@
    "sha256": "35ed763f8661883cd72056293a8c243fe0f99c05ca1b0bb3f1098bdfb2c406c0"
   },
   {
+   "path": "assets/doro-motion/frames/360cd20118aaf032025e67a66b2f18f1f0e1d6b34f66c26eb7f891292b2d4dae.png",
+   "bytes": 70059,
+   "sha256": "360cd20118aaf032025e67a66b2f18f1f0e1d6b34f66c26eb7f891292b2d4dae"
+  },
+  {
    "path": "assets/doro-motion/frames/36807bcf3634f33eda42c5c97b47ccb0a25032dc7d9294c719ff6401372ec783.png",
    "bytes": 31824,
    "sha256": "36807bcf3634f33eda42c5c97b47ccb0a25032dc7d9294c719ff6401372ec783"
@@ -1262,6 +1372,11 @@
    "path": "assets/doro-motion/frames/368ba5207a1e9474385d6049032c186f8c603e1108551d0e760898ad629a777a.png",
    "bytes": 12574,
    "sha256": "368ba5207a1e9474385d6049032c186f8c603e1108551d0e760898ad629a777a"
+  },
+  {
+   "path": "assets/doro-motion/frames/3699f9b263b7c4d18fccc7d678e1ab53ca118dd2888133b93176827d71cb2fb0.png",
+   "bytes": 104803,
+   "sha256": "3699f9b263b7c4d18fccc7d678e1ab53ca118dd2888133b93176827d71cb2fb0"
   },
   {
    "path": "assets/doro-motion/frames/36e6491ae8d21538ff2dd5994737189c75ad5bf9064fa70323994789e16c3a91.png",
@@ -1282,6 +1397,11 @@
    "path": "assets/doro-motion/frames/372ad5707c03f971c22bc0bf68471b2566f0e959f386c95bcb6e0092d1850100.png",
    "bytes": 6343,
    "sha256": "372ad5707c03f971c22bc0bf68471b2566f0e959f386c95bcb6e0092d1850100"
+  },
+  {
+   "path": "assets/doro-motion/frames/37bd00aa6213e0c15b6231e268f50952db3bbe1067bfe89818a3730cd8f07860.png",
+   "bytes": 104148,
+   "sha256": "37bd00aa6213e0c15b6231e268f50952db3bbe1067bfe89818a3730cd8f07860"
   },
   {
    "path": "assets/doro-motion/frames/37db7f9adb496caec8ea24a6a23194638b95a6070bce934319fe774cf9b615e6.png",
@@ -1382,6 +1502,11 @@
    "path": "assets/doro-motion/frames/3aae1bee0ad65cdcd6b8aff9038012ce261efb7f4480bf3f3e3e44fa83184f6d.png",
    "bytes": 56173,
    "sha256": "3aae1bee0ad65cdcd6b8aff9038012ce261efb7f4480bf3f3e3e44fa83184f6d"
+  },
+  {
+   "path": "assets/doro-motion/frames/3b20decf232d526385413d1fc00bd958c5f942a29621a3c1eaae45406e5d8361.png",
+   "bytes": 12843,
+   "sha256": "3b20decf232d526385413d1fc00bd958c5f942a29621a3c1eaae45406e5d8361"
   },
   {
    "path": "assets/doro-motion/frames/3b65c22a99be7dcc78250c5a798068b58f0efb4b895a19896fdc52c69e61ae38.png",
@@ -1499,6 +1624,11 @@
    "sha256": "403d009ab66328c2ed9cc28bb9c4899922595f1425342ddee296d94a430b5a14"
   },
   {
+   "path": "assets/doro-motion/frames/40518a012d84f1257177968673eafc65faf2d6df94e7617694b5c626496d216e.png",
+   "bytes": 18674,
+   "sha256": "40518a012d84f1257177968673eafc65faf2d6df94e7617694b5c626496d216e"
+  },
+  {
    "path": "assets/doro-motion/frames/4069d1f4bb48e8265ef1c1adf3e6dd3598c8eec92a45d0b7579e66244e38f74f.png",
    "bytes": 32220,
    "sha256": "4069d1f4bb48e8265ef1c1adf3e6dd3598c8eec92a45d0b7579e66244e38f74f"
@@ -1537,6 +1667,11 @@
    "path": "assets/doro-motion/frames/4148e620b30d6018c75b3c7347ddd787479c3372b35baa0164595b8c8d7bd55d.png",
    "bytes": 13110,
    "sha256": "4148e620b30d6018c75b3c7347ddd787479c3372b35baa0164595b8c8d7bd55d"
+  },
+  {
+   "path": "assets/doro-motion/frames/414f08166dc59f10087e392ac62aba8d151918d7d20b8eb6fd5ef4c5b6507266.png",
+   "bytes": 82499,
+   "sha256": "414f08166dc59f10087e392ac62aba8d151918d7d20b8eb6fd5ef4c5b6507266"
   },
   {
    "path": "assets/doro-motion/frames/415bf0bd7f5ccac2f24ec2a963f0e98422cd61bae1a4dfaf6a49be5bc85b29e9.png",
@@ -1589,6 +1724,11 @@
    "sha256": "436f925852c540b93a5aa153f87eef49695361584d0d48649c34c388cf100c9c"
   },
   {
+   "path": "assets/doro-motion/frames/4374b2c343a0a16faf11d8bf6aba435202f73d3334fe1d357b546a3c17245c9a.png",
+   "bytes": 27010,
+   "sha256": "4374b2c343a0a16faf11d8bf6aba435202f73d3334fe1d357b546a3c17245c9a"
+  },
+  {
    "path": "assets/doro-motion/frames/43fd9e91c3963ab66890620362cc8b7786f7433bef67c84545ad7c643c211d92.png",
    "bytes": 38439,
    "sha256": "43fd9e91c3963ab66890620362cc8b7786f7433bef67c84545ad7c643c211d92"
@@ -1612,6 +1752,11 @@
    "path": "assets/doro-motion/frames/4460d580081e01bf73199908b4879d408770b818a5003a86aa5e43114a4cc212.png",
    "bytes": 41107,
    "sha256": "4460d580081e01bf73199908b4879d408770b818a5003a86aa5e43114a4cc212"
+  },
+  {
+   "path": "assets/doro-motion/frames/447010830bee1bc1dde7c9cd269a2649d944edab130d50ffa924b5baed5aef96.png",
+   "bytes": 87401,
+   "sha256": "447010830bee1bc1dde7c9cd269a2649d944edab130d50ffa924b5baed5aef96"
   },
   {
    "path": "assets/doro-motion/frames/450c55a5841dc18af79a4fb96a2352f8a6156de40c1fee96e584d1a6eaeaa162.png",
@@ -1639,6 +1784,11 @@
    "sha256": "4593ea92308baf5b9093b226f9d4ed4f379a7b35f8d3ce9a9ee368144240ce7c"
   },
   {
+   "path": "assets/doro-motion/frames/45ca65104e8fd597b762adf8d0eff7b8d76a16f6f09bda94d7fc4e9a159d5e28.png",
+   "bytes": 70168,
+   "sha256": "45ca65104e8fd597b762adf8d0eff7b8d76a16f6f09bda94d7fc4e9a159d5e28"
+  },
+  {
    "path": "assets/doro-motion/frames/45d158d0df7f7240401aa12fbb8af0ec0aa7584421974f6c1e263e3dd3c34ec0.png",
    "bytes": 56037,
    "sha256": "45d158d0df7f7240401aa12fbb8af0ec0aa7584421974f6c1e263e3dd3c34ec0"
@@ -1657,6 +1807,11 @@
    "path": "assets/doro-motion/frames/465f4d07f7979cd3e75adcec2125410438b212079851e118f86b7c5623ec9cd2.png",
    "bytes": 6541,
    "sha256": "465f4d07f7979cd3e75adcec2125410438b212079851e118f86b7c5623ec9cd2"
+  },
+  {
+   "path": "assets/doro-motion/frames/4680b6586db7599d5c8e5cecee99765fd12e3191ae80038ac0550d91601988d1.png",
+   "bytes": 86642,
+   "sha256": "4680b6586db7599d5c8e5cecee99765fd12e3191ae80038ac0550d91601988d1"
   },
   {
    "path": "assets/doro-motion/frames/468dd646399618f31c455304c5cdd031f2f34688515e240c715fa5134519a6f8.png",
@@ -1739,6 +1894,11 @@
    "sha256": "49d6e4b3210875f2edc0aab57acff31880352ea470bb266119ad7d593c2a7685"
   },
   {
+   "path": "assets/doro-motion/frames/49dfff3a96df5b6c1b8bc961209611ffbd904002e3951cbdf37dbe4f907bec09.png",
+   "bytes": 71606,
+   "sha256": "49dfff3a96df5b6c1b8bc961209611ffbd904002e3951cbdf37dbe4f907bec09"
+  },
+  {
    "path": "assets/doro-motion/frames/4a88a1fdcc0b266bd55a1967ada1b859887e61041a86e0d0d84cfba2f81f1098.png",
    "bytes": 27479,
    "sha256": "4a88a1fdcc0b266bd55a1967ada1b859887e61041a86e0d0d84cfba2f81f1098"
@@ -1792,6 +1952,11 @@
    "path": "assets/doro-motion/frames/4e10119fed99f497009792c22f29cbe076e0f007db0dae47994fbf56ab2ebe54.png",
    "bytes": 11178,
    "sha256": "4e10119fed99f497009792c22f29cbe076e0f007db0dae47994fbf56ab2ebe54"
+  },
+  {
+   "path": "assets/doro-motion/frames/4e67699fd571ffa259ae549af7bf0576051bccfb7166a2642803841900e538af.png",
+   "bytes": 5040,
+   "sha256": "4e67699fd571ffa259ae549af7bf0576051bccfb7166a2642803841900e538af"
   },
   {
    "path": "assets/doro-motion/frames/4e8baf438651b8d5950805e585c15debefbe1b5d30267cee55743521cbda2545.png",
@@ -1864,6 +2029,16 @@
    "sha256": "51c78facc2efb2210ade760cc420f139366544879cc4f1a2db4d59f5ded9dce7"
   },
   {
+   "path": "assets/doro-motion/frames/52b4243d7ea674e6889aa3fe65595b29baca22ac83df1cd1bf3543719244154b.png",
+   "bytes": 86237,
+   "sha256": "52b4243d7ea674e6889aa3fe65595b29baca22ac83df1cd1bf3543719244154b"
+  },
+  {
+   "path": "assets/doro-motion/frames/5305a4d39afeaa1a4196526dacbd1a8b57ada3f9f8e8df5b96484e4aca70e3b7.png",
+   "bytes": 104011,
+   "sha256": "5305a4d39afeaa1a4196526dacbd1a8b57ada3f9f8e8df5b96484e4aca70e3b7"
+  },
+  {
    "path": "assets/doro-motion/frames/53288bc92cf84d96c6ec2e62a81707a6e85489ff8bce6c27bdcca079f6b61847.png",
    "bytes": 485,
    "sha256": "53288bc92cf84d96c6ec2e62a81707a6e85489ff8bce6c27bdcca079f6b61847"
@@ -1907,6 +2082,16 @@
    "path": "assets/doro-motion/frames/54e1e9dd21b3b7c4ebd728e8aba86e5f0e7f81e2794bc1b404897d6368a3a24a.png",
    "bytes": 12541,
    "sha256": "54e1e9dd21b3b7c4ebd728e8aba86e5f0e7f81e2794bc1b404897d6368a3a24a"
+  },
+  {
+   "path": "assets/doro-motion/frames/5504199a96828e5a1e57f66a8022abf64543ea6ebf4a1ee92eacc1f858dbd8d4.png",
+   "bytes": 86354,
+   "sha256": "5504199a96828e5a1e57f66a8022abf64543ea6ebf4a1ee92eacc1f858dbd8d4"
+  },
+  {
+   "path": "assets/doro-motion/frames/552fa14073596a5ff258e9bb7a4b6d9449645b1f65f1e65c7fac16c6c4d99621.png",
+   "bytes": 20657,
+   "sha256": "552fa14073596a5ff258e9bb7a4b6d9449645b1f65f1e65c7fac16c6c4d99621"
   },
   {
    "path": "assets/doro-motion/frames/555d4220b7d043c617e1392debd2fa11d8b8e526f843677470988a32cd9cff5b.png",
@@ -1954,14 +2139,39 @@
    "sha256": "5747f8bb7dd0287d5bd67f1eff54740aa218670348d230dbc10a178f4547cef0"
   },
   {
+   "path": "assets/doro-motion/frames/574d0aa2137f9eb38f5df67e1edc9324e5c9b2adc4cb2d779e696999c521312a.png",
+   "bytes": 104389,
+   "sha256": "574d0aa2137f9eb38f5df67e1edc9324e5c9b2adc4cb2d779e696999c521312a"
+  },
+  {
+   "path": "assets/doro-motion/frames/575941c500bbb9a458c90529fd66e090a9ac5d2f79a2095d64d4e4dfe100689b.png",
+   "bytes": 22583,
+   "sha256": "575941c500bbb9a458c90529fd66e090a9ac5d2f79a2095d64d4e4dfe100689b"
+  },
+  {
    "path": "assets/doro-motion/frames/57833e7d8edf0c452f089abd5a217bfe0cd8e6d22bc7498e8e3b07c2cebbc5f7.png",
    "bytes": 24584,
    "sha256": "57833e7d8edf0c452f089abd5a217bfe0cd8e6d22bc7498e8e3b07c2cebbc5f7"
   },
   {
+   "path": "assets/doro-motion/frames/579cb25c80e476a74c1968cf60a81097b86d42087c23c85dd867ef79af47784d.png",
+   "bytes": 85042,
+   "sha256": "579cb25c80e476a74c1968cf60a81097b86d42087c23c85dd867ef79af47784d"
+  },
+  {
+   "path": "assets/doro-motion/frames/57f41321caddcf8dd13c8b6b8195165934214bc06dd6a2ca90153ba05359ed72.png",
+   "bytes": 71429,
+   "sha256": "57f41321caddcf8dd13c8b6b8195165934214bc06dd6a2ca90153ba05359ed72"
+  },
+  {
    "path": "assets/doro-motion/frames/57f7b32442710bfa81f4b9ba117aeb2ca1ec0f11a707ded16f0227f4830caac9.png",
    "bytes": 31832,
    "sha256": "57f7b32442710bfa81f4b9ba117aeb2ca1ec0f11a707ded16f0227f4830caac9"
+  },
+  {
+   "path": "assets/doro-motion/frames/5894cd25cc6f35eb14d1c7e0b807061820007c475522f152ddcc6f339ac3ab04.png",
+   "bytes": 70147,
+   "sha256": "5894cd25cc6f35eb14d1c7e0b807061820007c475522f152ddcc6f339ac3ab04"
   },
   {
    "path": "assets/doro-motion/frames/58b6fc7f2b3c7b11f8242703eb76b0707c2b678a92c5838c98f1055118f4ac30.png",
@@ -2169,6 +2379,11 @@
    "sha256": "6194b0abd31b0e1d142c750076149caa42f94ec947bf7b3986baa256cfb8b096"
   },
   {
+   "path": "assets/doro-motion/frames/620b58aedff4207858feb17d5a9d5a5e5b11ece5e5dae5a757533a9fe759ce3d.png",
+   "bytes": 1304,
+   "sha256": "620b58aedff4207858feb17d5a9d5a5e5b11ece5e5dae5a757533a9fe759ce3d"
+  },
+  {
    "path": "assets/doro-motion/frames/620f7ae313c2b4e933f21ba3c97ee26a95556ad80648910f0210b16502302e71.png",
    "bytes": 15861,
    "sha256": "620f7ae313c2b4e933f21ba3c97ee26a95556ad80648910f0210b16502302e71"
@@ -2177,6 +2392,11 @@
    "path": "assets/doro-motion/frames/62656e1958b18dd6f6435fc3a032c257030a0d9e0fa04effbf7e71bc10c19fc1.png",
    "bytes": 27502,
    "sha256": "62656e1958b18dd6f6435fc3a032c257030a0d9e0fa04effbf7e71bc10c19fc1"
+  },
+  {
+   "path": "assets/doro-motion/frames/628e9647333827fb81b1e92c890b565ee56381be4452e54b4009479b94c7c4d6.png",
+   "bytes": 103102,
+   "sha256": "628e9647333827fb81b1e92c890b565ee56381be4452e54b4009479b94c7c4d6"
   },
   {
    "path": "assets/doro-motion/frames/62db3062e2aafc201b87af0809a5f8ecdea28ef1ecef3d36c8c0aad2b8cb236e.png",
@@ -2359,6 +2579,11 @@
    "sha256": "69b1da775392df0f71cb343295a6505deae4ca7e0fd35a5e831d0d0855eb3b61"
   },
   {
+   "path": "assets/doro-motion/frames/69d25ff782fea4b196854f291e08739cc45be3bfe2fa448ff1bc08b0cd55357c.png",
+   "bytes": 4691,
+   "sha256": "69d25ff782fea4b196854f291e08739cc45be3bfe2fa448ff1bc08b0cd55357c"
+  },
+  {
    "path": "assets/doro-motion/frames/6a695c84508b1db94db99da65adb758ea28a3b01092165f401d67148aac62c63.png",
    "bytes": 16866,
    "sha256": "6a695c84508b1db94db99da65adb758ea28a3b01092165f401d67148aac62c63"
@@ -2402,6 +2627,11 @@
    "path": "assets/doro-motion/frames/6bf403f7c03352da1f3034b28dafb42c7d3b70c7402474afd5525a770ad80c6a.png",
    "bytes": 12682,
    "sha256": "6bf403f7c03352da1f3034b28dafb42c7d3b70c7402474afd5525a770ad80c6a"
+  },
+  {
+   "path": "assets/doro-motion/frames/6c0d089b2690f259e7231a8e0ff687bc3efd6e82ecbe1794a2d0750f8e50c86a.png",
+   "bytes": 104400,
+   "sha256": "6c0d089b2690f259e7231a8e0ff687bc3efd6e82ecbe1794a2d0750f8e50c86a"
   },
   {
    "path": "assets/doro-motion/frames/6c6ca55193d5677f4d8465899c8b6ac3a639e3d5ef0208a55e02ee094be879e4.png",
@@ -2474,6 +2704,11 @@
    "sha256": "6e0a6e7afd9d841b82687d578a89a3abea81abee22c8db2d789aed14e75749e2"
   },
   {
+   "path": "assets/doro-motion/frames/6e27b19f531207cf268729809871b0527d69f7db309708ac7dfc5c7be55f3c80.png",
+   "bytes": 28880,
+   "sha256": "6e27b19f531207cf268729809871b0527d69f7db309708ac7dfc5c7be55f3c80"
+  },
+  {
    "path": "assets/doro-motion/frames/6e7113f67e06615cc1fd2e928b8a61b2634f83a2a32847d952eb49fc54d6f778.png",
    "bytes": 8481,
    "sha256": "6e7113f67e06615cc1fd2e928b8a61b2634f83a2a32847d952eb49fc54d6f778"
@@ -2502,6 +2737,11 @@
    "path": "assets/doro-motion/frames/6f230a00fcc5f83227cf6b6c9a3d3f388c6c3bad070bd9a17be4c67dc5492e0f.png",
    "bytes": 47772,
    "sha256": "6f230a00fcc5f83227cf6b6c9a3d3f388c6c3bad070bd9a17be4c67dc5492e0f"
+  },
+  {
+   "path": "assets/doro-motion/frames/6f3f6436dd23f17ea31d6ff42dcd9fd7fcde17930cc185863dc2d27fc26b7ea5.png",
+   "bytes": 88400,
+   "sha256": "6f3f6436dd23f17ea31d6ff42dcd9fd7fcde17930cc185863dc2d27fc26b7ea5"
   },
   {
    "path": "assets/doro-motion/frames/6f61eba7468aa7e97508424d23cf8df9bb83dfe5f919d89406978a432899a955.png",
@@ -2534,6 +2774,11 @@
    "sha256": "70fef7aca470a7606418bf02f6a08b703ad5df836287ee68d882ba788dc7169d"
   },
   {
+   "path": "assets/doro-motion/frames/716fa276ca719186893fef01c700bb85ea2b9df776405e8e1d5846ff6c5183f6.png",
+   "bytes": 61568,
+   "sha256": "716fa276ca719186893fef01c700bb85ea2b9df776405e8e1d5846ff6c5183f6"
+  },
+  {
    "path": "assets/doro-motion/frames/71ea7e83aed2523140a7e95b7bb0184cecece54f6dcc40cf650a16fd9137f383.png",
    "bytes": 15862,
    "sha256": "71ea7e83aed2523140a7e95b7bb0184cecece54f6dcc40cf650a16fd9137f383"
@@ -2542,6 +2787,11 @@
    "path": "assets/doro-motion/frames/71fa88f1d8cebe8caef66147c05d5484604803885eaa3176ee5449f9ed515a83.png",
    "bytes": 42365,
    "sha256": "71fa88f1d8cebe8caef66147c05d5484604803885eaa3176ee5449f9ed515a83"
+  },
+  {
+   "path": "assets/doro-motion/frames/725a1fe7147b0078db25a30514daf81689075f65820b84b88fd6e2555cbfebac.png",
+   "bytes": 48793,
+   "sha256": "725a1fe7147b0078db25a30514daf81689075f65820b84b88fd6e2555cbfebac"
   },
   {
    "path": "assets/doro-motion/frames/729076eed89a69a2f6fca867df12148c8317a4c80f356081602ed5527f2c9723.png",
@@ -2614,6 +2864,11 @@
    "sha256": "74785a61eb4c2ac9e7ce824ab3a33dff27ae70a4660b4169244dd4819d08fabf"
   },
   {
+   "path": "assets/doro-motion/frames/74b8083135541648af3a4f361527d66b5690feebed91a48c65eb32e42b8eb8b7.png",
+   "bytes": 80446,
+   "sha256": "74b8083135541648af3a4f361527d66b5690feebed91a48c65eb32e42b8eb8b7"
+  },
+  {
    "path": "assets/doro-motion/frames/74cce507d11160f4fa2de8b1c232337558d274a366ee8bca28aac9f987e4503e.png",
    "bytes": 17027,
    "sha256": "74cce507d11160f4fa2de8b1c232337558d274a366ee8bca28aac9f987e4503e"
@@ -2672,6 +2927,11 @@
    "path": "assets/doro-motion/frames/767e2d72a07ddef8a6126466865d0ec986098c948809f3cfb4a70b799f349962.png",
    "bytes": 8373,
    "sha256": "767e2d72a07ddef8a6126466865d0ec986098c948809f3cfb4a70b799f349962"
+  },
+  {
+   "path": "assets/doro-motion/frames/76f0e6227c6ed143397b7ed8a48889d735e021974f2bae80ae4bab62a9bab44d.png",
+   "bytes": 104619,
+   "sha256": "76f0e6227c6ed143397b7ed8a48889d735e021974f2bae80ae4bab62a9bab44d"
   },
   {
    "path": "assets/doro-motion/frames/7713faed8cc4df9478aec5b03c653ff10ee4339b6bed24c392e083ebff8700d7.png",
@@ -2809,6 +3069,11 @@
    "sha256": "7c6f99de88f41104daa1aa56a60be825ae2436d16284b5a24db8c1af02de9d8b"
   },
   {
+   "path": "assets/doro-motion/frames/7c8632484a09b082755c5c72bbb0f3d4704a031ae4c6ff1ccf1afff5c25868b5.png",
+   "bytes": 86836,
+   "sha256": "7c8632484a09b082755c5c72bbb0f3d4704a031ae4c6ff1ccf1afff5c25868b5"
+  },
+  {
    "path": "assets/doro-motion/frames/7c9c4bbdb1a65488f5a1e3a07700ec19368fd7f4a452ded4b10cac77a7a2a0e0.png",
    "bytes": 11860,
    "sha256": "7c9c4bbdb1a65488f5a1e3a07700ec19368fd7f4a452ded4b10cac77a7a2a0e0"
@@ -2864,6 +3129,11 @@
    "sha256": "7ec487095cd750687bb780c82cc745eea5b63728f27a3faeacf100132c360f1e"
   },
   {
+   "path": "assets/doro-motion/frames/7ee8081c6b03a7d3b678cabbd3c9cc65a153b2afc8f9219a68726c5662e9180f.png",
+   "bytes": 87012,
+   "sha256": "7ee8081c6b03a7d3b678cabbd3c9cc65a153b2afc8f9219a68726c5662e9180f"
+  },
+  {
    "path": "assets/doro-motion/frames/7f05a753ce60052638a7069509ea6e6ca82ed400e786bfbdfa5ba8d0c5228219.png",
    "bytes": 22689,
    "sha256": "7f05a753ce60052638a7069509ea6e6ca82ed400e786bfbdfa5ba8d0c5228219"
@@ -2884,6 +3154,11 @@
    "sha256": "7fda57482a24ef81c35251c5e5f1c92dc025f65d6d16a1f6796310f8d8f045de"
   },
   {
+   "path": "assets/doro-motion/frames/80b582a934e93012023b265496ecc17784959afdcbd3770a3317872b2a763899.png",
+   "bytes": 86424,
+   "sha256": "80b582a934e93012023b265496ecc17784959afdcbd3770a3317872b2a763899"
+  },
+  {
    "path": "assets/doro-motion/frames/80f2c62c8a207ed4ca6e3c9c6212c642036b025340a18f95b0c45ec93a7c46d3.png",
    "bytes": 8259,
    "sha256": "80f2c62c8a207ed4ca6e3c9c6212c642036b025340a18f95b0c45ec93a7c46d3"
@@ -2902,6 +3177,11 @@
    "path": "assets/doro-motion/frames/81a026eef7a601dba81ad85da237877e57c7435fe2f3dcedbf30fddb7da69031.png",
    "bytes": 7513,
    "sha256": "81a026eef7a601dba81ad85da237877e57c7435fe2f3dcedbf30fddb7da69031"
+  },
+  {
+   "path": "assets/doro-motion/frames/82044ba3e393fefac6c13b865a6e9635b95ca0f696032d8c379c07ed764c286e.png",
+   "bytes": 104863,
+   "sha256": "82044ba3e393fefac6c13b865a6e9635b95ca0f696032d8c379c07ed764c286e"
   },
   {
    "path": "assets/doro-motion/frames/820c7f47bdf9eb6c91376877b2bc798bbcdb278b7d5cbc4cfe4d72dbdfe1fae9.png",
@@ -2947,6 +3227,11 @@
    "path": "assets/doro-motion/frames/831c692d65d6cb16e655d089725caa974d5d007d3b82f49c1556a1d6517dddae.png",
    "bytes": 52032,
    "sha256": "831c692d65d6cb16e655d089725caa974d5d007d3b82f49c1556a1d6517dddae"
+  },
+  {
+   "path": "assets/doro-motion/frames/832612c6e94faf0d560cf89026a38a616d914263d8379c776bc0e25f95e937b7.png",
+   "bytes": 71202,
+   "sha256": "832612c6e94faf0d560cf89026a38a616d914263d8379c776bc0e25f95e937b7"
   },
   {
    "path": "assets/doro-motion/frames/834f968d6bbd8f71d9da6d8a6e3839b815c732128215e5eeeedee539488e2282.png",
@@ -3022,6 +3307,11 @@
    "path": "assets/doro-motion/frames/87487b6689e0f2c60c0b2071be538b6d10aaaa0a4069a249c827d2660d3ba9d3.png",
    "bytes": 18548,
    "sha256": "87487b6689e0f2c60c0b2071be538b6d10aaaa0a4069a249c827d2660d3ba9d3"
+  },
+  {
+   "path": "assets/doro-motion/frames/879601e4c652ecd0433c6d501551913b50dc72b7b7971a191b5bcb18deea7433.png",
+   "bytes": 80435,
+   "sha256": "879601e4c652ecd0433c6d501551913b50dc72b7b7971a191b5bcb18deea7433"
   },
   {
    "path": "assets/doro-motion/frames/87df81f3e3e22feae19c80ba2c3ddc54f69f993e3c69304723b563e8ed0639e7.png",
@@ -3114,6 +3404,11 @@
    "sha256": "8ce36b2046b339764d9c5d91b233f4d55c84e9085912ed1897cb8f4328c5152f"
   },
   {
+   "path": "assets/doro-motion/frames/8d05220ef2afabf5cff522e46183e20525d32b83041c78b81f2138852c0d5a54.png",
+   "bytes": 87131,
+   "sha256": "8d05220ef2afabf5cff522e46183e20525d32b83041c78b81f2138852c0d5a54"
+  },
+  {
    "path": "assets/doro-motion/frames/8d0df42093a7d146f657766e4ad1f006d6dd59e3ed7fa1ec85891230fa5e4c8a.png",
    "bytes": 23484,
    "sha256": "8d0df42093a7d146f657766e4ad1f006d6dd59e3ed7fa1ec85891230fa5e4c8a"
@@ -3202,6 +3497,11 @@
    "path": "assets/doro-motion/frames/9052012bc7aaf70bedb3c4602f6f3d209cb6b4226f8cbecb966e71a589345b07.png",
    "bytes": 22530,
    "sha256": "9052012bc7aaf70bedb3c4602f6f3d209cb6b4226f8cbecb966e71a589345b07"
+  },
+  {
+   "path": "assets/doro-motion/frames/905e05fa3ff4b7ff54782a2d4b7a9462c6fa1107157348bd96b7fd7613d0efae.png",
+   "bytes": 23772,
+   "sha256": "905e05fa3ff4b7ff54782a2d4b7a9462c6fa1107157348bd96b7fd7613d0efae"
   },
   {
    "path": "assets/doro-motion/frames/906b94c3d79b6931612ddbf32ba73780329983c742617009390ad926da9bb07b.png",
@@ -3329,6 +3629,11 @@
    "sha256": "951d3913f559414d217790b2cedcde30f2c4152103696142814e2cdba9b5dbc1"
   },
   {
+   "path": "assets/doro-motion/frames/9550aa9e6c6961031039ed9d8400d7614d48571bdb8c994fa39d7b9c3dd10e9c.png",
+   "bytes": 6550,
+   "sha256": "9550aa9e6c6961031039ed9d8400d7614d48571bdb8c994fa39d7b9c3dd10e9c"
+  },
+  {
    "path": "assets/doro-motion/frames/955bfbe0c783253e3f7d6c3564f5a982ebb2c56a2f6540be626833b9ba57c1c2.png",
    "bytes": 23569,
    "sha256": "955bfbe0c783253e3f7d6c3564f5a982ebb2c56a2f6540be626833b9ba57c1c2"
@@ -3347,6 +3652,11 @@
    "path": "assets/doro-motion/frames/95f842ddb0e46f81533ca1df9fe19e6d1f42345ddd39bd3e7caced59c28cbbb6.png",
    "bytes": 34670,
    "sha256": "95f842ddb0e46f81533ca1df9fe19e6d1f42345ddd39bd3e7caced59c28cbbb6"
+  },
+  {
+   "path": "assets/doro-motion/frames/95fc099a750f631e453a1e9756630db645cf971d39c15e3588fa92d868025029.png",
+   "bytes": 104538,
+   "sha256": "95fc099a750f631e453a1e9756630db645cf971d39c15e3588fa92d868025029"
   },
   {
    "path": "assets/doro-motion/frames/966556812777dd6d25b15ec5db9b42e2ee004bda0dec081481bcc2b51eeaea08.png",
@@ -3464,6 +3774,11 @@
    "sha256": "9bb85019a74a7367a6b920041370d0529674492045c05e1144738351c4793fea"
   },
   {
+   "path": "assets/doro-motion/frames/9bcb1e6ab38339cd672b8f85b372e240c6c74afe912a8ea145cb34dcaea64745.png",
+   "bytes": 86029,
+   "sha256": "9bcb1e6ab38339cd672b8f85b372e240c6c74afe912a8ea145cb34dcaea64745"
+  },
+  {
    "path": "assets/doro-motion/frames/9c0b524d5bf60e3210d05acd3f6f1d2e840d7066416afa31600709f4721ce46e.png",
    "bytes": 17324,
    "sha256": "9c0b524d5bf60e3210d05acd3f6f1d2e840d7066416afa31600709f4721ce46e"
@@ -3492,6 +3807,11 @@
    "path": "assets/doro-motion/frames/9d4817df80215da426b2cc7e23b82b8d2f3f4130064c2b868e0646b9cdde1f46.png",
    "bytes": 6090,
    "sha256": "9d4817df80215da426b2cc7e23b82b8d2f3f4130064c2b868e0646b9cdde1f46"
+  },
+  {
+   "path": "assets/doro-motion/frames/9d49acfe29a29c008e8f4e827916b68c18212e4ac359474e10c56c0d48bea00b.png",
+   "bytes": 27239,
+   "sha256": "9d49acfe29a29c008e8f4e827916b68c18212e4ac359474e10c56c0d48bea00b"
   },
   {
    "path": "assets/doro-motion/frames/9d95d12468b40d405f7dffcb4e6787e20955079c944f0c64bcd38d512f732d49.png",
@@ -3614,6 +3934,11 @@
    "sha256": "a33677a7d01eb350cbe6bdc806c4d5987d221af96768505cc3464112c93492cb"
   },
   {
+   "path": "assets/doro-motion/frames/a358ec3dbc04902fcb39cef871cbe215a5f2f7ec60e86098911c62c3f7bc3731.png",
+   "bytes": 85969,
+   "sha256": "a358ec3dbc04902fcb39cef871cbe215a5f2f7ec60e86098911c62c3f7bc3731"
+  },
+  {
    "path": "assets/doro-motion/frames/a3a9040fca7c171985812c24ecfdb5b93b8cd8f9b9a039128b6b5658290f8812.png",
    "bytes": 54826,
    "sha256": "a3a9040fca7c171985812c24ecfdb5b93b8cd8f9b9a039128b6b5658290f8812"
@@ -3729,6 +4054,11 @@
    "sha256": "a71c72aa52338a6b550fba0656e6ce7d97fc826719d45f186e2ac657372b172a"
   },
   {
+   "path": "assets/doro-motion/frames/a738f18daa0ccd46828cff91a50f65cf20b3ce3eff250543210dd7ceb121d937.png",
+   "bytes": 20426,
+   "sha256": "a738f18daa0ccd46828cff91a50f65cf20b3ce3eff250543210dd7ceb121d937"
+  },
+  {
    "path": "assets/doro-motion/frames/a79eff491abd54bb8ad477052bfe24ed06c952d962ab8eca83aaca92d4e9fa2f.png",
    "bytes": 22309,
    "sha256": "a79eff491abd54bb8ad477052bfe24ed06c952d962ab8eca83aaca92d4e9fa2f"
@@ -3737,6 +4067,11 @@
    "path": "assets/doro-motion/frames/a7c0d2f9bb895339eade6c5d2dc9f83c55ddff5248f1df789ac1ee117918f328.png",
    "bytes": 15859,
    "sha256": "a7c0d2f9bb895339eade6c5d2dc9f83c55ddff5248f1df789ac1ee117918f328"
+  },
+  {
+   "path": "assets/doro-motion/frames/a7cdca06a7191a6607c925a6d8e74e2bdcc10b4fb4fe12c61fe2a3be38d80d30.png",
+   "bytes": 26291,
+   "sha256": "a7cdca06a7191a6607c925a6d8e74e2bdcc10b4fb4fe12c61fe2a3be38d80d30"
   },
   {
    "path": "assets/doro-motion/frames/a81efedebfbbcad53416a51a976902d9bf8fd5dae57cc6c3044040e675caa2f2.png",
@@ -4004,14 +4339,14 @@
    "sha256": "b04ef09b312a7029cd7c5717291609aac92109989c0c752e2ee92413177c8016"
   },
   {
+   "path": "assets/doro-motion/frames/b09d96255b3b91ad01ed7564ffe5a80ae74c998f9140be576a90eba020973740.png",
+   "bytes": 95929,
+   "sha256": "b09d96255b3b91ad01ed7564ffe5a80ae74c998f9140be576a90eba020973740"
+  },
+  {
    "path": "assets/doro-motion/frames/b0a79002d07231f18f89e9d7415cdae70482d739796f88048b45af00d6f45922.png",
    "bytes": 39292,
    "sha256": "b0a79002d07231f18f89e9d7415cdae70482d739796f88048b45af00d6f45922"
-  },
-  {
-   "path": "assets/doro-motion/frames/b0b894b36216adea674f215691953bf3743b0eb7fdd3f109f7c290391535dbbb.png",
-   "bytes": 21599,
-   "sha256": "b0b894b36216adea674f215691953bf3743b0eb7fdd3f109f7c290391535dbbb"
   },
   {
    "path": "assets/doro-motion/frames/b1c8e08be093d7289e5f033007e41b4ce91bd338269728f12938fecda32db3f3.png",
@@ -4049,6 +4384,11 @@
    "sha256": "b30669fec3782c5fe7a5f417ed8f59c716f936eaf1fda655dbc5e1fb1fde9038"
   },
   {
+   "path": "assets/doro-motion/frames/b34fc385e6e833088ee3306546fcf2c8ce732056c0072eaf5affb4151e062dbd.png",
+   "bytes": 93523,
+   "sha256": "b34fc385e6e833088ee3306546fcf2c8ce732056c0072eaf5affb4151e062dbd"
+  },
+  {
    "path": "assets/doro-motion/frames/b39e9fa9680ccd1679eac28c04779218892c941eaa588c0b2c9b882570e9fe33.png",
    "bytes": 6607,
    "sha256": "b39e9fa9680ccd1679eac28c04779218892c941eaa588c0b2c9b882570e9fe33"
@@ -4067,6 +4407,11 @@
    "path": "assets/doro-motion/frames/b4be37e371aa2890048c6b1e6263e97481aa7a89e766831a1efb4188ef0dff0e.png",
    "bytes": 11761,
    "sha256": "b4be37e371aa2890048c6b1e6263e97481aa7a89e766831a1efb4188ef0dff0e"
+  },
+  {
+   "path": "assets/doro-motion/frames/b4f3093cf5250d905a2d9d1899dab6227943f2379cc1a8138a955be64cebb10d.png",
+   "bytes": 26286,
+   "sha256": "b4f3093cf5250d905a2d9d1899dab6227943f2379cc1a8138a955be64cebb10d"
   },
   {
    "path": "assets/doro-motion/frames/b50cf9365713e46ba66d2f0cc405673d24ed448108687d9111e6b64a48a626d8.png",
@@ -4119,6 +4464,11 @@
    "sha256": "b6cb21efc2437700749441f1c2175796c8106d0ab0c9ad8b6dd6fd3655a30e6d"
   },
   {
+   "path": "assets/doro-motion/frames/b6e1fb3c7179ff521e17d016f551a36c8dcfd61683c3ec69ff45ec3fa6f3b90d.png",
+   "bytes": 87276,
+   "sha256": "b6e1fb3c7179ff521e17d016f551a36c8dcfd61683c3ec69ff45ec3fa6f3b90d"
+  },
+  {
    "path": "assets/doro-motion/frames/b6e507967c17df0ccf88fd476ddbfa576574a69c3572a5f31be4c58d3f6c2d4b.png",
    "bytes": 15925,
    "sha256": "b6e507967c17df0ccf88fd476ddbfa576574a69c3572a5f31be4c58d3f6c2d4b"
@@ -4127,6 +4477,11 @@
    "path": "assets/doro-motion/frames/b6fecc8c025491d13448ea2d20e83a8e7b7ddfdaecdb2d977010b6b8e4d1d89d.png",
    "bytes": 31367,
    "sha256": "b6fecc8c025491d13448ea2d20e83a8e7b7ddfdaecdb2d977010b6b8e4d1d89d"
+  },
+  {
+   "path": "assets/doro-motion/frames/b7193da056ec769045f08ed28c2114e6fd0724b800a84cad77f611fab4fe1367.png",
+   "bytes": 20753,
+   "sha256": "b7193da056ec769045f08ed28c2114e6fd0724b800a84cad77f611fab4fe1367"
   },
   {
    "path": "assets/doro-motion/frames/b7347d44b981c3a585d3d780fea5737c9dae5e53ed38eba4bbd3f9ab2ae8aae7.png",
@@ -4149,9 +4504,19 @@
    "sha256": "b766c5a651a16c6b18c036346e4fa7e0235c2c022ca6d6d85c5345296baeeab6"
   },
   {
+   "path": "assets/doro-motion/frames/b771df9a5b144c0ec69316314df5bfbf06477661457ac55a0b8bf9f5917a63b1.png",
+   "bytes": 26070,
+   "sha256": "b771df9a5b144c0ec69316314df5bfbf06477661457ac55a0b8bf9f5917a63b1"
+  },
+  {
    "path": "assets/doro-motion/frames/b79330e045b44e5fe729ee3d9c3d65f4e80e81c518416d3be9e622a7287ebd96.png",
    "bytes": 11552,
    "sha256": "b79330e045b44e5fe729ee3d9c3d65f4e80e81c518416d3be9e622a7287ebd96"
+  },
+  {
+   "path": "assets/doro-motion/frames/b87f81f26b5b2dff052b3183c5b0423222cfad15a08989093a02fe8801b2ef05.png",
+   "bytes": 104253,
+   "sha256": "b87f81f26b5b2dff052b3183c5b0423222cfad15a08989093a02fe8801b2ef05"
   },
   {
    "path": "assets/doro-motion/frames/b8afa3ca63dd6b2bcf16e7a38783fd60650ca9de6f8cbbdef87cd0bb018addce.png",
@@ -4184,9 +4549,19 @@
    "sha256": "b9a93bfed6f73982861e3dee9cd1041b145128021cefbb149966fcc57d3f1abf"
   },
   {
+   "path": "assets/doro-motion/frames/b9b35558d87f261eb53b7863fcd83a3acd6c19f9f01c37d85c6f04e82720f68e.png",
+   "bytes": 71202,
+   "sha256": "b9b35558d87f261eb53b7863fcd83a3acd6c19f9f01c37d85c6f04e82720f68e"
+  },
+  {
    "path": "assets/doro-motion/frames/b9c3b9935da184f3d898d038e80589df30bc552f3e8834b98fd839d4c49da9b4.png",
    "bytes": 562,
    "sha256": "b9c3b9935da184f3d898d038e80589df30bc552f3e8834b98fd839d4c49da9b4"
+  },
+  {
+   "path": "assets/doro-motion/frames/b9fb1ed66b003c906cc4ba9957f4025e7b3d9a4ce544d8f35d3a6fc909becfd5.png",
+   "bytes": 86310,
+   "sha256": "b9fb1ed66b003c906cc4ba9957f4025e7b3d9a4ce544d8f35d3a6fc909becfd5"
   },
   {
    "path": "assets/doro-motion/frames/ba0a3cc612d9633cf599022fded3788af0060ad1c9bd6b91f64c57b68c93f511.png",
@@ -4224,6 +4599,11 @@
    "sha256": "bb0837ab0e114f3d8d6347af70b9b40af100d7d4de78ae16c5b36ea0738a9161"
   },
   {
+   "path": "assets/doro-motion/frames/bb4b5c82be916eeb9423cadd9413e9af04ca97351669bffb507b67c239beaa47.png",
+   "bytes": 2506,
+   "sha256": "bb4b5c82be916eeb9423cadd9413e9af04ca97351669bffb507b67c239beaa47"
+  },
+  {
    "path": "assets/doro-motion/frames/bb5b6778533a02e9a232978e9e0aa15d84a070606b5f778f92295be61b1ef3d1.png",
    "bytes": 32896,
    "sha256": "bb5b6778533a02e9a232978e9e0aa15d84a070606b5f778f92295be61b1ef3d1"
@@ -4247,6 +4627,11 @@
    "path": "assets/doro-motion/frames/bc7c11b2c22fb46350a31ba02755e0393a18ffabd67446432e8ca1f496ba0657.png",
    "bytes": 23423,
    "sha256": "bc7c11b2c22fb46350a31ba02755e0393a18ffabd67446432e8ca1f496ba0657"
+  },
+  {
+   "path": "assets/doro-motion/frames/bc848e5591fda0f023f4041ea0cad0fb92978cde7fe270c0b89a44e6eb81feaf.png",
+   "bytes": 70374,
+   "sha256": "bc848e5591fda0f023f4041ea0cad0fb92978cde7fe270c0b89a44e6eb81feaf"
   },
   {
    "path": "assets/doro-motion/frames/bcaea5a987dca90e57cca6f931bb909c79523a8aeb176ac04e686e48f294bc18.png",
@@ -4327,6 +4712,11 @@
    "path": "assets/doro-motion/frames/bffefb27736bbb0399fd04a0b83595617994af0af42c3a25010d0fecc2fe15b2.png",
    "bytes": 27480,
    "sha256": "bffefb27736bbb0399fd04a0b83595617994af0af42c3a25010d0fecc2fe15b2"
+  },
+  {
+   "path": "assets/doro-motion/frames/c013ffc6231c5b8e91b5839b8808499d15c86c3b56ee425fbf56cac70a3d0235.png",
+   "bytes": 28075,
+   "sha256": "c013ffc6231c5b8e91b5839b8808499d15c86c3b56ee425fbf56cac70a3d0235"
   },
   {
    "path": "assets/doro-motion/frames/c018b364b626a5460c9f5957cf81bb2e6bbeddfef13a70ce2bd930423fed7c78.png",
@@ -4414,6 +4804,11 @@
    "sha256": "c35874c26f5f0fffbb1843b928651b896f852e6f2e5d9cef186687974e64ce0e"
   },
   {
+   "path": "assets/doro-motion/frames/c363a1d319201d2718157c66d9ad98e64027d86ae35e0a4be498d69a07dbc5b2.png",
+   "bytes": 6363,
+   "sha256": "c363a1d319201d2718157c66d9ad98e64027d86ae35e0a4be498d69a07dbc5b2"
+  },
+  {
    "path": "assets/doro-motion/frames/c390617a0d72272406832ba3106396910dccdcc2f7db6405a42dda7013cc560e.png",
    "bytes": 21067,
    "sha256": "c390617a0d72272406832ba3106396910dccdcc2f7db6405a42dda7013cc560e"
@@ -4422,6 +4817,11 @@
    "path": "assets/doro-motion/frames/c3bb08a150521f58186f6be4ab2701d5fe45d742db6d2bc9b73d31bdcfa33fc8.png",
    "bytes": 31954,
    "sha256": "c3bb08a150521f58186f6be4ab2701d5fe45d742db6d2bc9b73d31bdcfa33fc8"
+  },
+  {
+   "path": "assets/doro-motion/frames/c40f354c9ace05a01fef61680d53982caeadc630b091fe2a1e992fa19fa27e00.png",
+   "bytes": 85578,
+   "sha256": "c40f354c9ace05a01fef61680d53982caeadc630b091fe2a1e992fa19fa27e00"
   },
   {
    "path": "assets/doro-motion/frames/c41aa5e368fd03919d6b3bd9d8934ebad9d71f3951ffc99eca8453cbceff4903.png",
@@ -4437,6 +4837,11 @@
    "path": "assets/doro-motion/frames/c4a1fb81afdb35970f2dca34dc4f1cb3f336c459b793dc0a0f7cb9871f6fd0cf.png",
    "bytes": 52026,
    "sha256": "c4a1fb81afdb35970f2dca34dc4f1cb3f336c459b793dc0a0f7cb9871f6fd0cf"
+  },
+  {
+   "path": "assets/doro-motion/frames/c4b20ddc74ae16803e5d3a9305a6431d0f00b503daaabb05df534130252987d6.png",
+   "bytes": 87412,
+   "sha256": "c4b20ddc74ae16803e5d3a9305a6431d0f00b503daaabb05df534130252987d6"
   },
   {
    "path": "assets/doro-motion/frames/c4e6246418cfd939903a250c88a0c97aa714184c268fecf14bc3f77a7d0d87ed.png",
@@ -4699,6 +5104,11 @@
    "sha256": "cf61fbe0e988480a38f43d255739f6076b0af163b9d3e24b6521aa2b96dc362b"
   },
   {
+   "path": "assets/doro-motion/frames/cfa271518f6b5c994edc8a6c0589297b5bbbc36030562bb94242697547623944.png",
+   "bytes": 86542,
+   "sha256": "cfa271518f6b5c994edc8a6c0589297b5bbbc36030562bb94242697547623944"
+  },
+  {
    "path": "assets/doro-motion/frames/cfb5250d6146f7392dd775a3196d8ae41cdc59cacd5278668477cffaa667e96a.png",
    "bytes": 12011,
    "sha256": "cfb5250d6146f7392dd775a3196d8ae41cdc59cacd5278668477cffaa667e96a"
@@ -4749,9 +5159,24 @@
    "sha256": "d19eb7d7f369ac35583ae6cfa1afc1887de3a19d05751bfc1fa57cff736f5ffd"
   },
   {
+   "path": "assets/doro-motion/frames/d1e63806e6d051eb982f63fa340fe14ff0bbbb9cffccdc8102f1a42e447200f6.png",
+   "bytes": 86299,
+   "sha256": "d1e63806e6d051eb982f63fa340fe14ff0bbbb9cffccdc8102f1a42e447200f6"
+  },
+  {
    "path": "assets/doro-motion/frames/d21890fdf40517f2c062e06cb85030fb020a378f650467512f5d667122621ad4.png",
    "bytes": 52019,
    "sha256": "d21890fdf40517f2c062e06cb85030fb020a378f650467512f5d667122621ad4"
+  },
+  {
+   "path": "assets/doro-motion/frames/d250687c3794590cfbae75e3cd80cca5c26f6a31e431177e555302470eaa86ac.png",
+   "bytes": 88073,
+   "sha256": "d250687c3794590cfbae75e3cd80cca5c26f6a31e431177e555302470eaa86ac"
+  },
+  {
+   "path": "assets/doro-motion/frames/d31ec11475540ca4b7f1f823317116dd9c7858dfaf27edb4416420cd3548b5e9.png",
+   "bytes": 6367,
+   "sha256": "d31ec11475540ca4b7f1f823317116dd9c7858dfaf27edb4416420cd3548b5e9"
   },
   {
    "path": "assets/doro-motion/frames/d3911014a28a54b819f57dc52c935e28e9ec185173ef9a9ac11bc9a7ffb15801.png",
@@ -4762,6 +5187,11 @@
    "path": "assets/doro-motion/frames/d421098bd2df87c1059ccf0ef281242a5f7c50ad8916eddb27a0550ba99c47b0.png",
    "bytes": 31952,
    "sha256": "d421098bd2df87c1059ccf0ef281242a5f7c50ad8916eddb27a0550ba99c47b0"
+  },
+  {
+   "path": "assets/doro-motion/frames/d429e2aa110c938353c879bba8973895f60a893c5ee4d9067acbc3ee30f86159.png",
+   "bytes": 11389,
+   "sha256": "d429e2aa110c938353c879bba8973895f60a893c5ee4d9067acbc3ee30f86159"
   },
   {
    "path": "assets/doro-motion/frames/d4392c4d235ad8de27d4bbbc59bab912551353404228af53d273a3aefa4614b4.png",
@@ -4879,6 +5309,11 @@
    "sha256": "d8a7a0877817525193f84b82c77ec66f5a5bef0e573cb4008c390250fc74d17a"
   },
   {
+   "path": "assets/doro-motion/frames/d924c8baacec07aed0224f4d6c64523055a2e8258cab1cfd708363f896da9135.png",
+   "bytes": 103898,
+   "sha256": "d924c8baacec07aed0224f4d6c64523055a2e8258cab1cfd708363f896da9135"
+  },
+  {
    "path": "assets/doro-motion/frames/d9302ea87041195eec3bd0e6a043ce096b2df120a17782f4fe06e9874bee4540.png",
    "bytes": 27438,
    "sha256": "d9302ea87041195eec3bd0e6a043ce096b2df120a17782f4fe06e9874bee4540"
@@ -4912,6 +5347,11 @@
    "path": "assets/doro-motion/frames/db5d43c1fd47b09895093789549b935beb774cf4de8128746145c9b12165bc11.png",
    "bytes": 10891,
    "sha256": "db5d43c1fd47b09895093789549b935beb774cf4de8128746145c9b12165bc11"
+  },
+  {
+   "path": "assets/doro-motion/frames/dbb253db940518629551718c6a239466e74654bad42be6965de8fad99ddff17c.png",
+   "bytes": 6547,
+   "sha256": "dbb253db940518629551718c6a239466e74654bad42be6965de8fad99ddff17c"
   },
   {
    "path": "assets/doro-motion/frames/dbb58aeb6fa640aa937066a7e728dc234e4b4ac422f7056bdc9c621063ad4808.png",
@@ -5009,6 +5449,11 @@
    "sha256": "debfd7acfd433314dff105289583f94bbd03145f8968a6d0865779568ffab1bb"
   },
   {
+   "path": "assets/doro-motion/frames/dedaaa2539280e02f40e1164b48f8fccb3de7cfba39c0d0143ee28598ed68086.png",
+   "bytes": 25347,
+   "sha256": "dedaaa2539280e02f40e1164b48f8fccb3de7cfba39c0d0143ee28598ed68086"
+  },
+  {
    "path": "assets/doro-motion/frames/dedd7373770c2afeb326d74cea00ad48aa69229d55b29731876f6a648d720f1f.png",
    "bytes": 1573,
    "sha256": "dedd7373770c2afeb326d74cea00ad48aa69229d55b29731876f6a648d720f1f"
@@ -5057,6 +5502,11 @@
    "path": "assets/doro-motion/frames/e0ef01e059de05ff20e81392a0183099be5527520f1fb1e5d0f54b3e08e443ae.png",
    "bytes": 63656,
    "sha256": "e0ef01e059de05ff20e81392a0183099be5527520f1fb1e5d0f54b3e08e443ae"
+  },
+  {
+   "path": "assets/doro-motion/frames/e10d4e9721e80a0496ce4f9b176397cc9f279484cbbce4f3f46dae74f3b36113.png",
+   "bytes": 104104,
+   "sha256": "e10d4e9721e80a0496ce4f9b176397cc9f279484cbbce4f3f46dae74f3b36113"
   },
   {
    "path": "assets/doro-motion/frames/e13eeb730de33436659df12f03ad44fbe4593619e9849a72a4b45cc57f95780c.png",
@@ -5229,6 +5679,11 @@
    "sha256": "e5f79d8713c139612df166fb0a6b9dd32a1092bebc9255c1c974f6db642085a0"
   },
   {
+   "path": "assets/doro-motion/frames/e600c2fae16eae7af50605e62cc173b0030773b72df0c7646382416fa0cf0d2e.png",
+   "bytes": 104890,
+   "sha256": "e600c2fae16eae7af50605e62cc173b0030773b72df0c7646382416fa0cf0d2e"
+  },
+  {
    "path": "assets/doro-motion/frames/e638842c6ca290c0aea00a434b0094c0710eb112962118a5407435065c6fcf44.png",
    "bytes": 32241,
    "sha256": "e638842c6ca290c0aea00a434b0094c0710eb112962118a5407435065c6fcf44"
@@ -5254,6 +5709,11 @@
    "sha256": "e6ea19612c326e48fc2d926a46b468fa728618567d96af345d240bac00bbb68d"
   },
   {
+   "path": "assets/doro-motion/frames/e774408b3585589f7df24de8fb8c76f089f54a48755dc98332caad5f98c73c1d.png",
+   "bytes": 13638,
+   "sha256": "e774408b3585589f7df24de8fb8c76f089f54a48755dc98332caad5f98c73c1d"
+  },
+  {
    "path": "assets/doro-motion/frames/e7ab8c733d6de4352021dd732c2b9aa5d6ea025123375478a92effd5bc48649e.png",
    "bytes": 12125,
    "sha256": "e7ab8c733d6de4352021dd732c2b9aa5d6ea025123375478a92effd5bc48649e"
@@ -5262,6 +5722,11 @@
    "path": "assets/doro-motion/frames/e8626bb4e3a22532072f6e68528e7f74d0fc5d80e8ec836861c5e0e412415367.png",
    "bytes": 11057,
    "sha256": "e8626bb4e3a22532072f6e68528e7f74d0fc5d80e8ec836861c5e0e412415367"
+  },
+  {
+   "path": "assets/doro-motion/frames/e8ca7391cbb3f2bc76dd98d9eeef8e569d7fbd0b84b29963637c8e1b6d20c6bf.png",
+   "bytes": 24421,
+   "sha256": "e8ca7391cbb3f2bc76dd98d9eeef8e569d7fbd0b84b29963637c8e1b6d20c6bf"
   },
   {
    "path": "assets/doro-motion/frames/e982c2346db78f202c58d3b57b0b612e3aa5a5d8461000a43636d75a5b3a43db.png",
@@ -5329,6 +5794,11 @@
    "sha256": "eaef48836a94cba1a610620182011200856030c8e6c88956131106a2b46a72e9"
   },
   {
+   "path": "assets/doro-motion/frames/eb0c09ebec01e9de0ce8c5faf2b3e13f48ba00078b5774e2962f4626e7ab9f0c.png",
+   "bytes": 7796,
+   "sha256": "eb0c09ebec01e9de0ce8c5faf2b3e13f48ba00078b5774e2962f4626e7ab9f0c"
+  },
+  {
    "path": "assets/doro-motion/frames/eb14f084ecc849c6b735852782ef7e8473ffb96301fbf65c2fdcdd166f589f43.png",
    "bytes": 11722,
    "sha256": "eb14f084ecc849c6b735852782ef7e8473ffb96301fbf65c2fdcdd166f589f43"
@@ -5379,9 +5849,19 @@
    "sha256": "eba73f98f8d7515d8dde51d37e8c3e0a877762ccc9aa049ee3ae8f407f551515"
   },
   {
+   "path": "assets/doro-motion/frames/ebb3c3b207bc9c56c327f19e1571273c58ee2f720b4931c00428c4d9645bcdda.png",
+   "bytes": 104127,
+   "sha256": "ebb3c3b207bc9c56c327f19e1571273c58ee2f720b4931c00428c4d9645bcdda"
+  },
+  {
    "path": "assets/doro-motion/frames/ebddf5b02011805cc5ee863da7f4bf07cccf5270f25da34a5372f0ecedfd4407.png",
    "bytes": 19676,
    "sha256": "ebddf5b02011805cc5ee863da7f4bf07cccf5270f25da34a5372f0ecedfd4407"
+  },
+  {
+   "path": "assets/doro-motion/frames/ebe44cd60b57a816e73c36c4cd0e0e4f91cd13d5190392474860ea67e1c5d208.png",
+   "bytes": 27487,
+   "sha256": "ebe44cd60b57a816e73c36c4cd0e0e4f91cd13d5190392474860ea67e1c5d208"
   },
   {
    "path": "assets/doro-motion/frames/ed1cf5a662e9a87efcae2d8b9f84c7837468f957039dde642fe3ee7189892275.png",
@@ -5407,6 +5887,11 @@
    "path": "assets/doro-motion/frames/eda5b114b392bbe87c23b640c1ec9e501ac7a38c7458c253397209dec03be8cc.png",
    "bytes": 22744,
    "sha256": "eda5b114b392bbe87c23b640c1ec9e501ac7a38c7458c253397209dec03be8cc"
+  },
+  {
+   "path": "assets/doro-motion/frames/edbc8ff3ded87d3dbad6a96bf0884e3b9ef84b605f8fcd77aa805bfafe9d1b09.png",
+   "bytes": 17948,
+   "sha256": "edbc8ff3ded87d3dbad6a96bf0884e3b9ef84b605f8fcd77aa805bfafe9d1b09"
   },
   {
    "path": "assets/doro-motion/frames/ee388482f41c1fbf324de595b52bc861768ab224cf5a45f1abe5a991d107a869.png",
@@ -5654,6 +6139,16 @@
    "sha256": "f90b41e080db93a6f27c28fca64ebfcdd2296f46ebcff9adcd4384c238a03ff3"
   },
   {
+   "path": "assets/doro-motion/frames/f924105c01767a0d3c67c85c46c0fdeb446dce0c4115bafbcc2e60138d9772ac.png",
+   "bytes": 104985,
+   "sha256": "f924105c01767a0d3c67c85c46c0fdeb446dce0c4115bafbcc2e60138d9772ac"
+  },
+  {
+   "path": "assets/doro-motion/frames/f93b8a242a9228159468c4e5d5ff6f193ed80887e0b4049158afa62ca47e2db5.png",
+   "bytes": 25346,
+   "sha256": "f93b8a242a9228159468c4e5d5ff6f193ed80887e0b4049158afa62ca47e2db5"
+  },
+  {
    "path": "assets/doro-motion/frames/f973b77a59a9afb3897c69a85b0903b9ec99866e197143b43b18b54b1c44d785.png",
    "bytes": 52056,
    "sha256": "f973b77a59a9afb3897c69a85b0903b9ec99866e197143b43b18b54b1c44d785"
@@ -5694,14 +6189,29 @@
    "sha256": "faf906a4110b3eac8cc4ffbb6963b4e020f3479023e593b8a50341f3181eaa2e"
   },
   {
+   "path": "assets/doro-motion/frames/fb0900bd410b8a551126986e1ff8a32fca51b4485db2749ce1ecf38f3b58948b.png",
+   "bytes": 71824,
+   "sha256": "fb0900bd410b8a551126986e1ff8a32fca51b4485db2749ce1ecf38f3b58948b"
+  },
+  {
    "path": "assets/doro-motion/frames/fb2f167176048101b8b9da72c710446ac8522a5ef7734053bba2a53671c3ed3e.png",
    "bytes": 20137,
    "sha256": "fb2f167176048101b8b9da72c710446ac8522a5ef7734053bba2a53671c3ed3e"
   },
   {
+   "path": "assets/doro-motion/frames/fb31c7cda0d623e87d5b9895fe70c0857b2f43e28144c42d7102596cc96a281c.png",
+   "bytes": 86412,
+   "sha256": "fb31c7cda0d623e87d5b9895fe70c0857b2f43e28144c42d7102596cc96a281c"
+  },
+  {
    "path": "assets/doro-motion/frames/fbb79a47c11b126754ab2a96b11ba09809d4f60674ccbfe9c3123f0c8bbdce1d.png",
    "bytes": 48225,
    "sha256": "fbb79a47c11b126754ab2a96b11ba09809d4f60674ccbfe9c3123f0c8bbdce1d"
+  },
+  {
+   "path": "assets/doro-motion/frames/fbb87ac14bf829b210c0d95be9f1b09981d957fe2c35c39c0bdd118a53e08113.png",
+   "bytes": 22789,
+   "sha256": "fbb87ac14bf829b210c0d95be9f1b09981d957fe2c35c39c0bdd118a53e08113"
   },
   {
    "path": "assets/doro-motion/frames/fc025adb9acde5eab82d66c3f7ca52d2edd40c5e0a4f1e7c9039983ae9e3fae4.png",
@@ -5767,6 +6277,11 @@
    "path": "assets/doro-motion/frames/ff084104ca1598d6355c19c523876123f44fd790b8ebec9c044cbef94b416726.png",
    "bytes": 39046,
    "sha256": "ff084104ca1598d6355c19c523876123f44fd790b8ebec9c044cbef94b416726"
+  },
+  {
+   "path": "assets/doro-motion/frames/ff26198a22f37e953be5aaca1548fecc62927ef91573255e5daa375b9db4c71e.png",
+   "bytes": 70953,
+   "sha256": "ff26198a22f37e953be5aaca1548fecc62927ef91573255e5daa375b9db4c71e"
   },
   {
    "path": "assets/doro-motion/frames/ff6d1e21320d337c33e2066b51b33d4262face26b88f03ffd64ac8b1f40b3fd5.png",

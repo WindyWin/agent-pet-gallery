@@ -1,0 +1,1709 @@
+{
+  "version": "1.1.5",
+  "local_archive_sha256": "22a602d9ed61edee8ac5a6a3207dab920ae3390f93513e1d2eaaa9bd23748197",
+  "minAppVersion": "0.18.9",
+  "retired_sequences": [
+    {
+      "path": "28738-doropleading-2255b2a9",
+      "state": "cue_attention",
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/9aaa1cd2a631924ad4a4df99459d7b5aaa50f66d80bd89a6ab27841e6ca8cc63.png",
+          "duration_ms": 1200
+        }
+      ],
+      "duration_ms": 1200
+    },
+    {
+      "path": "97824-dorothumbs-d10d04e6",
+      "state": "cue_turn_finished",
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/43282afc0f8052ae5cb764e8014d17d7e453a916f39667c53e0d1c98e1ea8f9b.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/b78125b08ec007416b85d13538377d8919d4a641fcf89ffcaf3354f61104a16a.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/97ca7c24d795b18c7829fdc298ddb586f2c0140b1f6a8ff74e3606f32f064097.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/2121103d61a8cabfacc04b1e9a9b50b5d0bfbf4148d12f962ee7fc287daea201.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/c66cc164c0d69345c83f87576c576ca78a71f9c889cfbfc9c9feaeace97523c9.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/a26ea4539cae7c86aae45f0b57ed555d1e16b17fb32cc6fe6e716b2d79d22716.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/b5e0de639de711396b986d9c05bc47cf8a9f6a930e6dddec0d2a2fad862c8ecd.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/9c5689aa6eae86c78f7545e8473fd1681d73b20348c54df77a428c33bb9f5e14.png",
+          "duration_ms": 100
+        }
+      ],
+      "duration_ms": 800
+    },
+    {
+      "path": "34346-dorozzz-8205c868",
+      "state": "cue_inactive",
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/8e8c696af8405735b94b6d37af470c21ec1b103f2d02e3e67c61f066a35b884e.png",
+          "duration_ms": 210
+        },
+        {
+          "path": "assets/doro-motion/frames/54fe8366e42f55dff77c2a9ef6a13bd91a680d809d01556224a5063e8b53bc70.png",
+          "duration_ms": 210
+        },
+        {
+          "path": "assets/doro-motion/frames/76f3a0dc5238c2aeeba1cb6f95388e226bcab37fb8abdbb6bd8e7a367c24452b.png",
+          "duration_ms": 210
+        },
+        {
+          "path": "assets/doro-motion/frames/dc44bb0e0bd242ff658e109f60e19948590ebf80208560842fd9157b442500cc.png",
+          "duration_ms": 210
+        },
+        {
+          "path": "assets/doro-motion/frames/d2b510ba534b1843d8255aa18e13e1cf3566d6e4fb80354696009e86563848c5.png",
+          "duration_ms": 210
+        },
+        {
+          "path": "assets/doro-motion/frames/231a967f30298f8b1cd25aad2416f6607d6f690cefa0257cd6f1b34341d7bb85.png",
+          "duration_ms": 210
+        },
+        {
+          "path": "assets/doro-motion/frames/c4edc0de598d3bdafc534504c32fa7ca9d2cee79142c1cc252d8624b2c283acb.png",
+          "duration_ms": 210
+        },
+        {
+          "path": "assets/doro-motion/frames/35ee4170262c0d03181fe8b5d146ec4807a3fa2b9a74d7a6f51e98536f1effbd.png",
+          "duration_ms": 210
+        }
+      ],
+      "duration_ms": 1680
+    },
+    {
+      "path": "43658-dorospiderb-dd285004",
+      "state": "cue_start",
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/9460729bf8e5df879f70babe3c67f63aa3e8d1c0392612f7a9c85d07576cf42f.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/4c40808594454dffb56f50c7296a6d8d5e3435cd2c5512b87d12100dd7607bff.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b3b603c91e38cb602d1d7aa5600db5113c9b607a3f13954de56cd3b757afaeb4.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/3e36d9a8387ce61fbd44a0a05a456300ca23fe118187f2dc09e2c2b1c2ef4a96.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/354bdcb6639888a379d3e2b7fc6378b4f09d9d76a778da8e25d7ef0bb2ea1f98.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/0af7bad5d48bed8344d1d41690e81f06cdcf453b166aae3a2649225ab7e0cf65.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/4df50059c79f8c570a169ba376a93d15439e0402ef15381789ed6775305952df.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/623eb1b643ac590b88f01f83d794c197d32bbba218f3e83c6429bb57f58fa6b3.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/68f43dc2202bc3b5eb5a51eee17f803afc17208a511d45b82465ce2e0b650659.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/f4fdd981081002381b04e10e40828ea94b15377502db28d66bebd729e12099c4.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/d1a2a6cdf9249ca636245aa7e46cd10c18f816a9ae308667e2dd9271af2930a9.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/869e078777ab62c9a143856dc3c81a52314f5d344bf6c4619eef58d53e1980c5.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b35937b2987f65e162b032f0db153e11ffb1f0dcfd4bdddb3d5caf0613f0fc8f.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/0c786a61012a68fd21f6894781ab4ed7a166233b2ed404cd5640e31b8515f0c4.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/19cb639edb4c021d3ceae163140d5a7eb81e4ca05161a7dfe55bc5a47f15e5b9.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/f7b49b4a1314d678254334624e53172ecf9e71d4877082164b5d9a00614c5808.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/09a8ec055b6bafcd9c59f5e232c4ee481fd2727c913bc5330a4f0b90cbda1e0a.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/c4571d11a9554e40501097591e7f8ecff199a67f5d1a4628df0cbe9d51848c62.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/02f3e4adc07f1402ec96c428e5843dbd633ca73fa1341adedd11b4f2dc0299a5.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/02e618c386099ca54592993ff756da5e164905426278b448b81257989a9bcb2f.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/17a02f6be49aa2217d552e4ffaf4ffd4a37de600c0148a79118248de53d7359b.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/fd41ac991c0d63882db65d8648b8081c15272871ffb7d2f4f348b9cf03245168.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/7bd6eee3787093783306e09bf01fe277f06d6149ac0b3360ecdc06416127bfb4.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/d4c193f0b0202a962d4b54554e13e2a0eeac6ae191e8c3ddb7fc48ebc54edcb1.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b4a4f3d3b3c7fab38250a72a1f37c927a49a84ca2c612921e2161401eea33786.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/1a495f15e82d57980aa72f67f302011adeb5f41a8a17f0dc5e5e5a5fcf5b5574.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/c02db0e65f66245d088f5c9f6c96864b2e3d4148648a1a10269d5a4b874291a8.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/563c15ab954fa3452e0299ae919d9cd7d2c1313e8759dfc5b6c5a4f52322d9c9.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/70bfd7c6f1016708f4c82bad22060a711ec01d6d8b6f284a68aa8f1f14ffa4ed.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/7f3f5189b06ae51327200ee6e61807321b598806facab094bdd8ad6301defcea.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/d1aef54caad4d1ca1e08ab326710f6340741a54a1cbdb0f655416d5504003f72.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/673229c1f41596d0888e973f1e60e555e8e3bfcac6f362a979359f107881b079.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/acfd10501410fbad33a65b18ba298ff917f7f2ef057d2fbfbcc4a75e3a5aaf75.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/bd8441d314df8080fcb3fb3c878c036bb1eb9c86639e365d0e24dc5626b26d6a.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/484c458d6f447554eb2b6fd689429a3cc24e272fddc10ccaed54ed5de774f1c2.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/c517b9bcd8ace5bdf6e8cb8082b2183abf4700e28b05d9755f7146847271d05d.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/c6e752fa63a2e22443e2c431640fe0d575d3ca082bdb0abbcb75de6d3b9417fd.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/5f1ce18db76764293a40fcee4b36a484fb656b749b14a066ed49f0389f978acd.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/e5f27355162366ddbeddd1e635974af3cc0c899abaf1f8916d7dea652588670f.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/951d0db9e9c1e379d4f5588c6c28d0d0610a94a6331f288165fb10cdac4cb693.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/a0f62b81eb9fa729567e60eda88d0e715b7352f01e64f16e1d727a97727b0df9.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/dd3dcd7a36e822cc3120b52600f5787f2ec5a1fad75a049567147ae1795c0dec.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/54881d78c5478d1f427730883f0c9753fd34db35f2e0f1066745313e328d87aa.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/c6a163a615adbf37f2b8bdcb9756f127037b33a514fcf3a39a4521ec7c612e70.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b7e4f56b00ff2f51330c6738e8b12badf43fa65ec35852d055477f92c08d45de.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/a6893d9dd4e1b4d17c7d4b512dd5918cb59f898032b5a0f7de95a4ccf4a4da5b.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/c8d27ee9d7cfaed5838a274e3886515c8be1f583e8304de2be66e880fd196eda.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/cf15464e4762a9c01d0dc7199be69e4896f8e546db9bed55e7024ca23a81ea55.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/f3c0d63aa7bed19be093e13ffec1de0036594b581ee90176c74685b49fc44d2d.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/e47dc24eea40da408f8997bc514b31c92929dd59158d12d003c4c29393efe90d.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/a82e94750729672acc52e2fe922d915842da6c4dc79327bf0a5c3a21d0d75ad7.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/6e4be30f3f4a4b4b5f703f80a02a012768e2703e851db3a58cc4409d0fec96ef.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/f3c0d63aa7bed19be093e13ffec1de0036594b581ee90176c74685b49fc44d2d.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/26a7402ef574415205cf97e2a6f5f3207a304e95620de583c22e7fcab4d91227.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/7707a962ff4658fac688865746a947c3f67e8f5dc0895aacf195430d9e425f19.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/e47dc24eea40da408f8997bc514b31c92929dd59158d12d003c4c29393efe90d.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/65eef408f39e51b12893489a7c1cb83b40e5c3b92c1a76f7b4d62b26679e97b3.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/7042199ccd95ae8bad295cc51d5446323d37bbcd1b36df6db33bcdad1dc99db5.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/27836f1ce75e72f363f8fc0eab4d650b7631ca77cf16440069bf142c04eb7600.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/66cc72bc8337392d0f9955b18434af40a1f41d90a96bc694a5823ae42fbd80b1.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/58d25f1bdc5c98857c5add14ecd9f83318240994fecaad9304f1103aec8fb3b4.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/feb677f1086a932e6e3b2ea7319a0c628b28c1c262f0db8faeb6ef1ed0b0bbfb.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/99a898acf6337e449cb738fb2d42c28ad38d8fcfc15e97d557a52934da619a1f.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/149cada66b27c7b69fb8ca536d903718461dfa53e26219891644278f02485a62.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/5968646118d3226b8f9b44a6831d23493616cc49d4881e4d267b727ff29e0ec5.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/0a1c36ee4d0493d75c21926134de8eaf6daa7cbd97c54310a0c46c9d40e9d019.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/7e8bcda968bf44ab1a2ad518f211dd1d62bc0f7c2e93d00cd94c91b9d4cdb4e6.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/db6f846b426b8edb18542fd28849b1caa98f2c62a08dc47f85866b6cbf91d37a.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/90a4c0fe91c46cfdb279c3260ccde277601c7d8f3fdf58ab1564df581164b044.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/fef1c5e80692156139d6779327de6e2645bdbc6c439338e31f3accc46a9aac16.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/6b5a62dd9cacdc09098096d8c8bf6040795377fb98a3489393a5b850bec2ac11.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/dbf5c4655ad8d938748ad2eb90b06de0ff56a05f26a632ca73255d1725257158.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/e11ab50baa934057ed3644e31ae77e2609880fe15f0942f0d9e9148abb1bf0e7.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/a6ef54a94181ce20e00a5a546096a8842c1e9a9c2fc47a090e717e11653311e2.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/901dd47d866c4e388daf6817aec8ed8dbac2a81f139d5ce58513e5625cbcfcc4.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/6370bd680c8af37ad848a4cd26bf13ae6a773419d753e14ce0ee93b476f6e385.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/4fc84932f3384ac0a6d5fad2ebf0274a8f535b8e1b200daccb8935e25df4a6bd.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/7500e9f4f9bc49075d0c6c41606d03cbaf31cf2cb23ebf24d695d3f373e789b6.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b2756911b20906b777c322443306ef11befc92d896a16377c57f172c2d1a9529.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/3f3647626146b3f940e3ee20471ce1e56ac4e8d56b800e153b8b4d9a96bcb7f1.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/47bac5a51dab1c7e1773eea1c8ffbfc43243551596187a29b6c0bf0a5b9950ae.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/9cfd964315edeba83812dac6ecf382c28640eea1c397769878b8607eb60478f8.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/21241330b2b6166be4d0ff7a06d5009900dbe1ba0875d8d118aa2b7d6c4d5429.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/68d6008dba2f5d242a758fdf1a003bd4f46f1df7705ea74946c635a22bb8208b.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/7bb6cc0ccad8b67587cc0ca5fb657adedac08f7f40280009e815c6a4b02f99d5.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/21778af5a76f33e572285528b216f803193fc740405f9d21173309409338b6d2.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/1f97e67f5dfd8e7fd07ae2935868cb992ee624e1ff664c904ccc9e519f302b30.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/3c08c1c8608c58a747078ebe5e4ed7f4764cba683af45f90daa4c9ef02ae0fff.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/38531803e305de66d15e150412f9327577377a021fd95ca52f7bbdbefd9771b1.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/13d22dd5acc7aae950c91730ea66e68f92610aa90b7da9f482290f0e21b36007.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/78c6a740cfec563a5accbc51b7f37ab660ac90663ca9731573535c267b442c18.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/87ccba5484439a8af08b029304125d93be41a62452f29401c066f500aeb2ecf9.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/ae3f9824e9309da6bf21f0813f3ef50abec2feb3f1dee20ddf55724bf9611025.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/748c0d852738ed9ae85589ee2473aab72c70f6396cae2b7f38a78c0127fcf6f4.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/59997a625cb23d444f0c15e555f2b7646cc6087529033a4cf3b2c0399ccab308.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/8eba26063ba6a436a5e56e2a1a6088f73f19b54e792350a3896082cabce9043d.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/e089eaad53ba9231ee333ce25530b572c96353dcadc176966c232a9bbe91c989.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/83623a0ca058b99aed07482ff14a217153d85abca9cad9b8e511523b230672eb.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "assets/doro-motion/frames/0eba795448fb827afdcf011347726016de2691d7af2ba331052ba4a88858aa9f.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "assets/doro-motion/frames/d6e45acdb9ed7dfdf1bc174f4378138300856d6ffb341deb495a69af4937e34a.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/565bf00f68d5afd7494373f9a06687ba4f54e9c7624a1d71cd926c90c67bf58b.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/6bfc02a4d4c6eae37cfbd5d2efcee3b00e9f53e08eda79da24609f61fb3acdae.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/9f69ba75475702d29248a3f5bd35285abc75731e2a7c853fd39307372e98b8df.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "assets/doro-motion/frames/4e1ae444c5c16933c9fef844e58f84b20b438934855937ffa4aee57bf64ac06e.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/339df9915244eedd20951a04938dadfa2a54d5c6efefacc937154682b954edad.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/ead95339d9b4b1697f21fd6fb7689ec226d7ec9a7df6a2924c838a41e71809d6.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/646821b2f0f9395e6014b9898eeaeef6fd38034f8b3e621696b8553b108fa021.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "assets/doro-motion/frames/601899f82a24a4a346a30d5b171e8cbcf9b3ea73ca5df4c698c866353e6d637f.png",
+          "duration_ms": 20
+        }
+      ],
+      "duration_ms": 2240
+    },
+    {
+      "path": "78938-dorospiderc-9cb75e3a",
+      "state": "cue_start",
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/927f77203a7c309eaf399bb23d522f68abc474b85a646a3b6b2211ed560b9225.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/4727ac092579c53c4a902255bf3b8db6f93fe18f0bef58d17acdc676234f9123.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/d733aed974f74678cecab203952793a966f268f5572ff083e5ca3d2eadca7149.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/f52e2850b5ebf7c33fa2b3747f201f97445bcf01d2ab8a53a1f6610b4ebc6fcd.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/1ab626169633e0becaf413e572d080af654dd420efa2dbf9a6af584c7d7229cb.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/df4c855ef3e4e600b8f16ea48673afeedcb0e157b5168a05b43a9a1125657a8e.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/0cbb376977f01123fef3ed51a57388e9fb00d5aa2992393891a7a463fdb392bb.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/24bf4f99fda9491ad9c27c3cf32a18bcdf3a3d8d2b7035a6f9896082ef557723.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/a9e2971480ed5e8ad7e9c14f2c9109ebabf871203fe3de6c8c4d0289b3cbadd2.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/389a7e436d690a9e4f57e320cc48c19156f9dc8a0f8f7ae6d768a646ee2f0059.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/cca231d5f59ff99a8e98f73f1e792c8a88e563e9123ab466ebdb35325109f870.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b50cb100eaba5f9d82cf1c9b12d374f6505d2225fc287a044cbe9883e4fa4b4d.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/1302f06c8f32b145db6dcd78b124a8e50717d36aeecea965a144fd01ec497b9f.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b8c729a914784c9f081776417c095cd475075aa1de66674c69674a2f5b73fc8e.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/a5fb170e92e764f70bc81ebd5660a3791c7d0a80d69cae36be9c446803e9698f.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/6257fd99745fb3cea3538b66ba57aa6697f76bb2e4862ff50c035d37e7647dc6.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/447b1b79369f4439c134b61f4cf64b13ec053007e644295e8040f6285ba2cf18.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/254467535d72e584dbc99b83898508b728fd8c1680838bab4ab04bd1b8a671a8.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/92e831b7646dab99a68da3844f26fbffba79bfab9fcb262da76425afb24990fc.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/8b5052bb924147c1edb8672b4812f9ea7d64d542b300170ab609da939789e888.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/8169f90e1b363b18dc26263b074e3ee9245fb6b3ad1654d965944443c6ad0dd6.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/6ed9d1d7ad0162f5e6c9320e4d596ae86f1dfbfd3d7a6eccf123eafc5af3262c.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/81b47e06ac304c574d62c7366f4af985be8a0f174c51c165915d848541c60088.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/c1842f48ee64a86884499c45cd8faa71e7d19d0b066ce4aee68e80633f23da8e.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/d24520abd801a8e4a43ffc94ba7ae885ff7ee447482c46682240fb06ea29145b.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/83c4b7f1c5387cd36355d026d3cb32525394d4ecf3ad3eeac7d690ab14ab060c.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b666d3abb93f21b76088af570da295b56d1189e3b334dfac34541cc84dcbe78b.png",
+          "duration_ms": 1080
+        },
+        {
+          "path": "assets/doro-motion/frames/49cb78bba021b82537450a86be4859e470a10baf8ce41a7e8d4a68e15db25a4d.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/2c6bf75eaebd334526764a5837fcdce4ca3aef27d80e3547b4f933db80b5ef25.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/8212f9a1885ca5653eca67a60a27dafc7d2a5d460366ea06fc27172260dd16b9.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/5d1a127b0cd24ee209a9aefcc44c089c70223e8120b3b35008a18dbde594d48c.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/f654764de8f494f6cbe81a627ced42cfd76f68cb87f15b48b63ccc5916d4f781.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/3aa4345b3cef2e0769699a434d109643f66675445a7f63ea1118da594584e4dd.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/4d2dfcbd3a66d9d39a55fd1324ac19842b284062e88cad5ff28510c59fc118d0.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/13169aeda20f1cc87aeafa26094d6924777f568232d2effa8f06adc69851c25b.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/f3e922dfc598dc4d1f51905128c88b19782541235d27deb78aef7b9bea7b8188.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/f669c4d177ffd8383a8fe53b5f303659bb730ac0b483e8510043bfeb3d9cd883.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/328f964767794bd18d4f8cd2b1b9c930350cede34a036cf07287dbce0d907c6a.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/611a4d649a8492d24a29892ca3263c51745aa9b3afb737f2ded35718ea478a0f.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b729594a1642aa9235aa6b12a366a42fc956450bfbd98142a452a8eb2b8ebd7d.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/ae0e501cf7ad2f077e59fc181a1aed1b2df0b11d550f5115ffa791d10c5532e0.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/8422f1fee09eb4129298e4454efc09479db581857efa91f5d7abe47ba673575a.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/81017c01f55c3547d79fb7b2dd62975766e1ff0d7ee80259d171d7f061cabae2.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/36fe3375ce1d1fe6325bd2f20baa35f6bb390421eff11a93216b763b28713110.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/757685c795ba3749dad143a7b907d8755178437a6dbc18a036efc787a0ecefc5.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "assets/doro-motion/frames/3d4c3c61da742809f0fc0666cd83b1dc9ba9bad6aba56601d622414540c33283.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "assets/doro-motion/frames/36fe3375ce1d1fe6325bd2f20baa35f6bb390421eff11a93216b763b28713110.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/3d4c3c61da742809f0fc0666cd83b1dc9ba9bad6aba56601d622414540c33283.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/757685c795ba3749dad143a7b907d8755178437a6dbc18a036efc787a0ecefc5.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/36fe3375ce1d1fe6325bd2f20baa35f6bb390421eff11a93216b763b28713110.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "assets/doro-motion/frames/757685c795ba3749dad143a7b907d8755178437a6dbc18a036efc787a0ecefc5.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/3d4c3c61da742809f0fc0666cd83b1dc9ba9bad6aba56601d622414540c33283.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/927f77203a7c309eaf399bb23d522f68abc474b85a646a3b6b2211ed560b9225.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/3d4c3c61da742809f0fc0666cd83b1dc9ba9bad6aba56601d622414540c33283.png",
+          "duration_ms": 40
+        },
+        {
+          "path": "assets/doro-motion/frames/36fe3375ce1d1fe6325bd2f20baa35f6bb390421eff11a93216b763b28713110.png",
+          "duration_ms": 20
+        }
+      ],
+      "duration_ms": 2240
+    },
+    {
+      "path": "56490-doroflop1-2096936a",
+      "state": "cue_quit",
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/e0d692806fe4f66881457b7779706233d68ad1d3099c5769b365b8ca14c708df.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/787bff7fbebe77ec4e79cea111093da5a3d9b33cd39fc133f887b1466a7cdbb3.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/35de8572a2fe30376fc8d350e643b8732712b48a9d54718fb337ba74d4157d9a.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/bf4923cf863ced30daaceffff6885add81c90653137992cb2a6b0a91f5ccf95f.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/af6608fb24c1cbac75a3e3d87bd84445a87515ccfc7b1257d9d328aae7b1b503.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/b39e9fa9680ccd1679eac28c04779218892c941eaa588c0b2c9b882570e9fe33.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/efb103dcb5947802c388427b01a7949cf5742e43e5ba24c3b5fc65c9b4b161eb.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/07b0a20da93ea194c35528cc6f0c32e4acf4b9a46be73369ef60f38190bd9927.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/1f8ee9ad4b969007cd161945a054cc94167fbc95121d396a80844c2eb8113302.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/a4851418ef26a1390b5427855f9a4962a8cdac7011dc03d51daf0a414dd4b7e2.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/4163fdb7afbb75af6bcc277d1514cfd96e35578b5dca72f2eab30b5228ffb075.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/4feb18700a820ef6c41037eafc964285082aeb80376e1a5cb13c2410d2c2e2cd.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/666c5f61b8ef97e72caed2751c0c355b58f39b07aeed8b0a62239e388ae1f0b7.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/0785d6df805790835d24b755edf9a32905a5bee39d88edad32228ceb373be494.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/dcbeeba77399ec2179d52faffddd55664a9247a96a3194d26269a45ddd18f836.png",
+          "duration_ms": 20
+        }
+      ],
+      "duration_ms": 300
+    },
+    {
+      "path": "72024-dorobeg-7511b53d",
+      "state": "cue_quit",
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/b0b894b36216adea674f215691953bf3743b0eb7fdd3f109f7c290391535dbbb.png",
+          "duration_ms": 1200
+        }
+      ],
+      "duration_ms": 1200
+    },
+    {
+      "path": "54998-dorodance-5573950a",
+      "state": "cue_long_turn_1",
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/36a720b392dab96f1d5dda0cdb875523b22e403b95f681e6f48997a42afc9f48.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/e75360ae7597524500d2946857d512e935b2647932118666f2ed91577be37bb9.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/59e4ed7d45d1923b8650886044be246f631f6e50c83153788df5d1695b9a6249.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/57629cc9af9b75036000ca08cfc26cc19b83c756fd777a645a24d176928cde1c.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/909ecd6bac1c8008853d715bfd4268ad04dc7c97589fa9130e52ac7c3b66741a.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/435198e23e0d40977b112e2ddb84ed17482fab4ec1feef9fa53d4531f37d5698.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/6baee73bfd89c38ff0f114b830eb6b64e77c8211fbb575f0b1297d0b91c83e43.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/8846ef97ce4b99bb3283a1cb8f6afa849e5d69aa17d0a1c09ec8468352312fc3.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/7b7d9f8ac623d580def9d26fa8336746c73ddc9ce9816aa4c751d50b5667efeb.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/1249d7eabf14d9bdefc71771d7af775ad3b7b8f185029d3fa3ccde8fd14f5750.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/94b125c944450427bb31e53f7cdb8d280ca6989a96fdeb4bdf175fc7909d94db.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/5e0692a6a48b04921dabac037b2fac483d27aed5681e10d04c2cfd3a6ed4590b.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/68416f38f75e883df06a675324ef498ee74a501ea1ee2ff09f7b462fef5b1031.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/4801a3fa57fd1b9a8d703cfe5423ffb935dcfa370b71b76e9e03b4b9cb4ef19e.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/039d59adfd0f8143f13d994db4227a5b71c067aabdf909317786e342219dd5e8.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/489701c658fe0267debc468c9e63e770fdee2a9524ccfcdbaac7f89a4fd4b0c2.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/9e46e68e6e02983ea91f8285aa970f71e094e9bcbd3b52584fc0191e23ce3bdd.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/db7f6549ce82ac5b766cce743a55d147482ff2f42a2c8c14f76ec07f31d34f13.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/72d1497fd170d2c4345c9ea1bdef2c4e4b1457490c0b664315d2c7497977aeaa.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/7fbb405176091f9df1326137915a704fdac49f1ad563eeff04b9f7e0c4e3d9c0.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/ec28e56a29c5427d6d6033b603aee1a99febed0a3f26828e1322af3a1a235aa0.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/7583e4ad031d7faff14e1734391d031cf8083d1a41adb4f0c4119a380a9c1c3e.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/a15db7d699f26f10a208f3b542a92d54311a7fbc6307033ff5351ef161f208d8.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/9d965b796fca0a64dec8ecf6c33651a72a7cb97a9b96e85223b3282990c5cf70.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/724349a36998472d352693ed0348b146c7bc54b49a6e3c2830e48148313e7646.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/a6c0f8c8a03b4e62ac16eed55b1ae10b856f1543537cfb75223129e10af75079.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/66eee4282c872845d8739a5a9ddc87bf067e219214ab4c97d2de9b2e1e7facca.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/1b3f1b4bc93aa3ea4dee88ac95e8293933473285a59c6f020088d4a2cd557559.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/3625f85b312a58462c9b0d63cdfff5373471abacbe899af34e5fd2fa019bcbb3.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/445e5110c012e406fa0df0cbbd5a2e58eb2fa018558dd15c7937f9c3117dc1a5.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/58ff6d1cec58645cf1114489b804611ccaa6162f67843f651f9c8d3743e21369.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/7e9d23f584835eee1cbf99715fd357b7860f08bcd4f8f3ea97dd54fb47de77aa.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/157fc1eb1e57f439fbe1033a5b72d06b5eb11dbc5d71c6b4bdddda83f588eec4.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/df58f878938e113f8967228b06ee1400b84ec493b3f3271b5996bddb712051d9.png",
+          "duration_ms": 300
+        },
+        {
+          "path": "assets/doro-motion/frames/5df75c1bc9d4318367e5ec96c52d2b1bcee8499f91d1581e6dd59b574c9ed7a6.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/fe64f3036143220b3d7bc0a4b4ea684e941ea47bad8dc01470ff60d7a51b62f7.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/6efe78cba4a885d0183b13eb21ba8a50ac336a03f5283c88fa03ac1ee029ddcd.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/2ea1aa41c7437f4ec7f7973deb27e87482b5c5b15e283793ab2a526132e8748b.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/ffda5f1fbd7f9b4471410106a379714e1d1c30b2ee7c63b5c450f64ca4f0623c.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/aa286476973b1bc38527acbe5da62d2f2edd52fec95eb4776c4750dd8b8c3c1d.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/d10a0720ea01ce60ce665cac61541c7f28186e2859e201da538fac537b249ce7.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/e3f5b4531b1c0501f87f8b8d2a1631de960579f783e71fcb2f80f81bf670bc17.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/6cabd02408991cba1c1e9602df47b2aa3189a4a2c6b185f743430076357fe96f.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/6923b9452de68b9ff6321dcd8459435b4cbc0cd7eaa1b93abff231a6c33ef31b.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/b190e41b9f137dbe385458212d4f38534e710503f1952c6876efbb6b36388352.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/d1448779a3c44d8659395e5582fda72baa90a84e20ed38979eb5a8be723fa12d.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/2aa3243ffd0515c90d2b74f8677b35608593cd4d741975213ba77c78aeea18db.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/918d080092fba82ef1a37792d679c63434a8ec9534da661e367bf4087a98ecf3.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/108edb3f35d5a7101e822fbb6c71867c3b4ab9b5749cd66176f8fa602d9b1a1f.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/24e46e8279dc4139d63d020d5686db0a576525987e074eccc935d485de6fc521.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/4cb28b2895753e789255454e72017c5d5adb954e8c95fee3b0531776508be10a.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/0c54ceaaff23e93e56359bc84d116bf8d07a57d795c66ef6e909d75433f9713c.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/0b6ffcd3160f6c6eb9d506c7e7e6047610531ae0440689dd4880cd1425da27e8.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/b6e58f198a9b1f36aebf1697c6d7f513e956fb8375e3561de9446dc2c56f8dc2.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/4f1b20aa74ff4ac109d9465b9b8a1456485ecd1d3d714464ca000eb61caec820.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/6a82e7296e99ade83a7d4b6e1d8365e09b7d277ba9c126d9df84abc8f0ea273c.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/aae932ca8a482fd6286cdba473d3e96376f0232613fc7aa7c364c0e26d385821.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/b341aaeac58ff6b2edd83ce1506dc309b7228d010d196e4ac090e820b69d6435.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/e73da68825be2a4a9b4f2b17f4f4fbc10e473a0c642a8625c80a09c1e1862fd0.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/b6eee9e5e4554e8a03555f5462b21b0f0e004aaa896635f72b00051a563a36cc.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/2d0e5e81fa6e079bfe35a4f44d489cdb45ce625d8c5027e59548e2b609e7d505.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/98ca0c2fda7e6f9332d6a7887edcfc42329d53c6328a8b7dc0b3b119595f7c6d.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/abd667b75bee046ba2f3c440b80cd4a2293b035a4fe9e6fe53d789149cff3b7b.png",
+          "duration_ms": 200
+        },
+        {
+          "path": "assets/doro-motion/frames/62b9a48922cea85f6d66155af0b97195dd0cb66c7196c0eb245ed2dde3b41ee3.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/22e3d952e1d47c844ef5fd4da5f772dad8c18e3ef26072318ae47d80cbb176e0.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/01781749bc0dcc48c770a1a75b5f202163899a9a171e1e4efd700db1b1f790ed.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/101495dc85f2f0b8c127f8a1467e5034020fe6f3694ab8906d95782124f5e2b3.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/8c76fe7ef1c226dd7f55848279fed53843e42b9b7d804c7dca5d1e80f1f03d14.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/aa8aed9d00b3701f1be553872eec0c0549e2509923d956123b9ca40fcb817fb2.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/f32e860b46c154c7f60dce995745d02b33275abd59f6283f498f309adb24911b.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/7e8d47de3115362a5b4e8d2e5d71cbe2e0f24bf1321917d9ccced1f8da71c973.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/3f3d3b61da752cbbb3f6e6e1b47865b91d0ca55e2b925ad080b35859f5423674.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/6a6674167c8656787956c78b1556651b97106496bb24357ee11ae31eaa766cfa.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/46cacced6339e9106a991a2c7ed015a2a76b0b8c0b361b31e9fdc11d89ba8876.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/c2464da4e15ab69808c9d3950213fd37443d41ebbaa1ad02ad8029652a444131.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/ac5fe07c012c30fc7435938f797481644359e9a716ead1e2df5860474cd9336d.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/602c04e9623ee427daa6d59965a0842356fdd250807ca1540feaaec4d3340abf.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/404f85b11be16e29bf0eb112f42d2cea591b6d42f1bffd638343c83e674c4c2b.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/3d850f4b8698307faa1d8d00eef4796786dd990e3664fc09015014fa05c4d1d8.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/9e7c4efde17af9cd64e8d457c19da4086cfefd1c2fcf619982f56c7cd2a78e24.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/a2ac82b7b70a0d58977fd41426240975d23fa2da0ad0f3e790db7b622a141d67.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/145db7faa4031d30423334cff57d6375a0b3c8eaefa01823b201c153c18f7285.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/c53adb531632bf80347daac953f8ae1cd3aa00b5614af6259d337ead8c393c15.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/bdb227705ecff95935515b99d604bd1910dec1e1193ecd7f42567a3202ad8645.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/06ba0c8c783848d23eba42372fcc70ecc311d6f11bff5366fc2e9925799964c9.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/9ccf92b9a7620bb068b2f0b771e42b2409ea65d7aeaa19898b00127f0f53c4d8.png",
+          "duration_ms": 100
+        }
+      ],
+      "duration_ms": 8900
+    },
+    {
+      "path": "59123-dorowine-08397dc5",
+      "state": "cue_birthday_2",
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/4b62c3b8125dbf3dd1cf3308249e9ae0ec4b199b439d3d2debab62fb429e20ec.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/6fc8a3b2c7d542071e107273c9add45da27df8c96b78bb3db92f90a2c87b6145.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/c7b61cc416d18218678ee671c761b3cc7c7bc9d97b098c127faf4e81543490ba.png",
+          "duration_ms": 90
+        },
+        {
+          "path": "assets/doro-motion/frames/b8a3f80a654878855c8582376362bff35ecaf49c7e878ac0a3f49a9345430e82.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/29ab70bc623eba745653c45e3543309ac701de5536040621297c0df75b2735d7.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/4698b9e85b9836e2d3573c5e2ebfd97e91e620ee446656c472833cbe49ae223c.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/37f2569c4a3cde9888443c362fd4c607d2238ff96686531457861704478b0ad6.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/35af03c20b0c87d59af31a086d72477c3d6fa82c4b204983fc7883f2a09f6a17.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/ceb9569ca1d97aef2d365f31ab01049bd234920e8f048702da03a2d9b51b88af.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/dbbf490c6cf706602224cee31c6a7361d85ba2e9672a6d0d11d019078bac8411.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/302fae7c81861122a7bd498d4f5a856b2390b9cc2c3a5f2cbeba3480e881e2a9.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/56f11997536d4e876fd7055555798c01d5226cdfc548f1a939b5e5efc4e140d5.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/e61c9b79198ee38748a80b54d013162077d59b8bf2989dce63d8b8998526de19.png",
+          "duration_ms": 90
+        },
+        {
+          "path": "assets/doro-motion/frames/555c583467b4b0d3d7ddbd0406b2825342deba12d1f0824aad83d77d13e4c617.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/12d8ca88990a2400e47b39225162edbfcccedf82456e8d4ec10db3ed93b15cfb.png",
+          "duration_ms": 60
+        }
+      ],
+      "duration_ms": 1000
+    },
+    {
+      "path": "line-think-start",
+      "state": "cue_thinking",
+      "duration_ms": 220,
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/02b43367e7d837d7d60d05f932b6103f3ce680a71e1559303a71e50947812f41.png",
+          "duration_ms": 110
+        },
+        {
+          "path": "assets/doro-motion/frames/deada90c256e8960d911c4d252a889272507c966d7184bd52400dab9a0996bd5.png",
+          "duration_ms": 110
+        }
+      ]
+    },
+    {
+      "path": "line-think-loop",
+      "state": "cue_thinking",
+      "duration_ms": 500,
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/c0da9966267ba73c45ebb6e80ade65e04705b533f71434d8fb892323e3320643.png",
+          "duration_ms": 50
+        },
+        {
+          "path": "assets/doro-motion/frames/6f230a00fcc5f83227cf6b6c9a3d3f388c6c3bad070bd9a17be4c67dc5492e0f.png",
+          "duration_ms": 50
+        },
+        {
+          "path": "assets/doro-motion/frames/eea10b7df8476bd72145e3a27fece4a27b293fd189c6d1826f73fc72d42ae388.png",
+          "duration_ms": 100
+        },
+        {
+          "path": "assets/doro-motion/frames/a08f58fef7e72c7c68b8281fbf3a925d8b11289a3ca67b13855604caf419c22b.png",
+          "duration_ms": 50
+        },
+        {
+          "path": "assets/doro-motion/frames/322698bec67819eb9b7ae14a712a39a0b7d17915405040b444d8f7f616497cc9.png",
+          "duration_ms": 50
+        },
+        {
+          "path": "assets/doro-motion/frames/6945210534aea5186fe8d5a0c4dee5e12a3a815d65767de53cd84999840baaef.png",
+          "duration_ms": 50
+        },
+        {
+          "path": "assets/doro-motion/frames/29f6a6700a04d1854c30c1400c056bf4239c7e30e60cbe051efa9d22245fbd76.png",
+          "duration_ms": 50
+        },
+        {
+          "path": "assets/doro-motion/frames/fbb79a47c11b126754ab2a96b11ba09809d4f60674ccbfe9c3123f0c8bbdce1d.png",
+          "duration_ms": 100
+        }
+      ]
+    },
+    {
+      "path": "line-think-end",
+      "state": "cue_thinking",
+      "duration_ms": 220,
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/deada90c256e8960d911c4d252a889272507c966d7184bd52400dab9a0996bd5.png",
+          "duration_ms": 110
+        },
+        {
+          "path": "assets/doro-motion/frames/02b43367e7d837d7d60d05f932b6103f3ce680a71e1559303a71e50947812f41.png",
+          "duration_ms": 110
+        }
+      ]
+    },
+    {
+      "path": "original-fall-left-end",
+      "state": "cue_drag",
+      "duration_ms": 350,
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/e142883c20fa3fd0582912eb7e3e0897690fc41e2665aa519d14e3d2525c98a5.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/024521a61c1ed3622d06df2f89cfce77a5db06110ea5b9683f4f8051d8177fb0.png",
+          "duration_ms": 80
+        },
+        {
+          "path": "assets/doro-motion/frames/41d677e7bec1114e58c773353122ba3bdd8d517aa25a90f30a9786f4f913e88b.png",
+          "duration_ms": 80
+        },
+        {
+          "path": "assets/doro-motion/frames/a09f0b0a2a887aa905b96850d5f8dd3df6cc389bfc2dd42d718d15bb00d18972.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/29eb029971cb5e9134cc8b3c23c9086bd189a72e89fe8f6b68ceea1ce3890168.png",
+          "duration_ms": 50
+        },
+        {
+          "path": "assets/doro-motion/frames/9a49082115b4e7182b63e630f2300422a38630562cb8befd78ba0ee9eacf2959.png",
+          "duration_ms": 60
+        }
+      ]
+    },
+    {
+      "path": "original-fall-right-end",
+      "state": "cue_drag",
+      "duration_ms": 350,
+      "frames": [
+        {
+          "path": "assets/doro-motion/frames/f8215138b12ba1080581425b93ef277af915754a68ccb29d65e8b53f0366563c.png",
+          "duration_ms": 20
+        },
+        {
+          "path": "assets/doro-motion/frames/8e080acb8175959615ec3816cce47aeedf186b267c530b2fb14c915ae978cb56.png",
+          "duration_ms": 80
+        },
+        {
+          "path": "assets/doro-motion/frames/4292234ff9ef51e4ada4e473c3aba7e82a8f08e32d23f52ca1cc79c5e97d81c4.png",
+          "duration_ms": 80
+        },
+        {
+          "path": "assets/doro-motion/frames/a09f0b0a2a887aa905b96850d5f8dd3df6cc389bfc2dd42d718d15bb00d18972.png",
+          "duration_ms": 60
+        },
+        {
+          "path": "assets/doro-motion/frames/29eb029971cb5e9134cc8b3c23c9086bd189a72e89fe8f6b68ceea1ce3890168.png",
+          "duration_ms": 50
+        },
+        {
+          "path": "assets/doro-motion/frames/9a49082115b4e7182b63e630f2300422a38630562cb8befd78ba0ee9eacf2959.png",
+          "duration_ms": 60
+        }
+      ]
+    }
+  ],
+  "retired_frame_paths": [
+    "assets/doro-motion/frames/01781749bc0dcc48c770a1a75b5f202163899a9a171e1e4efd700db1b1f790ed.png",
+    "assets/doro-motion/frames/024521a61c1ed3622d06df2f89cfce77a5db06110ea5b9683f4f8051d8177fb0.png",
+    "assets/doro-motion/frames/02e618c386099ca54592993ff756da5e164905426278b448b81257989a9bcb2f.png",
+    "assets/doro-motion/frames/02f3e4adc07f1402ec96c428e5843dbd633ca73fa1341adedd11b4f2dc0299a5.png",
+    "assets/doro-motion/frames/039d59adfd0f8143f13d994db4227a5b71c067aabdf909317786e342219dd5e8.png",
+    "assets/doro-motion/frames/06ba0c8c783848d23eba42372fcc70ecc311d6f11bff5366fc2e9925799964c9.png",
+    "assets/doro-motion/frames/09a8ec055b6bafcd9c59f5e232c4ee481fd2727c913bc5330a4f0b90cbda1e0a.png",
+    "assets/doro-motion/frames/0a1c36ee4d0493d75c21926134de8eaf6daa7cbd97c54310a0c46c9d40e9d019.png",
+    "assets/doro-motion/frames/0af7bad5d48bed8344d1d41690e81f06cdcf453b166aae3a2649225ab7e0cf65.png",
+    "assets/doro-motion/frames/0b6ffcd3160f6c6eb9d506c7e7e6047610531ae0440689dd4880cd1425da27e8.png",
+    "assets/doro-motion/frames/0c54ceaaff23e93e56359bc84d116bf8d07a57d795c66ef6e909d75433f9713c.png",
+    "assets/doro-motion/frames/0c786a61012a68fd21f6894781ab4ed7a166233b2ed404cd5640e31b8515f0c4.png",
+    "assets/doro-motion/frames/0cbb376977f01123fef3ed51a57388e9fb00d5aa2992393891a7a463fdb392bb.png",
+    "assets/doro-motion/frames/0eba795448fb827afdcf011347726016de2691d7af2ba331052ba4a88858aa9f.png",
+    "assets/doro-motion/frames/101495dc85f2f0b8c127f8a1467e5034020fe6f3694ab8906d95782124f5e2b3.png",
+    "assets/doro-motion/frames/108edb3f35d5a7101e822fbb6c71867c3b4ab9b5749cd66176f8fa602d9b1a1f.png",
+    "assets/doro-motion/frames/1249d7eabf14d9bdefc71771d7af775ad3b7b8f185029d3fa3ccde8fd14f5750.png",
+    "assets/doro-motion/frames/12d8ca88990a2400e47b39225162edbfcccedf82456e8d4ec10db3ed93b15cfb.png",
+    "assets/doro-motion/frames/1302f06c8f32b145db6dcd78b124a8e50717d36aeecea965a144fd01ec497b9f.png",
+    "assets/doro-motion/frames/13169aeda20f1cc87aeafa26094d6924777f568232d2effa8f06adc69851c25b.png",
+    "assets/doro-motion/frames/13d22dd5acc7aae950c91730ea66e68f92610aa90b7da9f482290f0e21b36007.png",
+    "assets/doro-motion/frames/145db7faa4031d30423334cff57d6375a0b3c8eaefa01823b201c153c18f7285.png",
+    "assets/doro-motion/frames/149cada66b27c7b69fb8ca536d903718461dfa53e26219891644278f02485a62.png",
+    "assets/doro-motion/frames/157fc1eb1e57f439fbe1033a5b72d06b5eb11dbc5d71c6b4bdddda83f588eec4.png",
+    "assets/doro-motion/frames/17a02f6be49aa2217d552e4ffaf4ffd4a37de600c0148a79118248de53d7359b.png",
+    "assets/doro-motion/frames/19cb639edb4c021d3ceae163140d5a7eb81e4ca05161a7dfe55bc5a47f15e5b9.png",
+    "assets/doro-motion/frames/1a495f15e82d57980aa72f67f302011adeb5f41a8a17f0dc5e5e5a5fcf5b5574.png",
+    "assets/doro-motion/frames/1ab626169633e0becaf413e572d080af654dd420efa2dbf9a6af584c7d7229cb.png",
+    "assets/doro-motion/frames/1b3f1b4bc93aa3ea4dee88ac95e8293933473285a59c6f020088d4a2cd557559.png",
+    "assets/doro-motion/frames/1f97e67f5dfd8e7fd07ae2935868cb992ee624e1ff664c904ccc9e519f302b30.png",
+    "assets/doro-motion/frames/2121103d61a8cabfacc04b1e9a9b50b5d0bfbf4148d12f962ee7fc287daea201.png",
+    "assets/doro-motion/frames/21241330b2b6166be4d0ff7a06d5009900dbe1ba0875d8d118aa2b7d6c4d5429.png",
+    "assets/doro-motion/frames/21778af5a76f33e572285528b216f803193fc740405f9d21173309409338b6d2.png",
+    "assets/doro-motion/frames/22e3d952e1d47c844ef5fd4da5f772dad8c18e3ef26072318ae47d80cbb176e0.png",
+    "assets/doro-motion/frames/231a967f30298f8b1cd25aad2416f6607d6f690cefa0257cd6f1b34341d7bb85.png",
+    "assets/doro-motion/frames/24bf4f99fda9491ad9c27c3cf32a18bcdf3a3d8d2b7035a6f9896082ef557723.png",
+    "assets/doro-motion/frames/24e46e8279dc4139d63d020d5686db0a576525987e074eccc935d485de6fc521.png",
+    "assets/doro-motion/frames/254467535d72e584dbc99b83898508b728fd8c1680838bab4ab04bd1b8a671a8.png",
+    "assets/doro-motion/frames/26a7402ef574415205cf97e2a6f5f3207a304e95620de583c22e7fcab4d91227.png",
+    "assets/doro-motion/frames/27836f1ce75e72f363f8fc0eab4d650b7631ca77cf16440069bf142c04eb7600.png",
+    "assets/doro-motion/frames/29ab70bc623eba745653c45e3543309ac701de5536040621297c0df75b2735d7.png",
+    "assets/doro-motion/frames/29eb029971cb5e9134cc8b3c23c9086bd189a72e89fe8f6b68ceea1ce3890168.png",
+    "assets/doro-motion/frames/2aa3243ffd0515c90d2b74f8677b35608593cd4d741975213ba77c78aeea18db.png",
+    "assets/doro-motion/frames/2c6bf75eaebd334526764a5837fcdce4ca3aef27d80e3547b4f933db80b5ef25.png",
+    "assets/doro-motion/frames/2d0e5e81fa6e079bfe35a4f44d489cdb45ce625d8c5027e59548e2b609e7d505.png",
+    "assets/doro-motion/frames/2ea1aa41c7437f4ec7f7973deb27e87482b5c5b15e283793ab2a526132e8748b.png",
+    "assets/doro-motion/frames/302fae7c81861122a7bd498d4f5a856b2390b9cc2c3a5f2cbeba3480e881e2a9.png",
+    "assets/doro-motion/frames/328f964767794bd18d4f8cd2b1b9c930350cede34a036cf07287dbce0d907c6a.png",
+    "assets/doro-motion/frames/339df9915244eedd20951a04938dadfa2a54d5c6efefacc937154682b954edad.png",
+    "assets/doro-motion/frames/354bdcb6639888a379d3e2b7fc6378b4f09d9d76a778da8e25d7ef0bb2ea1f98.png",
+    "assets/doro-motion/frames/35af03c20b0c87d59af31a086d72477c3d6fa82c4b204983fc7883f2a09f6a17.png",
+    "assets/doro-motion/frames/35ee4170262c0d03181fe8b5d146ec4807a3fa2b9a74d7a6f51e98536f1effbd.png",
+    "assets/doro-motion/frames/3625f85b312a58462c9b0d63cdfff5373471abacbe899af34e5fd2fa019bcbb3.png",
+    "assets/doro-motion/frames/36a720b392dab96f1d5dda0cdb875523b22e403b95f681e6f48997a42afc9f48.png",
+    "assets/doro-motion/frames/36fe3375ce1d1fe6325bd2f20baa35f6bb390421eff11a93216b763b28713110.png",
+    "assets/doro-motion/frames/37f2569c4a3cde9888443c362fd4c607d2238ff96686531457861704478b0ad6.png",
+    "assets/doro-motion/frames/38531803e305de66d15e150412f9327577377a021fd95ca52f7bbdbefd9771b1.png",
+    "assets/doro-motion/frames/389a7e436d690a9e4f57e320cc48c19156f9dc8a0f8f7ae6d768a646ee2f0059.png",
+    "assets/doro-motion/frames/3aa4345b3cef2e0769699a434d109643f66675445a7f63ea1118da594584e4dd.png",
+    "assets/doro-motion/frames/3c08c1c8608c58a747078ebe5e4ed7f4764cba683af45f90daa4c9ef02ae0fff.png",
+    "assets/doro-motion/frames/3d4c3c61da742809f0fc0666cd83b1dc9ba9bad6aba56601d622414540c33283.png",
+    "assets/doro-motion/frames/3d850f4b8698307faa1d8d00eef4796786dd990e3664fc09015014fa05c4d1d8.png",
+    "assets/doro-motion/frames/3e36d9a8387ce61fbd44a0a05a456300ca23fe118187f2dc09e2c2b1c2ef4a96.png",
+    "assets/doro-motion/frames/3f3647626146b3f940e3ee20471ce1e56ac4e8d56b800e153b8b4d9a96bcb7f1.png",
+    "assets/doro-motion/frames/3f3d3b61da752cbbb3f6e6e1b47865b91d0ca55e2b925ad080b35859f5423674.png",
+    "assets/doro-motion/frames/404f85b11be16e29bf0eb112f42d2cea591b6d42f1bffd638343c83e674c4c2b.png",
+    "assets/doro-motion/frames/41d677e7bec1114e58c773353122ba3bdd8d517aa25a90f30a9786f4f913e88b.png",
+    "assets/doro-motion/frames/4292234ff9ef51e4ada4e473c3aba7e82a8f08e32d23f52ca1cc79c5e97d81c4.png",
+    "assets/doro-motion/frames/43282afc0f8052ae5cb764e8014d17d7e453a916f39667c53e0d1c98e1ea8f9b.png",
+    "assets/doro-motion/frames/435198e23e0d40977b112e2ddb84ed17482fab4ec1feef9fa53d4531f37d5698.png",
+    "assets/doro-motion/frames/445e5110c012e406fa0df0cbbd5a2e58eb2fa018558dd15c7937f9c3117dc1a5.png",
+    "assets/doro-motion/frames/447b1b79369f4439c134b61f4cf64b13ec053007e644295e8040f6285ba2cf18.png",
+    "assets/doro-motion/frames/4698b9e85b9836e2d3573c5e2ebfd97e91e620ee446656c472833cbe49ae223c.png",
+    "assets/doro-motion/frames/46cacced6339e9106a991a2c7ed015a2a76b0b8c0b361b31e9fdc11d89ba8876.png",
+    "assets/doro-motion/frames/4727ac092579c53c4a902255bf3b8db6f93fe18f0bef58d17acdc676234f9123.png",
+    "assets/doro-motion/frames/47bac5a51dab1c7e1773eea1c8ffbfc43243551596187a29b6c0bf0a5b9950ae.png",
+    "assets/doro-motion/frames/4801a3fa57fd1b9a8d703cfe5423ffb935dcfa370b71b76e9e03b4b9cb4ef19e.png",
+    "assets/doro-motion/frames/484c458d6f447554eb2b6fd689429a3cc24e272fddc10ccaed54ed5de774f1c2.png",
+    "assets/doro-motion/frames/489701c658fe0267debc468c9e63e770fdee2a9524ccfcdbaac7f89a4fd4b0c2.png",
+    "assets/doro-motion/frames/49cb78bba021b82537450a86be4859e470a10baf8ce41a7e8d4a68e15db25a4d.png",
+    "assets/doro-motion/frames/4b62c3b8125dbf3dd1cf3308249e9ae0ec4b199b439d3d2debab62fb429e20ec.png",
+    "assets/doro-motion/frames/4c40808594454dffb56f50c7296a6d8d5e3435cd2c5512b87d12100dd7607bff.png",
+    "assets/doro-motion/frames/4cb28b2895753e789255454e72017c5d5adb954e8c95fee3b0531776508be10a.png",
+    "assets/doro-motion/frames/4d2dfcbd3a66d9d39a55fd1324ac19842b284062e88cad5ff28510c59fc118d0.png",
+    "assets/doro-motion/frames/4df50059c79f8c570a169ba376a93d15439e0402ef15381789ed6775305952df.png",
+    "assets/doro-motion/frames/4e1ae444c5c16933c9fef844e58f84b20b438934855937ffa4aee57bf64ac06e.png",
+    "assets/doro-motion/frames/4f1b20aa74ff4ac109d9465b9b8a1456485ecd1d3d714464ca000eb61caec820.png",
+    "assets/doro-motion/frames/4fc84932f3384ac0a6d5fad2ebf0274a8f535b8e1b200daccb8935e25df4a6bd.png",
+    "assets/doro-motion/frames/54881d78c5478d1f427730883f0c9753fd34db35f2e0f1066745313e328d87aa.png",
+    "assets/doro-motion/frames/54fe8366e42f55dff77c2a9ef6a13bd91a680d809d01556224a5063e8b53bc70.png",
+    "assets/doro-motion/frames/555c583467b4b0d3d7ddbd0406b2825342deba12d1f0824aad83d77d13e4c617.png",
+    "assets/doro-motion/frames/563c15ab954fa3452e0299ae919d9cd7d2c1313e8759dfc5b6c5a4f52322d9c9.png",
+    "assets/doro-motion/frames/565bf00f68d5afd7494373f9a06687ba4f54e9c7624a1d71cd926c90c67bf58b.png",
+    "assets/doro-motion/frames/56f11997536d4e876fd7055555798c01d5226cdfc548f1a939b5e5efc4e140d5.png",
+    "assets/doro-motion/frames/57629cc9af9b75036000ca08cfc26cc19b83c756fd777a645a24d176928cde1c.png",
+    "assets/doro-motion/frames/58d25f1bdc5c98857c5add14ecd9f83318240994fecaad9304f1103aec8fb3b4.png",
+    "assets/doro-motion/frames/58ff6d1cec58645cf1114489b804611ccaa6162f67843f651f9c8d3743e21369.png",
+    "assets/doro-motion/frames/5968646118d3226b8f9b44a6831d23493616cc49d4881e4d267b727ff29e0ec5.png",
+    "assets/doro-motion/frames/59997a625cb23d444f0c15e555f2b7646cc6087529033a4cf3b2c0399ccab308.png",
+    "assets/doro-motion/frames/59e4ed7d45d1923b8650886044be246f631f6e50c83153788df5d1695b9a6249.png",
+    "assets/doro-motion/frames/5d1a127b0cd24ee209a9aefcc44c089c70223e8120b3b35008a18dbde594d48c.png",
+    "assets/doro-motion/frames/5df75c1bc9d4318367e5ec96c52d2b1bcee8499f91d1581e6dd59b574c9ed7a6.png",
+    "assets/doro-motion/frames/5e0692a6a48b04921dabac037b2fac483d27aed5681e10d04c2cfd3a6ed4590b.png",
+    "assets/doro-motion/frames/5f1ce18db76764293a40fcee4b36a484fb656b749b14a066ed49f0389f978acd.png",
+    "assets/doro-motion/frames/601899f82a24a4a346a30d5b171e8cbcf9b3ea73ca5df4c698c866353e6d637f.png",
+    "assets/doro-motion/frames/602c04e9623ee427daa6d59965a0842356fdd250807ca1540feaaec4d3340abf.png",
+    "assets/doro-motion/frames/611a4d649a8492d24a29892ca3263c51745aa9b3afb737f2ded35718ea478a0f.png",
+    "assets/doro-motion/frames/623eb1b643ac590b88f01f83d794c197d32bbba218f3e83c6429bb57f58fa6b3.png",
+    "assets/doro-motion/frames/6257fd99745fb3cea3538b66ba57aa6697f76bb2e4862ff50c035d37e7647dc6.png",
+    "assets/doro-motion/frames/62b9a48922cea85f6d66155af0b97195dd0cb66c7196c0eb245ed2dde3b41ee3.png",
+    "assets/doro-motion/frames/6370bd680c8af37ad848a4cd26bf13ae6a773419d753e14ce0ee93b476f6e385.png",
+    "assets/doro-motion/frames/646821b2f0f9395e6014b9898eeaeef6fd38034f8b3e621696b8553b108fa021.png",
+    "assets/doro-motion/frames/65eef408f39e51b12893489a7c1cb83b40e5c3b92c1a76f7b4d62b26679e97b3.png",
+    "assets/doro-motion/frames/66cc72bc8337392d0f9955b18434af40a1f41d90a96bc694a5823ae42fbd80b1.png",
+    "assets/doro-motion/frames/66eee4282c872845d8739a5a9ddc87bf067e219214ab4c97d2de9b2e1e7facca.png",
+    "assets/doro-motion/frames/673229c1f41596d0888e973f1e60e555e8e3bfcac6f362a979359f107881b079.png",
+    "assets/doro-motion/frames/68416f38f75e883df06a675324ef498ee74a501ea1ee2ff09f7b462fef5b1031.png",
+    "assets/doro-motion/frames/68d6008dba2f5d242a758fdf1a003bd4f46f1df7705ea74946c635a22bb8208b.png",
+    "assets/doro-motion/frames/68f43dc2202bc3b5eb5a51eee17f803afc17208a511d45b82465ce2e0b650659.png",
+    "assets/doro-motion/frames/6923b9452de68b9ff6321dcd8459435b4cbc0cd7eaa1b93abff231a6c33ef31b.png",
+    "assets/doro-motion/frames/6a6674167c8656787956c78b1556651b97106496bb24357ee11ae31eaa766cfa.png",
+    "assets/doro-motion/frames/6a82e7296e99ade83a7d4b6e1d8365e09b7d277ba9c126d9df84abc8f0ea273c.png",
+    "assets/doro-motion/frames/6b5a62dd9cacdc09098096d8c8bf6040795377fb98a3489393a5b850bec2ac11.png",
+    "assets/doro-motion/frames/6baee73bfd89c38ff0f114b830eb6b64e77c8211fbb575f0b1297d0b91c83e43.png",
+    "assets/doro-motion/frames/6bfc02a4d4c6eae37cfbd5d2efcee3b00e9f53e08eda79da24609f61fb3acdae.png",
+    "assets/doro-motion/frames/6cabd02408991cba1c1e9602df47b2aa3189a4a2c6b185f743430076357fe96f.png",
+    "assets/doro-motion/frames/6e4be30f3f4a4b4b5f703f80a02a012768e2703e851db3a58cc4409d0fec96ef.png",
+    "assets/doro-motion/frames/6ed9d1d7ad0162f5e6c9320e4d596ae86f1dfbfd3d7a6eccf123eafc5af3262c.png",
+    "assets/doro-motion/frames/6efe78cba4a885d0183b13eb21ba8a50ac336a03f5283c88fa03ac1ee029ddcd.png",
+    "assets/doro-motion/frames/6fc8a3b2c7d542071e107273c9add45da27df8c96b78bb3db92f90a2c87b6145.png",
+    "assets/doro-motion/frames/7042199ccd95ae8bad295cc51d5446323d37bbcd1b36df6db33bcdad1dc99db5.png",
+    "assets/doro-motion/frames/70bfd7c6f1016708f4c82bad22060a711ec01d6d8b6f284a68aa8f1f14ffa4ed.png",
+    "assets/doro-motion/frames/724349a36998472d352693ed0348b146c7bc54b49a6e3c2830e48148313e7646.png",
+    "assets/doro-motion/frames/72d1497fd170d2c4345c9ea1bdef2c4e4b1457490c0b664315d2c7497977aeaa.png",
+    "assets/doro-motion/frames/748c0d852738ed9ae85589ee2473aab72c70f6396cae2b7f38a78c0127fcf6f4.png",
+    "assets/doro-motion/frames/7500e9f4f9bc49075d0c6c41606d03cbaf31cf2cb23ebf24d695d3f373e789b6.png",
+    "assets/doro-motion/frames/757685c795ba3749dad143a7b907d8755178437a6dbc18a036efc787a0ecefc5.png",
+    "assets/doro-motion/frames/7583e4ad031d7faff14e1734391d031cf8083d1a41adb4f0c4119a380a9c1c3e.png",
+    "assets/doro-motion/frames/76f3a0dc5238c2aeeba1cb6f95388e226bcab37fb8abdbb6bd8e7a367c24452b.png",
+    "assets/doro-motion/frames/7707a962ff4658fac688865746a947c3f67e8f5dc0895aacf195430d9e425f19.png",
+    "assets/doro-motion/frames/78c6a740cfec563a5accbc51b7f37ab660ac90663ca9731573535c267b442c18.png",
+    "assets/doro-motion/frames/7b7d9f8ac623d580def9d26fa8336746c73ddc9ce9816aa4c751d50b5667efeb.png",
+    "assets/doro-motion/frames/7bb6cc0ccad8b67587cc0ca5fb657adedac08f7f40280009e815c6a4b02f99d5.png",
+    "assets/doro-motion/frames/7bd6eee3787093783306e09bf01fe277f06d6149ac0b3360ecdc06416127bfb4.png",
+    "assets/doro-motion/frames/7e8bcda968bf44ab1a2ad518f211dd1d62bc0f7c2e93d00cd94c91b9d4cdb4e6.png",
+    "assets/doro-motion/frames/7e8d47de3115362a5b4e8d2e5d71cbe2e0f24bf1321917d9ccced1f8da71c973.png",
+    "assets/doro-motion/frames/7e9d23f584835eee1cbf99715fd357b7860f08bcd4f8f3ea97dd54fb47de77aa.png",
+    "assets/doro-motion/frames/7f3f5189b06ae51327200ee6e61807321b598806facab094bdd8ad6301defcea.png",
+    "assets/doro-motion/frames/7fbb405176091f9df1326137915a704fdac49f1ad563eeff04b9f7e0c4e3d9c0.png",
+    "assets/doro-motion/frames/81017c01f55c3547d79fb7b2dd62975766e1ff0d7ee80259d171d7f061cabae2.png",
+    "assets/doro-motion/frames/8169f90e1b363b18dc26263b074e3ee9245fb6b3ad1654d965944443c6ad0dd6.png",
+    "assets/doro-motion/frames/81b47e06ac304c574d62c7366f4af985be8a0f174c51c165915d848541c60088.png",
+    "assets/doro-motion/frames/8212f9a1885ca5653eca67a60a27dafc7d2a5d460366ea06fc27172260dd16b9.png",
+    "assets/doro-motion/frames/83623a0ca058b99aed07482ff14a217153d85abca9cad9b8e511523b230672eb.png",
+    "assets/doro-motion/frames/83c4b7f1c5387cd36355d026d3cb32525394d4ecf3ad3eeac7d690ab14ab060c.png",
+    "assets/doro-motion/frames/8422f1fee09eb4129298e4454efc09479db581857efa91f5d7abe47ba673575a.png",
+    "assets/doro-motion/frames/869e078777ab62c9a143856dc3c81a52314f5d344bf6c4619eef58d53e1980c5.png",
+    "assets/doro-motion/frames/87ccba5484439a8af08b029304125d93be41a62452f29401c066f500aeb2ecf9.png",
+    "assets/doro-motion/frames/8846ef97ce4b99bb3283a1cb8f6afa849e5d69aa17d0a1c09ec8468352312fc3.png",
+    "assets/doro-motion/frames/8b5052bb924147c1edb8672b4812f9ea7d64d542b300170ab609da939789e888.png",
+    "assets/doro-motion/frames/8c76fe7ef1c226dd7f55848279fed53843e42b9b7d804c7dca5d1e80f1f03d14.png",
+    "assets/doro-motion/frames/8e080acb8175959615ec3816cce47aeedf186b267c530b2fb14c915ae978cb56.png",
+    "assets/doro-motion/frames/8e8c696af8405735b94b6d37af470c21ec1b103f2d02e3e67c61f066a35b884e.png",
+    "assets/doro-motion/frames/8eba26063ba6a436a5e56e2a1a6088f73f19b54e792350a3896082cabce9043d.png",
+    "assets/doro-motion/frames/901dd47d866c4e388daf6817aec8ed8dbac2a81f139d5ce58513e5625cbcfcc4.png",
+    "assets/doro-motion/frames/909ecd6bac1c8008853d715bfd4268ad04dc7c97589fa9130e52ac7c3b66741a.png",
+    "assets/doro-motion/frames/90a4c0fe91c46cfdb279c3260ccde277601c7d8f3fdf58ab1564df581164b044.png",
+    "assets/doro-motion/frames/918d080092fba82ef1a37792d679c63434a8ec9534da661e367bf4087a98ecf3.png",
+    "assets/doro-motion/frames/927f77203a7c309eaf399bb23d522f68abc474b85a646a3b6b2211ed560b9225.png",
+    "assets/doro-motion/frames/92e831b7646dab99a68da3844f26fbffba79bfab9fcb262da76425afb24990fc.png",
+    "assets/doro-motion/frames/9460729bf8e5df879f70babe3c67f63aa3e8d1c0392612f7a9c85d07576cf42f.png",
+    "assets/doro-motion/frames/94b125c944450427bb31e53f7cdb8d280ca6989a96fdeb4bdf175fc7909d94db.png",
+    "assets/doro-motion/frames/951d0db9e9c1e379d4f5588c6c28d0d0610a94a6331f288165fb10cdac4cb693.png",
+    "assets/doro-motion/frames/97ca7c24d795b18c7829fdc298ddb586f2c0140b1f6a8ff74e3606f32f064097.png",
+    "assets/doro-motion/frames/98ca0c2fda7e6f9332d6a7887edcfc42329d53c6328a8b7dc0b3b119595f7c6d.png",
+    "assets/doro-motion/frames/99a898acf6337e449cb738fb2d42c28ad38d8fcfc15e97d557a52934da619a1f.png",
+    "assets/doro-motion/frames/9c5689aa6eae86c78f7545e8473fd1681d73b20348c54df77a428c33bb9f5e14.png",
+    "assets/doro-motion/frames/9ccf92b9a7620bb068b2f0b771e42b2409ea65d7aeaa19898b00127f0f53c4d8.png",
+    "assets/doro-motion/frames/9cfd964315edeba83812dac6ecf382c28640eea1c397769878b8607eb60478f8.png",
+    "assets/doro-motion/frames/9d965b796fca0a64dec8ecf6c33651a72a7cb97a9b96e85223b3282990c5cf70.png",
+    "assets/doro-motion/frames/9e46e68e6e02983ea91f8285aa970f71e094e9bcbd3b52584fc0191e23ce3bdd.png",
+    "assets/doro-motion/frames/9e7c4efde17af9cd64e8d457c19da4086cfefd1c2fcf619982f56c7cd2a78e24.png",
+    "assets/doro-motion/frames/9f69ba75475702d29248a3f5bd35285abc75731e2a7c853fd39307372e98b8df.png",
+    "assets/doro-motion/frames/a09f0b0a2a887aa905b96850d5f8dd3df6cc389bfc2dd42d718d15bb00d18972.png",
+    "assets/doro-motion/frames/a0f62b81eb9fa729567e60eda88d0e715b7352f01e64f16e1d727a97727b0df9.png",
+    "assets/doro-motion/frames/a15db7d699f26f10a208f3b542a92d54311a7fbc6307033ff5351ef161f208d8.png",
+    "assets/doro-motion/frames/a26ea4539cae7c86aae45f0b57ed555d1e16b17fb32cc6fe6e716b2d79d22716.png",
+    "assets/doro-motion/frames/a2ac82b7b70a0d58977fd41426240975d23fa2da0ad0f3e790db7b622a141d67.png",
+    "assets/doro-motion/frames/a5fb170e92e764f70bc81ebd5660a3791c7d0a80d69cae36be9c446803e9698f.png",
+    "assets/doro-motion/frames/a6893d9dd4e1b4d17c7d4b512dd5918cb59f898032b5a0f7de95a4ccf4a4da5b.png",
+    "assets/doro-motion/frames/a6c0f8c8a03b4e62ac16eed55b1ae10b856f1543537cfb75223129e10af75079.png",
+    "assets/doro-motion/frames/a6ef54a94181ce20e00a5a546096a8842c1e9a9c2fc47a090e717e11653311e2.png",
+    "assets/doro-motion/frames/a82e94750729672acc52e2fe922d915842da6c4dc79327bf0a5c3a21d0d75ad7.png",
+    "assets/doro-motion/frames/a9e2971480ed5e8ad7e9c14f2c9109ebabf871203fe3de6c8c4d0289b3cbadd2.png",
+    "assets/doro-motion/frames/aa286476973b1bc38527acbe5da62d2f2edd52fec95eb4776c4750dd8b8c3c1d.png",
+    "assets/doro-motion/frames/aa8aed9d00b3701f1be553872eec0c0549e2509923d956123b9ca40fcb817fb2.png",
+    "assets/doro-motion/frames/aae932ca8a482fd6286cdba473d3e96376f0232613fc7aa7c364c0e26d385821.png",
+    "assets/doro-motion/frames/abd667b75bee046ba2f3c440b80cd4a2293b035a4fe9e6fe53d789149cff3b7b.png",
+    "assets/doro-motion/frames/ac5fe07c012c30fc7435938f797481644359e9a716ead1e2df5860474cd9336d.png",
+    "assets/doro-motion/frames/acfd10501410fbad33a65b18ba298ff917f7f2ef057d2fbfbcc4a75e3a5aaf75.png",
+    "assets/doro-motion/frames/ae0e501cf7ad2f077e59fc181a1aed1b2df0b11d550f5115ffa791d10c5532e0.png",
+    "assets/doro-motion/frames/ae3f9824e9309da6bf21f0813f3ef50abec2feb3f1dee20ddf55724bf9611025.png",
+    "assets/doro-motion/frames/b0b894b36216adea674f215691953bf3743b0eb7fdd3f109f7c290391535dbbb.png",
+    "assets/doro-motion/frames/b190e41b9f137dbe385458212d4f38534e710503f1952c6876efbb6b36388352.png",
+    "assets/doro-motion/frames/b2756911b20906b777c322443306ef11befc92d896a16377c57f172c2d1a9529.png",
+    "assets/doro-motion/frames/b341aaeac58ff6b2edd83ce1506dc309b7228d010d196e4ac090e820b69d6435.png",
+    "assets/doro-motion/frames/b35937b2987f65e162b032f0db153e11ffb1f0dcfd4bdddb3d5caf0613f0fc8f.png",
+    "assets/doro-motion/frames/b3b603c91e38cb602d1d7aa5600db5113c9b607a3f13954de56cd3b757afaeb4.png",
+    "assets/doro-motion/frames/b4a4f3d3b3c7fab38250a72a1f37c927a49a84ca2c612921e2161401eea33786.png",
+    "assets/doro-motion/frames/b50cb100eaba5f9d82cf1c9b12d374f6505d2225fc287a044cbe9883e4fa4b4d.png",
+    "assets/doro-motion/frames/b5e0de639de711396b986d9c05bc47cf8a9f6a930e6dddec0d2a2fad862c8ecd.png",
+    "assets/doro-motion/frames/b6e58f198a9b1f36aebf1697c6d7f513e956fb8375e3561de9446dc2c56f8dc2.png",
+    "assets/doro-motion/frames/b6eee9e5e4554e8a03555f5462b21b0f0e004aaa896635f72b00051a563a36cc.png",
+    "assets/doro-motion/frames/b729594a1642aa9235aa6b12a366a42fc956450bfbd98142a452a8eb2b8ebd7d.png",
+    "assets/doro-motion/frames/b78125b08ec007416b85d13538377d8919d4a641fcf89ffcaf3354f61104a16a.png",
+    "assets/doro-motion/frames/b7e4f56b00ff2f51330c6738e8b12badf43fa65ec35852d055477f92c08d45de.png",
+    "assets/doro-motion/frames/b8a3f80a654878855c8582376362bff35ecaf49c7e878ac0a3f49a9345430e82.png",
+    "assets/doro-motion/frames/b8c729a914784c9f081776417c095cd475075aa1de66674c69674a2f5b73fc8e.png",
+    "assets/doro-motion/frames/bd8441d314df8080fcb3fb3c878c036bb1eb9c86639e365d0e24dc5626b26d6a.png",
+    "assets/doro-motion/frames/bdb227705ecff95935515b99d604bd1910dec1e1193ecd7f42567a3202ad8645.png",
+    "assets/doro-motion/frames/c02db0e65f66245d088f5c9f6c96864b2e3d4148648a1a10269d5a4b874291a8.png",
+    "assets/doro-motion/frames/c1842f48ee64a86884499c45cd8faa71e7d19d0b066ce4aee68e80633f23da8e.png",
+    "assets/doro-motion/frames/c2464da4e15ab69808c9d3950213fd37443d41ebbaa1ad02ad8029652a444131.png",
+    "assets/doro-motion/frames/c4571d11a9554e40501097591e7f8ecff199a67f5d1a4628df0cbe9d51848c62.png",
+    "assets/doro-motion/frames/c4edc0de598d3bdafc534504c32fa7ca9d2cee79142c1cc252d8624b2c283acb.png",
+    "assets/doro-motion/frames/c517b9bcd8ace5bdf6e8cb8082b2183abf4700e28b05d9755f7146847271d05d.png",
+    "assets/doro-motion/frames/c53adb531632bf80347daac953f8ae1cd3aa00b5614af6259d337ead8c393c15.png",
+    "assets/doro-motion/frames/c66cc164c0d69345c83f87576c576ca78a71f9c889cfbfc9c9feaeace97523c9.png",
+    "assets/doro-motion/frames/c6a163a615adbf37f2b8bdcb9756f127037b33a514fcf3a39a4521ec7c612e70.png",
+    "assets/doro-motion/frames/c6e752fa63a2e22443e2c431640fe0d575d3ca082bdb0abbcb75de6d3b9417fd.png",
+    "assets/doro-motion/frames/c7b61cc416d18218678ee671c761b3cc7c7bc9d97b098c127faf4e81543490ba.png",
+    "assets/doro-motion/frames/c8d27ee9d7cfaed5838a274e3886515c8be1f583e8304de2be66e880fd196eda.png",
+    "assets/doro-motion/frames/cca231d5f59ff99a8e98f73f1e792c8a88e563e9123ab466ebdb35325109f870.png",
+    "assets/doro-motion/frames/ceb9569ca1d97aef2d365f31ab01049bd234920e8f048702da03a2d9b51b88af.png",
+    "assets/doro-motion/frames/cf15464e4762a9c01d0dc7199be69e4896f8e546db9bed55e7024ca23a81ea55.png",
+    "assets/doro-motion/frames/d10a0720ea01ce60ce665cac61541c7f28186e2859e201da538fac537b249ce7.png",
+    "assets/doro-motion/frames/d1448779a3c44d8659395e5582fda72baa90a84e20ed38979eb5a8be723fa12d.png",
+    "assets/doro-motion/frames/d1a2a6cdf9249ca636245aa7e46cd10c18f816a9ae308667e2dd9271af2930a9.png",
+    "assets/doro-motion/frames/d1aef54caad4d1ca1e08ab326710f6340741a54a1cbdb0f655416d5504003f72.png",
+    "assets/doro-motion/frames/d24520abd801a8e4a43ffc94ba7ae885ff7ee447482c46682240fb06ea29145b.png",
+    "assets/doro-motion/frames/d2b510ba534b1843d8255aa18e13e1cf3566d6e4fb80354696009e86563848c5.png",
+    "assets/doro-motion/frames/d4c193f0b0202a962d4b54554e13e2a0eeac6ae191e8c3ddb7fc48ebc54edcb1.png",
+    "assets/doro-motion/frames/d6e45acdb9ed7dfdf1bc174f4378138300856d6ffb341deb495a69af4937e34a.png",
+    "assets/doro-motion/frames/d733aed974f74678cecab203952793a966f268f5572ff083e5ca3d2eadca7149.png",
+    "assets/doro-motion/frames/db6f846b426b8edb18542fd28849b1caa98f2c62a08dc47f85866b6cbf91d37a.png",
+    "assets/doro-motion/frames/db7f6549ce82ac5b766cce743a55d147482ff2f42a2c8c14f76ec07f31d34f13.png",
+    "assets/doro-motion/frames/dbbf490c6cf706602224cee31c6a7361d85ba2e9672a6d0d11d019078bac8411.png",
+    "assets/doro-motion/frames/dbf5c4655ad8d938748ad2eb90b06de0ff56a05f26a632ca73255d1725257158.png",
+    "assets/doro-motion/frames/dc44bb0e0bd242ff658e109f60e19948590ebf80208560842fd9157b442500cc.png",
+    "assets/doro-motion/frames/dd3dcd7a36e822cc3120b52600f5787f2ec5a1fad75a049567147ae1795c0dec.png",
+    "assets/doro-motion/frames/df4c855ef3e4e600b8f16ea48673afeedcb0e157b5168a05b43a9a1125657a8e.png",
+    "assets/doro-motion/frames/df58f878938e113f8967228b06ee1400b84ec493b3f3271b5996bddb712051d9.png",
+    "assets/doro-motion/frames/e089eaad53ba9231ee333ce25530b572c96353dcadc176966c232a9bbe91c989.png",
+    "assets/doro-motion/frames/e11ab50baa934057ed3644e31ae77e2609880fe15f0942f0d9e9148abb1bf0e7.png",
+    "assets/doro-motion/frames/e3f5b4531b1c0501f87f8b8d2a1631de960579f783e71fcb2f80f81bf670bc17.png",
+    "assets/doro-motion/frames/e47dc24eea40da408f8997bc514b31c92929dd59158d12d003c4c29393efe90d.png",
+    "assets/doro-motion/frames/e5f27355162366ddbeddd1e635974af3cc0c899abaf1f8916d7dea652588670f.png",
+    "assets/doro-motion/frames/e61c9b79198ee38748a80b54d013162077d59b8bf2989dce63d8b8998526de19.png",
+    "assets/doro-motion/frames/e73da68825be2a4a9b4f2b17f4f4fbc10e473a0c642a8625c80a09c1e1862fd0.png",
+    "assets/doro-motion/frames/e75360ae7597524500d2946857d512e935b2647932118666f2ed91577be37bb9.png",
+    "assets/doro-motion/frames/ead95339d9b4b1697f21fd6fb7689ec226d7ec9a7df6a2924c838a41e71809d6.png",
+    "assets/doro-motion/frames/ec28e56a29c5427d6d6033b603aee1a99febed0a3f26828e1322af3a1a235aa0.png",
+    "assets/doro-motion/frames/f32e860b46c154c7f60dce995745d02b33275abd59f6283f498f309adb24911b.png",
+    "assets/doro-motion/frames/f3c0d63aa7bed19be093e13ffec1de0036594b581ee90176c74685b49fc44d2d.png",
+    "assets/doro-motion/frames/f3e922dfc598dc4d1f51905128c88b19782541235d27deb78aef7b9bea7b8188.png",
+    "assets/doro-motion/frames/f4fdd981081002381b04e10e40828ea94b15377502db28d66bebd729e12099c4.png",
+    "assets/doro-motion/frames/f52e2850b5ebf7c33fa2b3747f201f97445bcf01d2ab8a53a1f6610b4ebc6fcd.png",
+    "assets/doro-motion/frames/f654764de8f494f6cbe81a627ced42cfd76f68cb87f15b48b63ccc5916d4f781.png",
+    "assets/doro-motion/frames/f669c4d177ffd8383a8fe53b5f303659bb730ac0b483e8510043bfeb3d9cd883.png",
+    "assets/doro-motion/frames/f7b49b4a1314d678254334624e53172ecf9e71d4877082164b5d9a00614c5808.png",
+    "assets/doro-motion/frames/fd41ac991c0d63882db65d8648b8081c15272871ffb7d2f4f348b9cf03245168.png",
+    "assets/doro-motion/frames/fe64f3036143220b3d7bc0a4b4ea684e941ea47bad8dc01470ff60d7a51b62f7.png",
+    "assets/doro-motion/frames/feb677f1086a932e6e3b2ea7319a0c628b28c1c262f0db8faeb6ef1ed0b0bbfb.png",
+    "assets/doro-motion/frames/fef1c5e80692156139d6779327de6e2645bdbc6c439338e31f3accc46a9aac16.png",
+    "assets/doro-motion/frames/ffda5f1fbd7f9b4471410106a379714e1d1c30b2ee7c63b5c450f64ca4f0623c.png"
+  ],
+  "sequence_owner_labels": {
+    "97493-dorowiggle-e85fd06d": {
+      "before": "idle",
+      "after": "ambient_wiggle"
+    },
+    "83517-doroclap-1d18fa89": {
+      "before": "cue_turn_finished",
+      "after": "cue_celebrate_1"
+    },
+    "32749-doroapproves-7fa07596": {
+      "before": "cue_turn_finished",
+      "after": "cue_reminder_done_4"
+    },
+    "92580-dorolurk-d249a21f": {
+      "before": "cue_quit",
+      "after": "touch_edge_left"
+    },
+    "45561-dorohappy-a1b54197": {
+      "before": "idle",
+      "after": "cue_turn_finished"
+    },
+    "69408-doropression-8b1b7871": {
+      "before": "idle",
+      "after": "cue_turn_finished"
+    },
+    "original-fall-left-loop": {
+      "before": "cue_drag",
+      "after": "touch_fall_left"
+    },
+    "original-fall-right-loop": {
+      "before": "cue_drag",
+      "after": "touch_fall_right"
+    },
+    "die-landing-recover": {
+      "before": null,
+      "after": "touch_fall_left"
+    }
+  },
+  "sequences": 111,
+  "frames": 1258,
+  "runtime_mappings_unchanged": true,
+  "active_frame_bytes_and_timings_unchanged": true,
+  "reason": "Retain superseded artwork as source history while shipping only reachable sequences. Runtime mappings, active PNGs and frame timings match the reviewed 1.1.5 pack."
+}
